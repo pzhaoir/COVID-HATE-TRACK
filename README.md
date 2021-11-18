@@ -1,5 +1,5 @@
 # COVID-HATE-TRACK
-COVID HATE TRACK dataset was generated in a existing research.
+COVID HATE TRACK dataset was generated in a existing research. Please use the citation below, if you use the data collected from this research.
 ### Zhao, P., Chen, X., & Wang, X. (2021). Classifying COVID-19-related hate Twitter users using deep neural networks with sentiment-based features and geopolitical factors. International Journal of Society Systems Science, 13(2), 125-139.
 
 # Introduction
