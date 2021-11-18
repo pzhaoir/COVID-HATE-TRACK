@@ -1,0 +1,6 @@
+# COVID-HATE-TRACK
+## COVID HATE TRACK dataset was generated in a existing research.
+## Zhao, P., Chen, X., & Wang, X. (2021). Classifying COVID-19-related hate Twitter users using deep neural networks with sentiment-based features and geopolitical factors. International Journal of Society Systems Science, 13(2), 125-139.
+
+# Introduction
+Anti-Asian hate tweets caused by COVID-19 pandemic is an ongoing social problem in the United States and around the world. Existing studies have been done by using a text classifier, however, little is known about how deep learning works with public sentiments of political opinions and geographical diversities. This paper provides a new method to classify the pandemic-related anti-Asian hater on Twitter. A novel dataset of tracking pandemic-related Twitter users, which contains more than 10 million tweets, is created in this study. Target users are annotated by identifying their sentiments towards the U.S. elections with their geolocations. The empirical result indicates that the political sentiments and the county-level election results make significant contributions to the model building. By training a DNN model, over 190,000 Twitter users are classified as hate or non-hate with a 61% accuracy and a 0.63 AUC score.
