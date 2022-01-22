@@ -1,0 +1,4633 @@
+,Election Year,State,State Vote,County,County Vote
+0,2020,Delaware,Blue,Kent,Blue
+1,2020,Delaware,Blue,New Castle,Blue
+2,2020,Delaware,Blue,Sussex,Red
+3,2020,D.C.,Blue,Ward 1,Blue
+4,2020,D.C.,Blue,Ward 2,Blue
+5,2020,D.C.,Blue,Ward 3,Blue
+6,2020,D.C.,Blue,Ward 4,Blue
+7,2020,D.C.,Blue,Ward 5,Blue
+8,2020,D.C.,Blue,Ward 6,Blue
+9,2020,D.C.,Blue,Ward 7,Blue
+10,2020,D.C.,Blue,Ward 8,Blue
+11,2020,Florida,Red,Alachua,Blue
+12,2020,Florida,Red,Baker,Red
+13,2020,Florida,Red,Bay,Red
+14,2020,Florida,Red,Bradford,Red
+15,2020,Florida,Red,Brevard,Red
+16,2020,Florida,Red,Broward,Blue
+17,2020,Florida,Red,Calhoun,Red
+18,2020,Florida,Red,Charlotte,Red
+19,2020,Florida,Red,Citrus,Red
+20,2020,Florida,Red,Clay,Red
+21,2020,Florida,Red,Collier,Red
+22,2020,Florida,Red,Columbia,Red
+23,2020,Florida,Red,Miami-Dade,Blue
+24,2020,Florida,Red,DeSoto,Red
+25,2020,Florida,Red,Dixie,Red
+26,2020,Florida,Red,Duval,Blue
+27,2020,Florida,Red,Escambia,Red
+28,2020,Florida,Red,Flagler,Red
+29,2020,Florida,Red,Franklin,Red
+30,2020,Florida,Red,Gadsden,Blue
+31,2020,Florida,Red,Gilchrist,Red
+32,2020,Florida,Red,Glades,Red
+33,2020,Florida,Red,Gulf,Red
+34,2020,Florida,Red,Hamilton,Red
+35,2020,Florida,Red,Hardee,Red
+36,2020,Florida,Red,Hendry,Red
+37,2020,Florida,Red,Hernando,Red
+38,2020,Florida,Red,Highlands,Red
+39,2020,Florida,Red,Hillsborough,Blue
+40,2020,Florida,Red,Holmes,Red
+41,2020,Florida,Red,Indian River,Red
+42,2020,Florida,Red,Jackson,Red
+43,2020,Florida,Red,Jefferson,Red
+44,2020,Florida,Red,Lafayette,Red
+45,2020,Florida,Red,Lake,Red
+46,2020,Florida,Red,Lee,Red
+47,2020,Florida,Red,Leon,Blue
+48,2020,Florida,Red,Levy,Red
+49,2020,Florida,Red,Liberty,Red
+50,2020,Florida,Red,Madison,Red
+51,2020,Florida,Red,Manatee,Red
+52,2020,Florida,Red,Marion,Red
+53,2020,Florida,Red,Martin,Red
+54,2020,Florida,Red,Monroe,Red
+55,2020,Florida,Red,Nassau,Red
+56,2020,Florida,Red,Okaloosa,Red
+57,2020,Florida,Red,Okeechobee,Red
+58,2020,Florida,Red,Orange,Blue
+59,2020,Florida,Red,Osceola,Blue
+60,2020,Florida,Red,Palm Beach,Blue
+61,2020,Florida,Red,Pasco,Red
+62,2020,Florida,Red,Pinellas,Blue
+63,2020,Florida,Red,Polk,Red
+64,2020,Florida,Red,Putnam,Red
+65,2020,Florida,Red,St. Johns,Red
+66,2020,Florida,Red,St. Lucie,Red
+67,2020,Florida,Red,Santa Rosa,Red
+68,2020,Florida,Red,Sarasota,Red
+69,2020,Florida,Red,Seminole,Blue
+70,2020,Florida,Red,Sumter,Red
+71,2020,Florida,Red,Suwannee,Red
+72,2020,Florida,Red,Taylor,Red
+73,2020,Florida,Red,Union,Red
+74,2020,Florida,Red,Volusia,Red
+75,2020,Florida,Red,Wakulla,Red
+76,2020,Florida,Red,Walton,Red
+77,2020,Florida,Red,Washington,Red
+78,2020,Hawaii,Blue,Hawaii,Blue
+79,2020,Hawaii,Blue,Honolulu,Blue
+80,2020,Hawaii,Blue,Kauai,Blue
+81,2020,Hawaii,Blue,Maui,Blue
+82,2020,Idaho,Red,Ada,Red
+83,2020,Idaho,Red,Adams,Red
+84,2020,Idaho,Red,Bannock,Red
+85,2020,Idaho,Red,Bear Lake,Red
+86,2020,Idaho,Red,Benewah,Red
+87,2020,Idaho,Red,Bingham,Red
+88,2020,Idaho,Red,Blaine,Blue
+89,2020,Idaho,Red,Boise,Red
+90,2020,Idaho,Red,Bonner,Red
+91,2020,Idaho,Red,Bonneville,Red
+92,2020,Idaho,Red,Boundary,Red
+93,2020,Idaho,Red,Butte,Red
+94,2020,Idaho,Red,Camas,Red
+95,2020,Idaho,Red,Canyon,Red
+96,2020,Idaho,Red,Caribou,Red
+97,2020,Idaho,Red,Cassia,Red
+98,2020,Idaho,Red,Clark,Red
+99,2020,Idaho,Red,Clearwater,Red
+100,2020,Idaho,Red,Custer,Red
+101,2020,Idaho,Red,Elmore,Red
+102,2020,Idaho,Red,Franklin,Red
+103,2020,Idaho,Red,Fremont,Red
+104,2020,Idaho,Red,Gem,Red
+105,2020,Idaho,Red,Gooding,Red
+106,2020,Idaho,Red,Idaho County,Red
+107,2020,Idaho,Red,Jefferson,Red
+108,2020,Idaho,Red,Jerome,Red
+109,2020,Idaho,Red,Kootenai,Red
+110,2020,Idaho,Red,Latah,Blue
+111,2020,Idaho,Red,Lemhi,Red
+112,2020,Idaho,Red,Lewis,Red
+113,2020,Idaho,Red,Lincoln,Red
+114,2020,Idaho,Red,Madison,Red
+115,2020,Idaho,Red,Minidoka,Red
+116,2020,Idaho,Red,Nez Perce,Red
+117,2020,Idaho,Red,Oneida,Red
+118,2020,Idaho,Red,Owyhee,Red
+119,2020,Idaho,Red,Payette,Red
+120,2020,Idaho,Red,Power,Red
+121,2020,Idaho,Red,Shoshone,Red
+122,2020,Idaho,Red,Teton,Blue
+123,2020,Idaho,Red,Twin Falls,Red
+124,2020,Idaho,Red,Valley,Red
+125,2020,Idaho,Red,Washington,Red
+126,2020,Illinois,Blue,Adams,Red
+127,2020,Illinois,Blue,Alexander,Red
+128,2020,Illinois,Blue,Bond,Red
+129,2020,Illinois,Blue,Boone,Red
+130,2020,Illinois,Blue,Brown,Red
+131,2020,Illinois,Blue,Bureau,Red
+132,2020,Illinois,Blue,Calhoun,Red
+133,2020,Illinois,Blue,Carroll,Red
+134,2020,Illinois,Blue,Cass,Red
+135,2020,Illinois,Blue,Champaign,Blue
+136,2020,Illinois,Blue,Christian,Red
+137,2020,Illinois,Blue,Clark,Red
+138,2020,Illinois,Blue,Clay,Red
+139,2020,Illinois,Blue,Clinton,Red
+140,2020,Illinois,Blue,Coles,Red
+141,2020,Illinois,Blue,Cook,Blue
+142,2020,Illinois,Blue,Crawford,Red
+143,2020,Illinois,Blue,Cumberland,Red
+144,2020,Illinois,Blue,DeKalb,Blue
+145,2020,Illinois,Blue,DeWitt,Red
+146,2020,Illinois,Blue,Douglas,Red
+147,2020,Illinois,Blue,DuPage,Blue
+148,2020,Illinois,Blue,Edgar,Red
+149,2020,Illinois,Blue,Edwards,Red
+150,2020,Illinois,Blue,Effingham,Red
+151,2020,Illinois,Blue,Fayette,Red
+152,2020,Illinois,Blue,Ford,Red
+153,2020,Illinois,Blue,Franklin,Red
+154,2020,Illinois,Blue,Fulton,Red
+155,2020,Illinois,Blue,Gallatin,Red
+156,2020,Illinois,Blue,Greene,Red
+157,2020,Illinois,Blue,Grundy,Red
+158,2020,Illinois,Blue,Hamilton,Red
+159,2020,Illinois,Blue,Hancock,Red
+160,2020,Illinois,Blue,Hardin,0%
+161,2020,Illinois,Blue,Henderson,Red
+162,2020,Illinois,Blue,Henry,Red
+163,2020,Illinois,Blue,Iroquois,Red
+164,2020,Illinois,Blue,Jackson,Blue
+165,2020,Illinois,Blue,Jasper,Red
+166,2020,Illinois,Blue,Jefferson,Red
+167,2020,Illinois,Blue,Jersey,Red
+168,2020,Illinois,Blue,JoDaviess,Red
+169,2020,Illinois,Blue,Johnson,Red
+170,2020,Illinois,Blue,Kane,Blue
+171,2020,Illinois,Blue,Kankakee,Red
+172,2020,Illinois,Blue,Kendall,Blue
+173,2020,Illinois,Blue,Knox,Red
+174,2020,Illinois,Blue,Lake,Blue
+175,2020,Illinois,Blue,LaSalle,Red
+176,2020,Illinois,Blue,Lawrence,Red
+177,2020,Illinois,Blue,Lee,Red
+178,2020,Illinois,Blue,Livingston,Red
+179,2020,Illinois,Blue,Logan,Red
+180,2020,Illinois,Blue,Macon,Red
+181,2020,Illinois,Blue,Macoupin,Red
+182,2020,Illinois,Blue,Madison,Red
+183,2020,Illinois,Blue,Marion,Red
+184,2020,Illinois,Blue,Marshall,Red
+185,2020,Illinois,Blue,Mason,Red
+186,2020,Illinois,Blue,Massac,Red
+187,2020,Illinois,Blue,McDonough,Red
+188,2020,Illinois,Blue,McHenry,Red
+189,2020,Illinois,Blue,McLean,Blue
+190,2020,Illinois,Blue,Menard,Red
+191,2020,Illinois,Blue,Mercer,Red
+192,2020,Illinois,Blue,Monroe,Red
+193,2020,Illinois,Blue,Montgomery,Red
+194,2020,Illinois,Blue,Morgan,Red
+195,2020,Illinois,Blue,Moultrie,Red
+196,2020,Illinois,Blue,Ogle,Red
+197,2020,Illinois,Blue,Peoria,Blue
+198,2020,Illinois,Blue,Perry,Red
+199,2020,Illinois,Blue,Piatt,Red
+200,2020,Illinois,Blue,Pike,Red
+201,2020,Illinois,Blue,Pope,Red
+202,2020,Illinois,Blue,Pulaski,Red
+203,2020,Illinois,Blue,Putnam,Red
+204,2020,Illinois,Blue,Randolph,Red
+205,2020,Illinois,Blue,Richland,Red
+206,2020,Illinois,Blue,Rock Island,Blue
+207,2020,Illinois,Blue,Saline,Red
+208,2020,Illinois,Blue,Sangamon,Red
+209,2020,Illinois,Blue,Schuyler,Red
+210,2020,Illinois,Blue,Scott,Red
+211,2020,Illinois,Blue,Shelby,Red
+212,2020,Illinois,Blue,St. Clair,Blue
+213,2020,Illinois,Blue,Stark,Red
+214,2020,Illinois,Blue,Stephenson,Red
+215,2020,Illinois,Blue,Tazewell,Red
+216,2020,Illinois,Blue,Union,Red
+217,2020,Illinois,Blue,Vermilion,Red
+218,2020,Illinois,Blue,Wabash,Red
+219,2020,Illinois,Blue,Warren,Red
+220,2020,Illinois,Blue,Washington,Red
+221,2020,Illinois,Blue,Wayne,Red
+222,2020,Illinois,Blue,White,Red
+223,2020,Illinois,Blue,Whiteside,Red
+224,2020,Illinois,Blue,Will,Blue
+225,2020,Illinois,Blue,Williamson,Red
+226,2020,Illinois,Blue,Winnebago,Red
+227,2020,Illinois,Blue,Woodford,Red
+228,2020,Indiana,Red,Adams,Red
+229,2020,Indiana,Red,Allen,Red
+230,2020,Indiana,Red,Bartholomew,Red
+231,2020,Indiana,Red,Benton,Red
+232,2020,Indiana,Red,Blackford,Red
+233,2020,Indiana,Red,Boone,Red
+234,2020,Indiana,Red,Brown,Red
+235,2020,Indiana,Red,Carroll,Red
+236,2020,Indiana,Red,Cass,Red
+237,2020,Indiana,Red,Clark,Red
+238,2020,Indiana,Red,Clay,Red
+239,2020,Indiana,Red,Clinton,Red
+240,2020,Indiana,Red,Crawford,Red
+241,2020,Indiana,Red,Daviess,Red
+242,2020,Indiana,Red,Dearborn,Red
+243,2020,Indiana,Red,Decatur,Red
+244,2020,Indiana,Red,DeKalb,Red
+245,2020,Indiana,Red,Delaware,Red
+246,2020,Indiana,Red,Dubois,Red
+247,2020,Indiana,Red,Elkhart,Red
+248,2020,Indiana,Red,Fayette,Red
+249,2020,Indiana,Red,Floyd,Red
+250,2020,Indiana,Red,Fountain,Red
+251,2020,Indiana,Red,Franklin,Red
+252,2020,Indiana,Red,Fulton,Red
+253,2020,Indiana,Red,Gibson,Red
+254,2020,Indiana,Red,Grant,Red
+255,2020,Indiana,Red,Greene,Red
+256,2020,Indiana,Red,Hamilton,Red
+257,2020,Indiana,Red,Hancock,Red
+258,2020,Indiana,Red,Harrison,Red
+259,2020,Indiana,Red,Hendricks,Red
+260,2020,Indiana,Red,Henry,Red
+261,2020,Indiana,Red,Howard,Red
+262,2020,Indiana,Red,Huntington,Red
+263,2020,Indiana,Red,Jackson,Red
+264,2020,Indiana,Red,Jasper,Red
+265,2020,Indiana,Red,Jay,Red
+266,2020,Indiana,Red,Jefferson,Red
+267,2020,Indiana,Red,Jennings,Red
+268,2020,Indiana,Red,Johnson,Red
+269,2020,Indiana,Red,Knox,Red
+270,2020,Indiana,Red,Kosciusko,Red
+271,2020,Indiana,Red,LaGrange,Red
+272,2020,Indiana,Red,Lake,Blue
+273,2020,Indiana,Red,LaPorte,Red
+274,2020,Indiana,Red,Lawrence,Red
+275,2020,Indiana,Red,Madison,Red
+276,2020,Indiana,Red,Marion,Blue
+277,2020,Indiana,Red,Marshall,Red
+278,2020,Indiana,Red,Martin,Red
+279,2020,Indiana,Red,Miami,Red
+280,2020,Indiana,Red,Monroe,Blue
+281,2020,Indiana,Red,Montgomery,Red
+282,2020,Indiana,Red,Morgan,Red
+283,2020,Indiana,Red,Newton,Red
+284,2020,Indiana,Red,Noble,Red
+285,2020,Indiana,Red,Ohio,Red
+286,2020,Indiana,Red,Orange,Red
+287,2020,Indiana,Red,Owen,Red
+288,2020,Indiana,Red,Parke,Red
+289,2020,Indiana,Red,Perry,Red
+290,2020,Indiana,Red,Pike,Red
+291,2020,Indiana,Red,Porter,Red
+292,2020,Indiana,Red,Posey,Red
+293,2020,Indiana,Red,Pulaski,Red
+294,2020,Indiana,Red,Putnam,Red
+295,2020,Indiana,Red,Randolph,Red
+296,2020,Indiana,Red,Ripley,Red
+297,2020,Indiana,Red,Rush,Red
+298,2020,Indiana,Red,St. Joseph,Blue
+299,2020,Indiana,Red,Scott,Red
+300,2020,Indiana,Red,Shelby,Red
+301,2020,Indiana,Red,Spencer,Red
+302,2020,Indiana,Red,Starke,Red
+303,2020,Indiana,Red,Steuben,Red
+304,2020,Indiana,Red,Sullivan,Red
+305,2020,Indiana,Red,Switzerland,Red
+306,2020,Indiana,Red,Tippecanoe,Blue
+307,2020,Indiana,Red,Tipton,Red
+308,2020,Indiana,Red,Union,Red
+309,2020,Indiana,Red,Vanderburgh,Red
+310,2020,Indiana,Red,Vermillion,Red
+311,2020,Indiana,Red,Vigo,Red
+312,2020,Indiana,Red,Wabash,Red
+313,2020,Indiana,Red,Warren,Red
+314,2020,Indiana,Red,Warrick,Red
+315,2020,Indiana,Red,Washington,Red
+316,2020,Indiana,Red,Wayne,Red
+317,2020,Indiana,Red,Wells,Red
+318,2020,Indiana,Red,White,Red
+319,2020,Indiana,Red,Whitley,Red
+320,2020,Iowa,Red,Adair,Red
+321,2020,Iowa,Red,Adams,Red
+322,2020,Iowa,Red,Allamakee,Red
+323,2020,Iowa,Red,Appanoose,Red
+324,2020,Iowa,Red,Audubon,Red
+325,2020,Iowa,Red,Benton,Red
+326,2020,Iowa,Red,Black Hawk,Blue
+327,2020,Iowa,Red,Boone,Red
+328,2020,Iowa,Red,Bremer,Red
+329,2020,Iowa,Red,Buchanan,Red
+330,2020,Iowa,Red,Buena Vista,Red
+331,2020,Iowa,Red,Butler,Red
+332,2020,Iowa,Red,Calhoun,Red
+333,2020,Iowa,Red,Carroll,Red
+334,2020,Iowa,Red,Cass,Red
+335,2020,Iowa,Red,Cedar,Red
+336,2020,Iowa,Red,Cerro Gordo,Red
+337,2020,Iowa,Red,Cherokee,Red
+338,2020,Iowa,Red,Chickasaw,Red
+339,2020,Iowa,Red,Clarke,Red
+340,2020,Iowa,Red,Clay,Red
+341,2020,Iowa,Red,Clayton,Red
+342,2020,Iowa,Red,Clinton,Red
+343,2020,Iowa,Red,Crawford,Red
+344,2020,Iowa,Red,Dallas,Red
+345,2020,Iowa,Red,Davis,Red
+346,2020,Iowa,Red,Decatur,Red
+347,2020,Iowa,Red,Delaware,Red
+348,2020,Iowa,Red,Des Moines,Red
+349,2020,Iowa,Red,Dickinson,Red
+350,2020,Iowa,Red,Dubuque,Red
+351,2020,Iowa,Red,Emmet,Red
+352,2020,Iowa,Red,Fayette,Red
+353,2020,Iowa,Red,Floyd,Red
+354,2020,Iowa,Red,Franklin,Red
+355,2020,Iowa,Red,Fremont,Red
+356,2020,Iowa,Red,Greene,Red
+357,2020,Iowa,Red,Grundy,Red
+358,2020,Iowa,Red,Guthrie,Red
+359,2020,Iowa,Red,Hamilton,Red
+360,2020,Iowa,Red,Hancock,Red
+361,2020,Iowa,Red,Hardin,Red
+362,2020,Iowa,Red,Harrison,Red
+363,2020,Iowa,Red,Henry,Red
+364,2020,Iowa,Red,Howard,Red
+365,2020,Iowa,Red,Humboldt,Red
+366,2020,Iowa,Red,Ida,Red
+367,2020,Iowa,Red,Iowa,Red
+368,2020,Iowa,Red,Jackson,Red
+369,2020,Iowa,Red,Jasper,Red
+370,2020,Iowa,Red,Jefferson,Red
+371,2020,Iowa,Red,Johnson,Blue
+372,2020,Iowa,Red,Jones,Red
+373,2020,Iowa,Red,Keokuk,Red
+374,2020,Iowa,Red,Kossuth,Red
+375,2020,Iowa,Red,Lee,Red
+376,2020,Iowa,Red,Linn,Blue
+377,2020,Iowa,Red,Louisa,Red
+378,2020,Iowa,Red,Lucas,Red
+379,2020,Iowa,Red,Lyon,Red
+380,2020,Iowa,Red,Madison,Red
+381,2020,Iowa,Red,Mahaska,Red
+382,2020,Iowa,Red,Marion,Red
+383,2020,Iowa,Red,Marshall,Red
+384,2020,Iowa,Red,Mills,Red
+385,2020,Iowa,Red,Mitchell,Red
+386,2020,Iowa,Red,Monona,Red
+387,2020,Iowa,Red,Monroe,Red
+388,2020,Iowa,Red,Montgomery,Red
+389,2020,Iowa,Red,Muscatine,Red
+390,2020,Iowa,Red,O'Brien,Red
+391,2020,Iowa,Red,Osceola,Red
+392,2020,Iowa,Red,Page,Red
+393,2020,Iowa,Red,Palo Alto,Red
+394,2020,Iowa,Red,Plymouth,Red
+395,2020,Iowa,Red,Pocahontas,Red
+396,2020,Iowa,Red,Polk,Blue
+397,2020,Iowa,Red,Pottawattamie,Red
+398,2020,Iowa,Red,Poweshiek,Red
+399,2020,Iowa,Red,Ringgold,Red
+400,2020,Iowa,Red,Sac,Red
+401,2020,Iowa,Red,Scott,Blue
+402,2020,Iowa,Red,Shelby,Red
+403,2020,Iowa,Red,Sioux,Red
+404,2020,Iowa,Red,Story,Blue
+405,2020,Iowa,Red,Tama,Red
+406,2020,Iowa,Red,Taylor,Red
+407,2020,Iowa,Red,Union,Red
+408,2020,Iowa,Red,Van Buren,Red
+409,2020,Iowa,Red,Wapello,Red
+410,2020,Iowa,Red,Warren,Red
+411,2020,Iowa,Red,Washington,Red
+412,2020,Iowa,Red,Wayne,Red
+413,2020,Iowa,Red,Webster,Red
+414,2020,Iowa,Red,Winnebago,Red
+415,2020,Iowa,Red,Winneshiek,Red
+416,2020,Iowa,Red,Woodbury,Red
+417,2020,Iowa,Red,Worth,Red
+418,2020,Iowa,Red,Wright,Red
+419,2020,Kansas,Red,Allen,Red
+420,2020,Kansas,Red,Anderson,Red
+421,2020,Kansas,Red,Atchison,Red
+422,2020,Kansas,Red,Barber,Red
+423,2020,Kansas,Red,Barton,Red
+424,2020,Kansas,Red,Bourbon,Red
+425,2020,Kansas,Red,Brown,Red
+426,2020,Kansas,Red,Butler,Red
+427,2020,Kansas,Red,Chase,Red
+428,2020,Kansas,Red,Chautauqua,Red
+429,2020,Kansas,Red,Cherokee,Red
+430,2020,Kansas,Red,Cheyenne,Red
+431,2020,Kansas,Red,Clark,Red
+432,2020,Kansas,Red,Clay,Red
+433,2020,Kansas,Red,Cloud,Red
+434,2020,Kansas,Red,Coffey,Red
+435,2020,Kansas,Red,Comanche,Red
+436,2020,Kansas,Red,Cowley,Red
+437,2020,Kansas,Red,Crawford,Red
+438,2020,Kansas,Red,Decatur,Red
+439,2020,Kansas,Red,Dickinson,Red
+440,2020,Kansas,Red,Doniphan,Red
+441,2020,Kansas,Red,Douglas,Blue
+442,2020,Kansas,Red,Edwards,Red
+443,2020,Kansas,Red,Elk,Red
+444,2020,Kansas,Red,Ellis,Red
+445,2020,Kansas,Red,Ellsworth,Red
+446,2020,Kansas,Red,Finney,Red
+447,2020,Kansas,Red,Ford,Red
+448,2020,Kansas,Red,Franklin,Red
+449,2020,Kansas,Red,Geary,Red
+450,2020,Kansas,Red,Gove,Red
+451,2020,Kansas,Red,Graham,Red
+452,2020,Kansas,Red,Grant,Red
+453,2020,Kansas,Red,Gray,Red
+454,2020,Kansas,Red,Greeley,Red
+455,2020,Kansas,Red,Greenwood,Red
+456,2020,Kansas,Red,Hamilton,Red
+457,2020,Kansas,Red,Harper,Red
+458,2020,Kansas,Red,Harvey,Red
+459,2020,Kansas,Red,Haskell,Red
+460,2020,Kansas,Red,Hodgeman,Red
+461,2020,Kansas,Red,Jackson,Red
+462,2020,Kansas,Red,Jefferson,Red
+463,2020,Kansas,Red,Jewell,Red
+464,2020,Kansas,Red,Johnson,Blue
+465,2020,Kansas,Red,Kearny,Red
+466,2020,Kansas,Red,Kingman,Red
+467,2020,Kansas,Red,Kiowa,Red
+468,2020,Kansas,Red,Labette,Red
+469,2020,Kansas,Red,Lane,Red
+470,2020,Kansas,Red,Leavenworth,Red
+471,2020,Kansas,Red,Lincoln,Red
+472,2020,Kansas,Red,Linn,Red
+473,2020,Kansas,Red,Logan,Red
+474,2020,Kansas,Red,Lyon,Red
+475,2020,Kansas,Red,McPherson,Red
+476,2020,Kansas,Red,Marion,Red
+477,2020,Kansas,Red,Marshall,Red
+478,2020,Kansas,Red,Meade,Red
+479,2020,Kansas,Red,Miami,Red
+480,2020,Kansas,Red,Mitchell,Red
+481,2020,Kansas,Red,Montgomery,Red
+482,2020,Kansas,Red,Morris,Red
+483,2020,Kansas,Red,Morton,Red
+484,2020,Kansas,Red,Nemaha,Red
+485,2020,Kansas,Red,Neosho,Red
+486,2020,Kansas,Red,Ness,Red
+487,2020,Kansas,Red,Norton,Red
+488,2020,Kansas,Red,Osage,Red
+489,2020,Kansas,Red,Osborne,Red
+490,2020,Kansas,Red,Ottawa,Red
+491,2020,Kansas,Red,Pawnee,Red
+492,2020,Kansas,Red,Phillips,Red
+493,2020,Kansas,Red,Pottawatomie,Red
+494,2020,Kansas,Red,Pratt,Red
+495,2020,Kansas,Red,Rawlins,Red
+496,2020,Kansas,Red,Reno,Red
+497,2020,Kansas,Red,Republic,Red
+498,2020,Kansas,Red,Rice,Red
+499,2020,Kansas,Red,Riley,Blue
+500,2020,Kansas,Red,Rooks,Red
+501,2020,Kansas,Red,Rush,Red
+502,2020,Kansas,Red,Russell,Red
+503,2020,Kansas,Red,Saline,Red
+504,2020,Kansas,Red,Scott,Red
+505,2020,Kansas,Red,Sedgwick,Red
+506,2020,Kansas,Red,Seward,Red
+507,2020,Kansas,Red,Shawnee,Blue
+508,2020,Kansas,Red,Sheridan,Red
+509,2020,Kansas,Red,Sherman,Red
+510,2020,Kansas,Red,Smith,Red
+511,2020,Kansas,Red,Stafford,Red
+512,2020,Kansas,Red,Stanton,Red
+513,2020,Kansas,Red,Stevens,Red
+514,2020,Kansas,Red,Sumner,Red
+515,2020,Kansas,Red,Thomas,Red
+516,2020,Kansas,Red,Trego,Red
+517,2020,Kansas,Red,Wabaunsee,Red
+518,2020,Kansas,Red,Wallace,Red
+519,2020,Kansas,Red,Washington,Red
+520,2020,Kansas,Red,Wichita,Red
+521,2020,Kansas,Red,Wilson,Red
+522,2020,Kansas,Red,Woodson,Red
+523,2020,Kansas,Red,Wyandotte,Blue
+524,2020,Kentucky,Red,Adair,Red
+525,2020,Kentucky,Red,Allen,Red
+526,2020,Kentucky,Red,Anderson,Red
+527,2020,Kentucky,Red,Ballard,Red
+528,2020,Kentucky,Red,Barren,Red
+529,2020,Kentucky,Red,Bath,Red
+530,2020,Kentucky,Red,Bell,Red
+531,2020,Kentucky,Red,Boone,Red
+532,2020,Kentucky,Red,Bourbon,Red
+533,2020,Kentucky,Red,Boyd,Red
+534,2020,Kentucky,Red,Boyle,Red
+535,2020,Kentucky,Red,Bracken,Red
+536,2020,Kentucky,Red,Breathitt,Red
+537,2020,Kentucky,Red,Breckinridge,Red
+538,2020,Kentucky,Red,Bullitt,Red
+539,2020,Kentucky,Red,Butler,Red
+540,2020,Kentucky,Red,Caldwell,Red
+541,2020,Kentucky,Red,Calloway,Red
+542,2020,Kentucky,Red,Campbell,Red
+543,2020,Kentucky,Red,Carlisle,Red
+544,2020,Kentucky,Red,Carroll,Red
+545,2020,Kentucky,Red,Carter,Red
+546,2020,Kentucky,Red,Casey,Red
+547,2020,Kentucky,Red,Christian,Red
+548,2020,Kentucky,Red,Clark,Red
+549,2020,Kentucky,Red,Clay,Red
+550,2020,Kentucky,Red,Clinton,Red
+551,2020,Kentucky,Red,Crittenden,Red
+552,2020,Kentucky,Red,Cumberland,Red
+553,2020,Kentucky,Red,Daviess,Red
+554,2020,Kentucky,Red,Edmonson,Red
+555,2020,Kentucky,Red,Elliott,Red
+556,2020,Kentucky,Red,Estill,Red
+557,2020,Kentucky,Red,Fayette,Blue
+558,2020,Kentucky,Red,Fleming,Red
+559,2020,Kentucky,Red,Floyd,Red
+560,2020,Kentucky,Red,Franklin,Red
+561,2020,Kentucky,Red,Fulton,Red
+562,2020,Kentucky,Red,Gallatin,Red
+563,2020,Kentucky,Red,Garrard,Red
+564,2020,Kentucky,Red,Grant,Red
+565,2020,Kentucky,Red,Graves,Red
+566,2020,Kentucky,Red,Grayson,Red
+567,2020,Kentucky,Red,Green,Red
+568,2020,Kentucky,Red,Greenup,Red
+569,2020,Kentucky,Red,Hancock,Red
+570,2020,Kentucky,Red,Hardin,Red
+571,2020,Kentucky,Red,Harlan,Red
+572,2020,Kentucky,Red,Harrison,Red
+573,2020,Kentucky,Red,Hart,Red
+574,2020,Kentucky,Red,Henderson,Red
+575,2020,Kentucky,Red,Henry,Red
+576,2020,Kentucky,Red,Hickman,Red
+577,2020,Kentucky,Red,Hopkins,Red
+578,2020,Kentucky,Red,Jackson,Red
+579,2020,Kentucky,Red,Jefferson,Blue
+580,2020,Kentucky,Red,Jessamine,Red
+581,2020,Kentucky,Red,Johnson,Red
+582,2020,Kentucky,Red,Kenton,Red
+583,2020,Kentucky,Red,Knott,Red
+584,2020,Kentucky,Red,Knox,Red
+585,2020,Kentucky,Red,LaRue,Red
+586,2020,Kentucky,Red,Laurel,Red
+587,2020,Kentucky,Red,Lawrence,Red
+588,2020,Kentucky,Red,Lee,Red
+589,2020,Kentucky,Red,Leslie,Red
+590,2020,Kentucky,Red,Letcher,Red
+591,2020,Kentucky,Red,Lewis,Red
+592,2020,Kentucky,Red,Lincoln,Red
+593,2020,Kentucky,Red,Livingston,Red
+594,2020,Kentucky,Red,Logan,Red
+595,2020,Kentucky,Red,Lyon,Red
+596,2020,Kentucky,Red,McCracken,Red
+597,2020,Kentucky,Red,McCreary,Red
+598,2020,Kentucky,Red,McLean,Red
+599,2020,Kentucky,Red,Madison,Red
+600,2020,Kentucky,Red,Magoffin,Red
+601,2020,Kentucky,Red,Marion,Red
+602,2020,Kentucky,Red,Marshall,Red
+603,2020,Kentucky,Red,Martin,Red
+604,2020,Kentucky,Red,Mason,Red
+605,2020,Kentucky,Red,Meade,Red
+606,2020,Kentucky,Red,Menifee,Red
+607,2020,Kentucky,Red,Mercer,Red
+608,2020,Kentucky,Red,Metcalfe,Red
+609,2020,Kentucky,Red,Monroe,Red
+610,2020,Kentucky,Red,Montgomery,Red
+611,2020,Kentucky,Red,Morgan,Red
+612,2020,Kentucky,Red,Muhlenberg,Red
+613,2020,Kentucky,Red,Nelson,Red
+614,2020,Kentucky,Red,Nicholas,Red
+615,2020,Kentucky,Red,Ohio,Red
+616,2020,Kentucky,Red,Oldham,Red
+617,2020,Kentucky,Red,Owen,Red
+618,2020,Kentucky,Red,Owsley,Red
+619,2020,Kentucky,Red,Pendleton,Red
+620,2020,Kentucky,Red,Perry,Red
+621,2020,Kentucky,Red,Pike,Red
+622,2020,Kentucky,Red,Powell,Red
+623,2020,Kentucky,Red,Pulaski,Red
+624,2020,Kentucky,Red,Robertson,Red
+625,2020,Kentucky,Red,Rockcastle,Red
+626,2020,Kentucky,Red,Rowan,Red
+627,2020,Kentucky,Red,Russell,Red
+628,2020,Kentucky,Red,Scott,Red
+629,2020,Kentucky,Red,Shelby,Red
+630,2020,Kentucky,Red,Simpson,Red
+631,2020,Kentucky,Red,Spencer,Red
+632,2020,Kentucky,Red,Taylor,Red
+633,2020,Kentucky,Red,Todd,Red
+634,2020,Kentucky,Red,Trigg,Red
+635,2020,Kentucky,Red,Trimble,Red
+636,2020,Kentucky,Red,Union,Red
+637,2020,Kentucky,Red,Warren,Red
+638,2020,Kentucky,Red,Washington,Red
+639,2020,Kentucky,Red,Wayne,Red
+640,2020,Kentucky,Red,Webster,Red
+641,2020,Kentucky,Red,Whitley,Red
+642,2020,Kentucky,Red,Wolfe,Red
+643,2020,Kentucky,Red,Woodford,Red
+644,2020,Louisiana,Red,Acadia,Red
+645,2020,Louisiana,Red,Allen,Red
+646,2020,Louisiana,Red,Ascension,Red
+647,2020,Louisiana,Red,Assumption,Red
+648,2020,Louisiana,Red,Avoyelles,Red
+649,2020,Louisiana,Red,Beauregard,Red
+650,2020,Louisiana,Red,Bienville,Red
+651,2020,Louisiana,Red,Bossier,Red
+652,2020,Louisiana,Red,Caddo,Blue
+653,2020,Louisiana,Red,Calcasieu,Red
+654,2020,Louisiana,Red,Caldwell,Red
+655,2020,Louisiana,Red,Cameron,Red
+656,2020,Louisiana,Red,Catahoula,Red
+657,2020,Louisiana,Red,Claiborne,Red
+658,2020,Louisiana,Red,Concordia,Red
+659,2020,Louisiana,Red,DeSoto,Red
+660,2020,Louisiana,Red,East Baton Rouge,Blue
+661,2020,Louisiana,Red,East Carroll,Blue
+662,2020,Louisiana,Red,East Feliciana,Red
+663,2020,Louisiana,Red,Evangeline,Red
+664,2020,Louisiana,Red,Franklin,Red
+665,2020,Louisiana,Red,Grant,Red
+666,2020,Louisiana,Red,Iberia,Red
+667,2020,Louisiana,Red,Iberville,Blue
+668,2020,Louisiana,Red,Jackson,Red
+669,2020,Louisiana,Red,Jefferson,Red
+670,2020,Louisiana,Red,Jeff Davis,Red
+671,2020,Louisiana,Red,Lafayette,Red
+672,2020,Louisiana,Red,Lafourche,Red
+673,2020,Louisiana,Red,LaSalle,Red
+674,2020,Louisiana,Red,Lincoln,Red
+675,2020,Louisiana,Red,Livingston,Red
+676,2020,Louisiana,Red,Madison,Blue
+677,2020,Louisiana,Red,Morehouse,Red
+678,2020,Louisiana,Red,Natchitoches,Red
+679,2020,Louisiana,Red,Orleans,Blue
+680,2020,Louisiana,Red,Ouachita,Red
+681,2020,Louisiana,Red,Plaquemines,Red
+682,2020,Louisiana,Red,Pointe Coupee,Red
+683,2020,Louisiana,Red,Rapides,Red
+684,2020,Louisiana,Red,Red River,Red
+685,2020,Louisiana,Red,Richland,Red
+686,2020,Louisiana,Red,Sabine,Red
+687,2020,Louisiana,Red,St. Bernard,Red
+688,2020,Louisiana,Red,St. Charles,Red
+689,2020,Louisiana,Red,St. Helena,Blue
+690,2020,Louisiana,Red,St. James,Blue
+691,2020,Louisiana,Red,St. John the Baptist,Blue
+692,2020,Louisiana,Red,St. Landry,Red
+693,2020,Louisiana,Red,St. Martin,Red
+694,2020,Louisiana,Red,St. Mary,Red
+695,2020,Louisiana,Red,St. Tammany,Red
+696,2020,Louisiana,Red,Tangipahoa,Red
+697,2020,Louisiana,Red,Tensas,Blue
+698,2020,Louisiana,Red,Terrebonne,Red
+699,2020,Louisiana,Red,Union,Red
+700,2020,Louisiana,Red,Vermilion,Red
+701,2020,Louisiana,Red,Vernon,Red
+702,2020,Louisiana,Red,Washington,Red
+703,2020,Louisiana,Red,Webster,Red
+704,2020,Louisiana,Red,West Baton Rouge,Red
+705,2020,Louisiana,Red,West Carroll,Red
+706,2020,Louisiana,Red,West Feliciana,Red
+707,2020,Louisiana,Red,Winn,Red
+708,2020,Maine,Blue,Abbot,Red
+709,2020,Maine,Blue,Acton,Red
+710,2020,Maine,Blue,Addison,Red
+711,2020,Maine,Blue,Albion,Red
+712,2020,Maine,Blue,Alexander,Red
+713,2020,Maine,Blue,Alfred,Blue
+714,2020,Maine,Blue,Allagash,Red
+715,2020,Maine,Blue,Alna,Blue
+716,2020,Maine,Blue,Alton,0%
+717,2020,Maine,Blue,Amherst,0%
+718,2020,Maine,Blue,Amity,0%
+719,2020,Maine,Blue,Andover,Red
+720,2020,Maine,Blue,Anson,Red
+721,2020,Maine,Blue,Appleton,Blue
+722,2020,Maine,Blue,Arrowsic,Blue
+723,2020,Maine,Blue,Arundel,Blue
+724,2020,Maine,Blue,Ashland,0%
+725,2020,Maine,Blue,Athens,Red
+726,2020,Maine,Blue,Atkinson,Red
+727,2020,Maine,Blue,Auburn,Blue
+728,2020,Maine,Blue,Augusta,Blue
+729,2020,Maine,Blue,Aurora,0%
+730,2020,Maine,Blue,Avon,0%
+731,2020,Maine,Blue,Baileyville,Red
+732,2020,Maine,Blue,Baldwin,Red
+733,2020,Maine,Blue,Bangor,Blue
+734,2020,Maine,Blue,Bar Harbor,Blue
+735,2020,Maine,Blue,Baring Plt.,0%
+736,2020,Maine,Blue,Bath,Blue
+737,2020,Maine,Blue,Beals,0%
+738,2020,Maine,Blue,Beaver Cove,0%
+739,2020,Maine,Blue,Beddington,0%
+740,2020,Maine,Blue,Belfast,Blue
+741,2020,Maine,Blue,Belgrade,Red
+742,2020,Maine,Blue,Belmont,Red
+743,2020,Maine,Blue,Benton,Red
+744,2020,Maine,Blue,Berwick,Blue
+745,2020,Maine,Blue,Bethel,Blue
+746,2020,Maine,Blue,Biddeford,Blue
+747,2020,Maine,Blue,Bingham,Red
+748,2020,Maine,Blue,Blaine,0%
+749,2020,Maine,Blue,Blue Hill,Blue
+750,2020,Maine,Blue,Boothbay,Blue
+751,2020,Maine,Blue,Boothbay Harbor,Blue
+752,2020,Maine,Blue,Bowdoin,Red
+753,2020,Maine,Blue,Bowdoinham,Blue
+754,2020,Maine,Blue,Bowerbank,0%
+755,2020,Maine,Blue,Bradford,0%
+756,2020,Maine,Blue,Bradley,Red
+757,2020,Maine,Blue,Bremen,0%
+758,2020,Maine,Blue,Brewer,Red
+759,2020,Maine,Blue,Bridgewater,Red
+760,2020,Maine,Blue,Bridgton,Blue
+761,2020,Maine,Blue,Brighton Plt.,0%
+762,2020,Maine,Blue,Bristol,Blue
+763,2020,Maine,Blue,Brooklin,Blue
+764,2020,Maine,Blue,Brooks,Red
+765,2020,Maine,Blue,Brooksville,Blue
+766,2020,Maine,Blue,Brownfield,Blue
+767,2020,Maine,Blue,Brownville,Red
+768,2020,Maine,Blue,Brunswick,Blue
+769,2020,Maine,Blue,Buckfield,Red
+770,2020,Maine,Blue,Bucksport,Red
+771,2020,Maine,Blue,Burlington,Red
+772,2020,Maine,Blue,Burnham,Red
+773,2020,Maine,Blue,Buxton,Red
+774,2020,Maine,Blue,Byron,0%
+775,2020,Maine,Blue,Calais,Red
+776,2020,Maine,Blue,Cambridge,0%
+777,2020,Maine,Blue,Camden,Blue
+778,2020,Maine,Blue,Canaan,Red
+779,2020,Maine,Blue,Canton,Red
+780,2020,Maine,Blue,Cape Elizabeth,Blue
+781,2020,Maine,Blue,Caratunk,0%
+782,2020,Maine,Blue,Caribou,Red
+783,2020,Maine,Blue,Carmel,Red
+784,2020,Maine,Blue,Carrabassett Valley,Blue
+785,2020,Maine,Blue,Carroll Plt.,Red
+786,2020,Maine,Blue,Carthage,0%
+787,2020,Maine,Blue,Cary Plt.,0%
+788,2020,Maine,Blue,Casco,Red
+789,2020,Maine,Blue,Castine,Blue
+790,2020,Maine,Blue,Castle Hill,Red
+791,2020,Maine,Blue,Caswell,0%
+792,2020,Maine,Blue,Chapman,Red
+793,2020,Maine,Blue,Charleston,Red
+794,2020,Maine,Blue,Charlotte,0%
+795,2020,Maine,Blue,Chelsea,Red
+796,2020,Maine,Blue,Cherryfield,Red
+797,2020,Maine,Blue,Chester,0%
+798,2020,Maine,Blue,Chesterville,0%
+799,2020,Maine,Blue,China,Red
+800,2020,Maine,Blue,Clifton,Red
+801,2020,Maine,Blue,Clinton,Red
+802,2020,Maine,Blue,Columbia,0%
+803,2020,Maine,Blue,Columbia Falls,Red
+804,2020,Maine,Blue,Cooper,Red
+805,2020,Maine,Blue,Coplin Plt.,0%
+806,2020,Maine,Blue,Corinna,Red
+807,2020,Maine,Blue,Corinth,Red
+808,2020,Maine,Blue,Cornish,Red
+809,2020,Maine,Blue,Cornville,Red
+810,2020,Maine,Blue,Cranberry Isles,Blue
+811,2020,Maine,Blue,Crawford,0%
+812,2020,Maine,Blue,Crystal,Red
+813,2020,Maine,Blue,Cumberland,Blue
+814,2020,Maine,Blue,Cushing,Red
+815,2020,Maine,Blue,Cutler,0%
+816,2020,Maine,Blue,Cyr Plt.,0%
+817,2020,Maine,Blue,Dallas Plt.,0%
+818,2020,Maine,Blue,Damariscotta,Blue
+819,2020,Maine,Blue,Danforth,0%
+820,2020,Maine,Blue,Dayton,Red
+821,2020,Maine,Blue,Deblois,0%
+822,2020,Maine,Blue,Dedham,Red
+823,2020,Maine,Blue,Deer Isle,Blue
+824,2020,Maine,Blue,Denmark,Blue
+825,2020,Maine,Blue,Dennistown Plt.,0%
+826,2020,Maine,Blue,Dennysville,0%
+827,2020,Maine,Blue,Detroit,Red
+828,2020,Maine,Blue,Dexter,Red
+829,2020,Maine,Blue,Dixfield,Red
+830,2020,Maine,Blue,Dixmont,Red
+831,2020,Maine,Blue,Dover-Foxcroft,Red
+832,2020,Maine,Blue,Dresden,Red
+833,2020,Maine,Blue,Drew Plt.,0%
+834,2020,Maine,Blue,Durham,Blue
+835,2020,Maine,Blue,Dyer Brook,Red
+836,2020,Maine,Blue,Eagle Lake,Red
+837,2020,Maine,Blue,Eastbrook,0%
+838,2020,Maine,Blue,East Machias,Red
+839,2020,Maine,Blue,East Millinocket,Red
+840,2020,Maine,Blue,Easton,Red
+841,2020,Maine,Blue,Eastport,Blue
+842,2020,Maine,Blue,Eddington,Red
+843,2020,Maine,Blue,Edgecomb,0%
+844,2020,Maine,Blue,Edinburg,0%
+845,2020,Maine,Blue,Eliot,Blue
+846,2020,Maine,Blue,Ellsworth,Red
+847,2020,Maine,Blue,Embden,Red
+848,2020,Maine,Blue,Enfield,Red
+849,2020,Maine,Blue,Etna,Red
+850,2020,Maine,Blue,Eustis,Red
+851,2020,Maine,Blue,Exeter,Red
+852,2020,Maine,Blue,Fairfield,Red
+853,2020,Maine,Blue,Falmouth,Blue
+854,2020,Maine,Blue,Farmingdale,Blue
+855,2020,Maine,Blue,Farmington,Blue
+856,2020,Maine,Blue,Fayette,Red
+857,2020,Maine,Blue,Fort Fairfield,Red
+858,2020,Maine,Blue,Fort Kent,Red
+859,2020,Maine,Blue,Frankfort,Red
+860,2020,Maine,Blue,Franklin,Red
+861,2020,Maine,Blue,Freedom,Red
+862,2020,Maine,Blue,Freeport,Blue
+863,2020,Maine,Blue,Frenchboro,Red
+864,2020,Maine,Blue,Frenchville,Red
+865,2020,Maine,Blue,Friendship,Red
+866,2020,Maine,Blue,Fryeburg,Blue
+867,2020,Maine,Blue,Gardiner,Blue
+868,2020,Maine,Blue,Garfield Plt.,0%
+869,2020,Maine,Blue,Garland,Red
+870,2020,Maine,Blue,Georgetown,Blue
+871,2020,Maine,Blue,Gilead,0%
+872,2020,Maine,Blue,Glenburn,Red
+873,2020,Maine,Blue,Glenwood Plt.,0%
+874,2020,Maine,Blue,Gorham,Blue
+875,2020,Maine,Blue,Gouldsboro,Red
+876,2020,Maine,Blue,Grand Isle,Red
+877,2020,Maine,Blue,Grand Lake Stream Plt,Red
+878,2020,Maine,Blue,Gray,Blue
+879,2020,Maine,Blue,Great Pond,Red
+880,2020,Maine,Blue,Greenbush,Red
+881,2020,Maine,Blue,Greene,Red
+882,2020,Maine,Blue,Greenville,Red
+883,2020,Maine,Blue,Greenwood,Blue
+884,2020,Maine,Blue,Guilford,Red
+885,2020,Maine,Blue,Hallowell,Blue
+886,2020,Maine,Blue,Hamlin,0%
+887,2020,Maine,Blue,Hammond,0%
+888,2020,Maine,Blue,Hampden,Blue
+889,2020,Maine,Blue,Hancock,Red
+890,2020,Maine,Blue,Hanover,Blue
+891,2020,Maine,Blue,Harmony,0%
+892,2020,Maine,Blue,Harpswell,Blue
+893,2020,Maine,Blue,Harrington,Red
+894,2020,Maine,Blue,Harrison,Red
+895,2020,Maine,Blue,Hartford,Red
+896,2020,Maine,Blue,Hartland,Red
+897,2020,Maine,Blue,Haynesville,0%
+898,2020,Maine,Blue,Hebron,Red
+899,2020,Maine,Blue,Hermon,Red
+900,2020,Maine,Blue,Hersey,Red
+901,2020,Maine,Blue,Highland Plt.,Red
+902,2020,Maine,Blue,Hiram,Red
+903,2020,Maine,Blue,Hodgdon,Red
+904,2020,Maine,Blue,Holden,Red
+905,2020,Maine,Blue,Hollis,Red
+906,2020,Maine,Blue,Hope,Blue
+907,2020,Maine,Blue,Houlton,Red
+908,2020,Maine,Blue,Howland,Red
+909,2020,Maine,Blue,Hudson,Red
+910,2020,Maine,Blue,Penobscot Nation Vot Dst,0%
+911,2020,Maine,Blue,Indian Township Vtng Dst,0%
+912,2020,Maine,Blue,Industry,Red
+913,2020,Maine,Blue,Island Falls,Red
+914,2020,Maine,Blue,Isle Au Haut,0%
+915,2020,Maine,Blue,Islesboro,Blue
+916,2020,Maine,Blue,Jackman,0%
+917,2020,Maine,Blue,Jackson,Red
+918,2020,Maine,Blue,Jay,Red
+919,2020,Maine,Blue,Jefferson,Red
+920,2020,Maine,Blue,Jonesboro,0%
+921,2020,Maine,Blue,Jonesport,Red
+922,2020,Maine,Blue,Kenduskeag,Red
+923,2020,Maine,Blue,Kennebunk,Blue
+924,2020,Maine,Blue,Kennebunkport,Blue
+925,2020,Maine,Blue,Kingfield,Red
+926,2020,Maine,Blue,Kingsbury Plt.,0%
+927,2020,Maine,Blue,Kittery,Blue
+928,2020,Maine,Blue,Knox,Red
+929,2020,Maine,Blue,LaGrange,0%
+930,2020,Maine,Blue,Lake View Plt.,0%
+931,2020,Maine,Blue,Lakeville,0%
+932,2020,Maine,Blue,Lamoine,Blue
+933,2020,Maine,Blue,Lebanon,Red
+934,2020,Maine,Blue,Lee,Red
+935,2020,Maine,Blue,Leeds,Red
+936,2020,Maine,Blue,Levant,Red
+937,2020,Maine,Blue,Lewiston,Blue
+938,2020,Maine,Blue,Liberty,Red
+939,2020,Maine,Blue,Limerick,Red
+940,2020,Maine,Blue,Limestone,Red
+941,2020,Maine,Blue,Limington,Red
+942,2020,Maine,Blue,Lincoln,Red
+943,2020,Maine,Blue,Lincoln Plt.,0%
+944,2020,Maine,Blue,Lincolnville,Blue
+945,2020,Maine,Blue,Linneus,Red
+946,2020,Maine,Blue,Lisbon,Red
+947,2020,Maine,Blue,Litchfield,Red
+948,2020,Maine,Blue,Littleton,Red
+949,2020,Maine,Blue,Livermore,Red
+950,2020,Maine,Blue,Livermore Falls,Red
+951,2020,Maine,Blue,Long Island,Blue
+952,2020,Maine,Blue,Lovell,Blue
+953,2020,Maine,Blue,Lowell,Red
+954,2020,Maine,Blue,Lubec,Blue
+955,2020,Maine,Blue,Ludlow,0%
+956,2020,Maine,Blue,Lyman,Red
+957,2020,Maine,Blue,Machias,Red
+958,2020,Maine,Blue,Machiasport,Red
+959,2020,Maine,Blue,Macwahoc Plt.,Red
+960,2020,Maine,Blue,Madawaska,Blue
+961,2020,Maine,Blue,Madison,Red
+962,2020,Maine,Blue,Magalloway Plt.,0%
+963,2020,Maine,Blue,Manchester,Blue
+964,2020,Maine,Blue,Mapleton,Red
+965,2020,Maine,Blue,Mariaville,0%
+966,2020,Maine,Blue,Marshfield,Red
+967,2020,Maine,Blue,Mars Hill,Red
+968,2020,Maine,Blue,Masardis,0%
+969,2020,Maine,Blue,Matinicus Isle Plt.,0%
+970,2020,Maine,Blue,Mattawamkeag,Red
+971,2020,Maine,Blue,Maxfield,0%
+972,2020,Maine,Blue,Mechanic Falls,Red
+973,2020,Maine,Blue,Meddybemps,0%
+974,2020,Maine,Blue,Medford,Red
+975,2020,Maine,Blue,Medway,0%
+976,2020,Maine,Blue,Mercer,0%
+977,2020,Maine,Blue,Merrill,Red
+978,2020,Maine,Blue,Mexico,Red
+979,2020,Maine,Blue,Milbridge,Red
+980,2020,Maine,Blue,Milford,Red
+981,2020,Maine,Blue,Millinocket,Red
+982,2020,Maine,Blue,Milo,Red
+983,2020,Maine,Blue,Minot,Red
+984,2020,Maine,Blue,Monhegan Plt.,Blue
+985,2020,Maine,Blue,Monmouth,Red
+986,2020,Maine,Blue,Monroe,Blue
+987,2020,Maine,Blue,Monson,Red
+988,2020,Maine,Blue,Monticello,Red
+989,2020,Maine,Blue,Montville,Blue
+990,2020,Maine,Blue,Moose River,0%
+991,2020,Maine,Blue,Moro Plt.,0%
+992,2020,Maine,Blue,Morrill,Red
+993,2020,Maine,Blue,Moscow,Red
+994,2020,Maine,Blue,Mount Chase,Red
+995,2020,Maine,Blue,Mount Desert,Blue
+996,2020,Maine,Blue,Mount Vernon,0%
+997,2020,Maine,Blue,Naples,Red
+998,2020,Maine,Blue,Nashville Plt.,Red
+999,2020,Maine,Blue,Newburgh,Red
+1000,2020,Maine,Blue,New Canada,Red
+1001,2020,Maine,Blue,Newcastle,Blue
+1002,2020,Maine,Blue,Newfield,Red
+1003,2020,Maine,Blue,New Gloucester,Red
+1004,2020,Maine,Blue,New Limerick,Red
+1005,2020,Maine,Blue,Newport,0%
+1006,2020,Maine,Blue,New Portland,0%
+1007,2020,Maine,Blue,Newry,Blue
+1008,2020,Maine,Blue,New Sharon,Red
+1009,2020,Maine,Blue,New Sweden,Red
+1010,2020,Maine,Blue,New Vineyard,Red
+1011,2020,Maine,Blue,Nobleboro,Blue
+1012,2020,Maine,Blue,Norridgewock,Red
+1013,2020,Maine,Blue,North Berwick,Red
+1014,2020,Maine,Blue,Northfield,Red
+1015,2020,Maine,Blue,North Haven,0%
+1016,2020,Maine,Blue,Northport,Blue
+1017,2020,Maine,Blue,North Yarmouth,Blue
+1018,2020,Maine,Blue,Norway,Blue
+1019,2020,Maine,Blue,Oakfield,0%
+1020,2020,Maine,Blue,Oakland,Red
+1021,2020,Maine,Blue,Ogunquit,Blue
+1022,2020,Maine,Blue,Old Orchrd Bch,Blue
+1023,2020,Maine,Blue,Old Town,Blue
+1024,2020,Maine,Blue,Orient,0%
+1025,2020,Maine,Blue,Orland,Red
+1026,2020,Maine,Blue,Orono,Blue
+1027,2020,Maine,Blue,Orrington,Red
+1028,2020,Maine,Blue,Osborn,0%
+1029,2020,Maine,Blue,Otis,Red
+1030,2020,Maine,Blue,Otisfield,Red
+1031,2020,Maine,Blue,Owl's Head,Blue
+1032,2020,Maine,Blue,Oxbow Plt.,0%
+1033,2020,Maine,Blue,Oxford,Red
+1034,2020,Maine,Blue,Palermo,Red
+1035,2020,Maine,Blue,Palmyra,Red
+1036,2020,Maine,Blue,Paris,Red
+1037,2020,Maine,Blue,Parkman,Red
+1038,2020,Maine,Blue,Parsonsfield,Red
+1039,2020,Maine,Blue,Passadumkeag,0%
+1040,2020,Maine,Blue,Patten,0%
+1041,2020,Maine,Blue,Pembroke,0%
+1042,2020,Maine,Blue,Penobscot,Blue
+1043,2020,Maine,Blue,Perham,0%
+1044,2020,Maine,Blue,Perry,0%
+1045,2020,Maine,Blue,Peru,Red
+1046,2020,Maine,Blue,Phillips,0%
+1047,2020,Maine,Blue,Phippsburg,Blue
+1048,2020,Maine,Blue,Pittsfield,Red
+1049,2020,Maine,Blue,Pittston,Red
+1050,2020,Maine,Blue,Pleasant Point Votng Dst,0%
+1051,2020,Maine,Blue,Pleasant Ridge Plt.,0%
+1052,2020,Maine,Blue,Plymouth,Red
+1053,2020,Maine,Blue,Poland,Red
+1054,2020,Maine,Blue,Portage Lake,Red
+1055,2020,Maine,Blue,Porter,Red
+1056,2020,Maine,Blue,Portland,Blue
+1057,2020,Maine,Blue,Pownal,Blue
+1058,2020,Maine,Blue,Presque Isle,Red
+1059,2020,Maine,Blue,Princeton,Red
+1060,2020,Maine,Blue,Prospect,Red
+1061,2020,Maine,Blue,Randolph,Red
+1062,2020,Maine,Blue,Rangeley,Red
+1063,2020,Maine,Blue,Rangeley Plt.,Red
+1064,2020,Maine,Blue,Raymond,Blue
+1065,2020,Maine,Blue,Readfield,Blue
+1066,2020,Maine,Blue,Reed Plt.,0%
+1067,2020,Maine,Blue,Richmond,Red
+1068,2020,Maine,Blue,Ripley,Red
+1069,2020,Maine,Blue,Robbinston,0%
+1070,2020,Maine,Blue,Rockland,Blue
+1071,2020,Maine,Blue,Rockport,Blue
+1072,2020,Maine,Blue,Rome,Red
+1073,2020,Maine,Blue,Roque Bluffs,0%
+1074,2020,Maine,Blue,Roxbury,0%
+1075,2020,Maine,Blue,Rumford,Red
+1076,2020,Maine,Blue,Sabattus,Red
+1077,2020,Maine,Blue,Saco,Blue
+1078,2020,Maine,Blue,Saint Agatha,Red
+1079,2020,Maine,Blue,St. Albans,0%
+1080,2020,Maine,Blue,St. Francis,0%
+1081,2020,Maine,Blue,St. George,Blue
+1082,2020,Maine,Blue,St. John Plt.,Red
+1083,2020,Maine,Blue,Sandy River Plt.,0%
+1084,2020,Maine,Blue,Sanford,Blue
+1085,2020,Maine,Blue,Sangerville,Red
+1086,2020,Maine,Blue,Scarborough,Blue
+1087,2020,Maine,Blue,Searsmont,Red
+1088,2020,Maine,Blue,Searsport,Blue
+1089,2020,Maine,Blue,Sebago,Red
+1090,2020,Maine,Blue,Sebec,Red
+1091,2020,Maine,Blue,Seboeis Plt.,Blue
+1092,2020,Maine,Blue,Sedgwick,Blue
+1093,2020,Maine,Blue,Shapleigh,Red
+1094,2020,Maine,Blue,Sherman,Red
+1095,2020,Maine,Blue,Shirley,0%
+1096,2020,Maine,Blue,Sidney,Red
+1097,2020,Maine,Blue,Skowhegan,Red
+1098,2020,Maine,Blue,Smithfield,Red
+1099,2020,Maine,Blue,Smyrna,Red
+1100,2020,Maine,Blue,Solon,Red
+1101,2020,Maine,Blue,Somerville,Red
+1102,2020,Maine,Blue,Sorrento,0%
+1103,2020,Maine,Blue,South Berwick,Blue
+1104,2020,Maine,Blue,South Bristol,Blue
+1105,2020,Maine,Blue,Southport,Blue
+1106,2020,Maine,Blue,South Portland,Blue
+1107,2020,Maine,Blue,South Thomaston,Blue
+1108,2020,Maine,Blue,Southwest Harbor,Blue
+1109,2020,Maine,Blue,Springfield,0%
+1110,2020,Maine,Blue,Stacyville,0%
+1111,2020,Maine,Blue,Standish,Red
+1112,2020,Maine,Blue,Starks,Red
+1113,2020,Maine,Blue,Stetson,0%
+1114,2020,Maine,Blue,Steuben,Red
+1115,2020,Maine,Blue,Stockholm,Red
+1116,2020,Maine,Blue,Stockton Springs,Blue
+1117,2020,Maine,Blue,Stoneham,0%
+1118,2020,Maine,Blue,Stonington,Blue
+1119,2020,Maine,Blue,Stow,0%
+1120,2020,Maine,Blue,Strong,Red
+1121,2020,Maine,Blue,Sullivan,0%
+1122,2020,Maine,Blue,Sumner,Red
+1123,2020,Maine,Blue,Surry,Blue
+1124,2020,Maine,Blue,Swan's Island,Blue
+1125,2020,Maine,Blue,Swanville,Red
+1126,2020,Maine,Blue,Sweden,0%
+1127,2020,Maine,Blue,Talmadge,0%
+1128,2020,Maine,Blue,Temple,Blue
+1129,2020,Maine,Blue,The Forks Plt.,0%
+1130,2020,Maine,Blue,Thomaston,Blue
+1131,2020,Maine,Blue,Thorndike,0%
+1132,2020,Maine,Blue,Topsfield,Red
+1133,2020,Maine,Blue,Topsham,Blue
+1134,2020,Maine,Blue,Tremont,Blue
+1135,2020,Maine,Blue,Trenton,Blue
+1136,2020,Maine,Blue,Troy,Red
+1137,2020,Maine,Blue,Turner,Red
+1138,2020,Maine,Blue,Union,Red
+1139,2020,Maine,Blue,Unity,Red
+1140,2020,Maine,Blue,Upton,0%
+1141,2020,Maine,Blue,Van Buren,0%
+1142,2020,Maine,Blue,Vanceboro,0%
+1143,2020,Maine,Blue,Vassalboro,Red
+1144,2020,Maine,Blue,Veazie,Blue
+1145,2020,Maine,Blue,Verona,0%
+1146,2020,Maine,Blue,Vienna,Red
+1147,2020,Maine,Blue,Vinalhaven,Blue
+1148,2020,Maine,Blue,Wade,Red
+1149,2020,Maine,Blue,Waite,0%
+1150,2020,Maine,Blue,Waldo,Red
+1151,2020,Maine,Blue,Waldoboro,Red
+1152,2020,Maine,Blue,Wales,Red
+1153,2020,Maine,Blue,Wallagrass,Blue
+1154,2020,Maine,Blue,Waltham,0%
+1155,2020,Maine,Blue,Warren,Red
+1156,2020,Maine,Blue,Washburn,Red
+1157,2020,Maine,Blue,Washington,Red
+1158,2020,Maine,Blue,Waterboro,Red
+1159,2020,Maine,Blue,Waterford,Red
+1160,2020,Maine,Blue,Waterville,Blue
+1161,2020,Maine,Blue,Wayne,Blue
+1162,2020,Maine,Blue,Webster Plt.,0%
+1163,2020,Maine,Blue,Weld,Blue
+1164,2020,Maine,Blue,Wellington,0%
+1165,2020,Maine,Blue,Wells,Blue
+1166,2020,Maine,Blue,Wesley,0%
+1167,2020,Maine,Blue,West Bath,Blue
+1168,2020,Maine,Blue,Westbrook,Blue
+1169,2020,Maine,Blue,Westfield,Red
+1170,2020,Maine,Blue,West Forks Plt.,0%
+1171,2020,Maine,Blue,West Gardiner,Red
+1172,2020,Maine,Blue,Westmanland,0%
+1173,2020,Maine,Blue,Weston,Red
+1174,2020,Maine,Blue,West Paris,Red
+1175,2020,Maine,Blue,Westport,Blue
+1176,2020,Maine,Blue,Whitefield,Red
+1177,2020,Maine,Blue,Whiting,0%
+1178,2020,Maine,Blue,Whitneyville,0%
+1179,2020,Maine,Blue,Willimantic,0%
+1180,2020,Maine,Blue,Wilton,Red
+1181,2020,Maine,Blue,Windham,Blue
+1182,2020,Maine,Blue,Windsor,Red
+1183,2020,Maine,Blue,Winn,Red
+1184,2020,Maine,Blue,Winslow,Red
+1185,2020,Maine,Blue,Winter Harbor,Red
+1186,2020,Maine,Blue,Winterport,Red
+1187,2020,Maine,Blue,Winterville Plt.,Red
+1188,2020,Maine,Blue,Winthrop,Blue
+1189,2020,Maine,Blue,Wiscasset,Blue
+1190,2020,Maine,Blue,Woodland,Red
+1191,2020,Maine,Blue,Woodstock,Red
+1192,2020,Maine,Blue,Woodville,0%
+1193,2020,Maine,Blue,Woolwich,Red
+1194,2020,Maine,Blue,Yarmouth,Blue
+1195,2020,Maine,Blue,York,Blue
+1196,2020,Maine,Blue,Frye Island,Blue
+1197,2020,Maine,Blue,Chebeague Island,0%
+1198,2020,Maine,Blue,Aroostook Cty Townships,Red
+1199,2020,Maine,Blue,Franklin Cty Townships,0%
+1200,2020,Maine,Blue,Hancock Cty Townships,0%
+1201,2020,Maine,Blue,Oxford Cty Townships,0%
+1202,2020,Maine,Blue,Penobscot Cty Townships,0%
+1203,2020,Maine,Blue,Piscataquis Cty Townshps,Red
+1204,2020,Maine,Blue,Somerset Cty Townships,0%
+1205,2020,Maine,Blue,Washington Cty Townships,0%
+1206,2020,Maryland,Blue,Allegany,Red
+1207,2020,Maryland,Blue,Anne Arundel,Blue
+1208,2020,Maryland,Blue,Baltimore,Blue
+1209,2020,Maryland,Blue,Baltimore City,Blue
+1210,2020,Maryland,Blue,Calvert,Red
+1211,2020,Maryland,Blue,Caroline,Red
+1212,2020,Maryland,Blue,Carroll,Red
+1213,2020,Maryland,Blue,Cecil,Red
+1214,2020,Maryland,Blue,Charles,Blue
+1215,2020,Maryland,Blue,Dorchester,Red
+1216,2020,Maryland,Blue,Frederick,Blue
+1217,2020,Maryland,Blue,Garrett,Red
+1218,2020,Maryland,Blue,Harford,Red
+1219,2020,Maryland,Blue,Howard,Blue
+1220,2020,Maryland,Blue,Kent,Blue
+1221,2020,Maryland,Blue,Montgomery,Blue
+1222,2020,Maryland,Blue,Prince George's,Blue
+1223,2020,Maryland,Blue,Queen Anne's,Red
+1224,2020,Maryland,Blue,St. Mary's,Red
+1225,2020,Maryland,Blue,Somerset,Red
+1226,2020,Maryland,Blue,Talbot,Red
+1227,2020,Maryland,Blue,Washington,Red
+1228,2020,Maryland,Blue,Wicomico,Red
+1229,2020,Maryland,Blue,Worcester,Red
+1230,2020,Massachusetts,Blue,Abington,Blue
+1231,2020,Massachusetts,Blue,Acton,Blue
+1232,2020,Massachusetts,Blue,Acushnet,Red
+1233,2020,Massachusetts,Blue,Adams,Blue
+1234,2020,Massachusetts,Blue,Agawam,Red
+1235,2020,Massachusetts,Blue,Alford,Blue
+1236,2020,Massachusetts,Blue,Amesbury,Blue
+1237,2020,Massachusetts,Blue,Amherst,Blue
+1238,2020,Massachusetts,Blue,Andover,Blue
+1239,2020,Massachusetts,Blue,Arlington,Blue
+1240,2020,Massachusetts,Blue,Ashburnham,Blue
+1241,2020,Massachusetts,Blue,Ashby,Red
+1242,2020,Massachusetts,Blue,Ashfield,Blue
+1243,2020,Massachusetts,Blue,Ashland,Blue
+1244,2020,Massachusetts,Blue,Athol,Blue
+1245,2020,Massachusetts,Blue,Attleboro,Blue
+1246,2020,Massachusetts,Blue,Auburn,Blue
+1247,2020,Massachusetts,Blue,Avon,Blue
+1248,2020,Massachusetts,Blue,Ayer,Blue
+1249,2020,Massachusetts,Blue,Barnstable,Blue
+1250,2020,Massachusetts,Blue,Barre,Blue
+1251,2020,Massachusetts,Blue,Becket,0%
+1252,2020,Massachusetts,Blue,Bedford,Blue
+1253,2020,Massachusetts,Blue,Belchertown,Blue
+1254,2020,Massachusetts,Blue,Bellingham,Blue
+1255,2020,Massachusetts,Blue,Belmont,Blue
+1256,2020,Massachusetts,Blue,Berkley,Red
+1257,2020,Massachusetts,Blue,Berlin,Blue
+1258,2020,Massachusetts,Blue,Bernardston,Blue
+1259,2020,Massachusetts,Blue,Beverly,Blue
+1260,2020,Massachusetts,Blue,Billerica,Blue
+1261,2020,Massachusetts,Blue,Blackstone,Red
+1262,2020,Massachusetts,Blue,Blandford,0%
+1263,2020,Massachusetts,Blue,Bolton,Blue
+1264,2020,Massachusetts,Blue,Boston,Blue
+1265,2020,Massachusetts,Blue,Bourne,Blue
+1266,2020,Massachusetts,Blue,Boxborough,Blue
+1267,2020,Massachusetts,Blue,Boxford,Blue
+1268,2020,Massachusetts,Blue,Boylston,Blue
+1269,2020,Massachusetts,Blue,Braintree,Blue
+1270,2020,Massachusetts,Blue,Brewster,Blue
+1271,2020,Massachusetts,Blue,Bridgewater,Blue
+1272,2020,Massachusetts,Blue,Brimfield,0%
+1273,2020,Massachusetts,Blue,Brockton,0%
+1274,2020,Massachusetts,Blue,Brookfield,Red
+1275,2020,Massachusetts,Blue,Brookline,Blue
+1276,2020,Massachusetts,Blue,Buckland,Blue
+1277,2020,Massachusetts,Blue,Burlington,Blue
+1278,2020,Massachusetts,Blue,Cambridge,Blue
+1279,2020,Massachusetts,Blue,Canton,Blue
+1280,2020,Massachusetts,Blue,Carlisle,Blue
+1281,2020,Massachusetts,Blue,Carver,Red
+1282,2020,Massachusetts,Blue,Charlemont,Blue
+1283,2020,Massachusetts,Blue,Charlton,Red
+1284,2020,Massachusetts,Blue,Chatham,Blue
+1285,2020,Massachusetts,Blue,Chelmsford,Blue
+1286,2020,Massachusetts,Blue,Chelsea,Blue
+1287,2020,Massachusetts,Blue,Cheshire,Blue
+1288,2020,Massachusetts,Blue,Chester,Red
+1289,2020,Massachusetts,Blue,Chesterfield,Blue
+1290,2020,Massachusetts,Blue,Chicopee,Blue
+1291,2020,Massachusetts,Blue,Chilmark,Blue
+1292,2020,Massachusetts,Blue,Clarksburg,0%
+1293,2020,Massachusetts,Blue,Clinton,Blue
+1294,2020,Massachusetts,Blue,Cohasset,Blue
+1295,2020,Massachusetts,Blue,Colrain,Blue
+1296,2020,Massachusetts,Blue,Concord,Blue
+1297,2020,Massachusetts,Blue,Conway,Blue
+1298,2020,Massachusetts,Blue,Cummington,Blue
+1299,2020,Massachusetts,Blue,Dalton,0%
+1300,2020,Massachusetts,Blue,Danvers,Blue
+1301,2020,Massachusetts,Blue,Dartmouth,Blue
+1302,2020,Massachusetts,Blue,Dedham,Blue
+1303,2020,Massachusetts,Blue,Deerfield,Blue
+1304,2020,Massachusetts,Blue,Dennis,Blue
+1305,2020,Massachusetts,Blue,Dighton,Red
+1306,2020,Massachusetts,Blue,Douglas,Red
+1307,2020,Massachusetts,Blue,Dover,Blue
+1308,2020,Massachusetts,Blue,Dracut,Red
+1309,2020,Massachusetts,Blue,Dudley,Red
+1310,2020,Massachusetts,Blue,Dunstable,Blue
+1311,2020,Massachusetts,Blue,Duxbury,Blue
+1312,2020,Massachusetts,Blue,East Bridgewater,Red
+1313,2020,Massachusetts,Blue,East Brookfield,Red
+1314,2020,Massachusetts,Blue,Eastham,Blue
+1315,2020,Massachusetts,Blue,Easthampton,Blue
+1316,2020,Massachusetts,Blue,East Longmeadow,Blue
+1317,2020,Massachusetts,Blue,Easton,Blue
+1318,2020,Massachusetts,Blue,Edgartown,Blue
+1319,2020,Massachusetts,Blue,Egremont,Blue
+1320,2020,Massachusetts,Blue,Erving,0%
+1321,2020,Massachusetts,Blue,Essex,Blue
+1322,2020,Massachusetts,Blue,Everett,Blue
+1323,2020,Massachusetts,Blue,Fairhaven,Blue
+1324,2020,Massachusetts,Blue,Fall River,Blue
+1325,2020,Massachusetts,Blue,Falmouth,Blue
+1326,2020,Massachusetts,Blue,Fitchburg,Blue
+1327,2020,Massachusetts,Blue,Florida,Blue
+1328,2020,Massachusetts,Blue,Foxborough,Blue
+1329,2020,Massachusetts,Blue,Framingham,Blue
+1330,2020,Massachusetts,Blue,Franklin,Blue
+1331,2020,Massachusetts,Blue,Freetown,Red
+1332,2020,Massachusetts,Blue,Gardner,Blue
+1333,2020,Massachusetts,Blue,Aquinnah,Blue
+1334,2020,Massachusetts,Blue,Georgetown,Blue
+1335,2020,Massachusetts,Blue,Gill,Blue
+1336,2020,Massachusetts,Blue,Gloucester,Blue
+1337,2020,Massachusetts,Blue,Goshen,Blue
+1338,2020,Massachusetts,Blue,Gosnold,0%
+1339,2020,Massachusetts,Blue,Grafton,Blue
+1340,2020,Massachusetts,Blue,Granby,Blue
+1341,2020,Massachusetts,Blue,Granville,Red
+1342,2020,Massachusetts,Blue,Great Barrington,Blue
+1343,2020,Massachusetts,Blue,Greenfield,Blue
+1344,2020,Massachusetts,Blue,Groton,Blue
+1345,2020,Massachusetts,Blue,Groveland,Blue
+1346,2020,Massachusetts,Blue,Hadley,Blue
+1347,2020,Massachusetts,Blue,Halifax,Red
+1348,2020,Massachusetts,Blue,Hamilton,Blue
+1349,2020,Massachusetts,Blue,Hampden,Red
+1350,2020,Massachusetts,Blue,Hancock,Blue
+1351,2020,Massachusetts,Blue,Hanover,Blue
+1352,2020,Massachusetts,Blue,Hanson,Red
+1353,2020,Massachusetts,Blue,Hardwick,Blue
+1354,2020,Massachusetts,Blue,Harvard,Blue
+1355,2020,Massachusetts,Blue,Harwich,Blue
+1356,2020,Massachusetts,Blue,Hatfield,Blue
+1357,2020,Massachusetts,Blue,Haverhill,Blue
+1358,2020,Massachusetts,Blue,Hawley,Blue
+1359,2020,Massachusetts,Blue,Heath,0%
+1360,2020,Massachusetts,Blue,Hingham,Blue
+1361,2020,Massachusetts,Blue,Hinsdale,Blue
+1362,2020,Massachusetts,Blue,Holbrook,Blue
+1363,2020,Massachusetts,Blue,Holden,Blue
+1364,2020,Massachusetts,Blue,Holland,Red
+1365,2020,Massachusetts,Blue,Holliston,Blue
+1366,2020,Massachusetts,Blue,Holyoke,Blue
+1367,2020,Massachusetts,Blue,Hopedale,Blue
+1368,2020,Massachusetts,Blue,Hopkinton,Blue
+1369,2020,Massachusetts,Blue,Hubbardston,Red
+1370,2020,Massachusetts,Blue,Hudson,Blue
+1371,2020,Massachusetts,Blue,Hull,Blue
+1372,2020,Massachusetts,Blue,Huntington,Red
+1373,2020,Massachusetts,Blue,Ipswich,Blue
+1374,2020,Massachusetts,Blue,Kingston,Blue
+1375,2020,Massachusetts,Blue,Lakeville,Red
+1376,2020,Massachusetts,Blue,Lancaster,Blue
+1377,2020,Massachusetts,Blue,Lanesborough,Blue
+1378,2020,Massachusetts,Blue,Lawrence,Blue
+1379,2020,Massachusetts,Blue,Lee,Blue
+1380,2020,Massachusetts,Blue,Leicester,Red
+1381,2020,Massachusetts,Blue,Lenox,Blue
+1382,2020,Massachusetts,Blue,Leominster,Blue
+1383,2020,Massachusetts,Blue,Leverett,Blue
+1384,2020,Massachusetts,Blue,Lexington,Blue
+1385,2020,Massachusetts,Blue,Leyden,Blue
+1386,2020,Massachusetts,Blue,Lincoln,Blue
+1387,2020,Massachusetts,Blue,Littleton,Blue
+1388,2020,Massachusetts,Blue,Longmeadow,Blue
+1389,2020,Massachusetts,Blue,Lowell,Blue
+1390,2020,Massachusetts,Blue,Ludlow,Red
+1391,2020,Massachusetts,Blue,Lunenburg,Blue
+1392,2020,Massachusetts,Blue,Lynn,Blue
+1393,2020,Massachusetts,Blue,Lynnfield,Blue
+1394,2020,Massachusetts,Blue,Malden,Blue
+1395,2020,Massachusetts,Blue,Manchester,Blue
+1396,2020,Massachusetts,Blue,Mansfield,Blue
+1397,2020,Massachusetts,Blue,Marblehead,Blue
+1398,2020,Massachusetts,Blue,Marion,Blue
+1399,2020,Massachusetts,Blue,Marlborough,Blue
+1400,2020,Massachusetts,Blue,Marshfield,Blue
+1401,2020,Massachusetts,Blue,Mashpee,Blue
+1402,2020,Massachusetts,Blue,Mattapoisett,Blue
+1403,2020,Massachusetts,Blue,Maynard,Blue
+1404,2020,Massachusetts,Blue,Medfield,Blue
+1405,2020,Massachusetts,Blue,Medford,Blue
+1406,2020,Massachusetts,Blue,Medway,Blue
+1407,2020,Massachusetts,Blue,Melrose,Blue
+1408,2020,Massachusetts,Blue,Mendon,Blue
+1409,2020,Massachusetts,Blue,Merrimac,Blue
+1410,2020,Massachusetts,Blue,Methuen,Blue
+1411,2020,Massachusetts,Blue,Middleborough,Red
+1412,2020,Massachusetts,Blue,Middlefield,Blue
+1413,2020,Massachusetts,Blue,Middleton,Red
+1414,2020,Massachusetts,Blue,Milford,Blue
+1415,2020,Massachusetts,Blue,Millbury,Blue
+1416,2020,Massachusetts,Blue,Millis,Blue
+1417,2020,Massachusetts,Blue,Millville,Red
+1418,2020,Massachusetts,Blue,Milton,Blue
+1419,2020,Massachusetts,Blue,Monroe,0%
+1420,2020,Massachusetts,Blue,Monson,Red
+1421,2020,Massachusetts,Blue,Montague,Blue
+1422,2020,Massachusetts,Blue,Monterey,Blue
+1423,2020,Massachusetts,Blue,Montgomery,0%
+1424,2020,Massachusetts,Blue,Mount Washington,Blue
+1425,2020,Massachusetts,Blue,Nahant,Blue
+1426,2020,Massachusetts,Blue,Nantucket,Blue
+1427,2020,Massachusetts,Blue,Natick,Blue
+1428,2020,Massachusetts,Blue,Needham,Blue
+1429,2020,Massachusetts,Blue,New Ashford,0%
+1430,2020,Massachusetts,Blue,New Bedford,Blue
+1431,2020,Massachusetts,Blue,New Braintree,Red
+1432,2020,Massachusetts,Blue,Newbury,Blue
+1433,2020,Massachusetts,Blue,Newburyport,Blue
+1434,2020,Massachusetts,Blue,New Marlborough,Blue
+1435,2020,Massachusetts,Blue,New Salem,Blue
+1436,2020,Massachusetts,Blue,Newton,Blue
+1437,2020,Massachusetts,Blue,Norfolk,Blue
+1438,2020,Massachusetts,Blue,North Adams,Blue
+1439,2020,Massachusetts,Blue,Northampton,Blue
+1440,2020,Massachusetts,Blue,North Andover,Blue
+1441,2020,Massachusetts,Blue,North Attleborough,Blue
+1442,2020,Massachusetts,Blue,Northborough,Blue
+1443,2020,Massachusetts,Blue,Northbridge,Blue
+1444,2020,Massachusetts,Blue,North Brookfield,Red
+1445,2020,Massachusetts,Blue,Northfield,Blue
+1446,2020,Massachusetts,Blue,North Reading,Blue
+1447,2020,Massachusetts,Blue,Norton,Blue
+1448,2020,Massachusetts,Blue,Norwell,Blue
+1449,2020,Massachusetts,Blue,Norwood,Blue
+1450,2020,Massachusetts,Blue,Oak Bluffs,Blue
+1451,2020,Massachusetts,Blue,Oakham,Red
+1452,2020,Massachusetts,Blue,Orange,Blue
+1453,2020,Massachusetts,Blue,Orleans,Blue
+1454,2020,Massachusetts,Blue,Otis,Blue
+1455,2020,Massachusetts,Blue,Oxford,Red
+1456,2020,Massachusetts,Blue,Palmer,Red
+1457,2020,Massachusetts,Blue,Paxton,Blue
+1458,2020,Massachusetts,Blue,Peabody,Blue
+1459,2020,Massachusetts,Blue,Pelham,Blue
+1460,2020,Massachusetts,Blue,Pembroke,Blue
+1461,2020,Massachusetts,Blue,Pepperell,Blue
+1462,2020,Massachusetts,Blue,Peru,Blue
+1463,2020,Massachusetts,Blue,Petersham,0%
+1464,2020,Massachusetts,Blue,Phillipston,Red
+1465,2020,Massachusetts,Blue,Pittsfield,Blue
+1466,2020,Massachusetts,Blue,Plainfield,Blue
+1467,2020,Massachusetts,Blue,Plainville,Blue
+1468,2020,Massachusetts,Blue,Plymouth,Blue
+1469,2020,Massachusetts,Blue,Plympton,Blue
+1470,2020,Massachusetts,Blue,Princeton,Blue
+1471,2020,Massachusetts,Blue,Provincetown,Blue
+1472,2020,Massachusetts,Blue,Quincy,Blue
+1473,2020,Massachusetts,Blue,Randolph,Blue
+1474,2020,Massachusetts,Blue,Raynham,Blue
+1475,2020,Massachusetts,Blue,Reading,Blue
+1476,2020,Massachusetts,Blue,Rehoboth,Red
+1477,2020,Massachusetts,Blue,Revere,Blue
+1478,2020,Massachusetts,Blue,Richmond,Blue
+1479,2020,Massachusetts,Blue,Rochester,Red
+1480,2020,Massachusetts,Blue,Rockland,Blue
+1481,2020,Massachusetts,Blue,Rockport,Blue
+1482,2020,Massachusetts,Blue,Rowe,Blue
+1483,2020,Massachusetts,Blue,Rowley,Blue
+1484,2020,Massachusetts,Blue,Royalston,Blue
+1485,2020,Massachusetts,Blue,Russell,0%
+1486,2020,Massachusetts,Blue,Rutland,Blue
+1487,2020,Massachusetts,Blue,Salem,Blue
+1488,2020,Massachusetts,Blue,Salisbury,Blue
+1489,2020,Massachusetts,Blue,Sandisfield,Blue
+1490,2020,Massachusetts,Blue,Sandwich,Blue
+1491,2020,Massachusetts,Blue,Saugus,Blue
+1492,2020,Massachusetts,Blue,Savoy,Blue
+1493,2020,Massachusetts,Blue,Scituate,Blue
+1494,2020,Massachusetts,Blue,Seekonk,Blue
+1495,2020,Massachusetts,Blue,Sharon,Blue
+1496,2020,Massachusetts,Blue,Sheffield,Blue
+1497,2020,Massachusetts,Blue,Shelburne,Blue
+1498,2020,Massachusetts,Blue,Sherborn,Blue
+1499,2020,Massachusetts,Blue,Shirley,Blue
+1500,2020,Massachusetts,Blue,Shrewsbury,Blue
+1501,2020,Massachusetts,Blue,Shutesbury,Blue
+1502,2020,Massachusetts,Blue,Somerset,Blue
+1503,2020,Massachusetts,Blue,Somerville,Blue
+1504,2020,Massachusetts,Blue,Southampton,Blue
+1505,2020,Massachusetts,Blue,Southborough,Blue
+1506,2020,Massachusetts,Blue,Southbridge,Blue
+1507,2020,Massachusetts,Blue,South Hadley,Blue
+1508,2020,Massachusetts,Blue,Southwick,Red
+1509,2020,Massachusetts,Blue,Spencer,Red
+1510,2020,Massachusetts,Blue,Springfield,Blue
+1511,2020,Massachusetts,Blue,Sterling,Blue
+1512,2020,Massachusetts,Blue,Stockbridge,Blue
+1513,2020,Massachusetts,Blue,Stoneham,Blue
+1514,2020,Massachusetts,Blue,Stoughton,0%
+1515,2020,Massachusetts,Blue,Stow,Blue
+1516,2020,Massachusetts,Blue,Sturbridge,Blue
+1517,2020,Massachusetts,Blue,Sudbury,Blue
+1518,2020,Massachusetts,Blue,Sunderland,0%
+1519,2020,Massachusetts,Blue,Sutton,Blue
+1520,2020,Massachusetts,Blue,Swampscott,Blue
+1521,2020,Massachusetts,Blue,Swansea,Red
+1522,2020,Massachusetts,Blue,Taunton,Blue
+1523,2020,Massachusetts,Blue,Templeton,Red
+1524,2020,Massachusetts,Blue,Tewksbury,Blue
+1525,2020,Massachusetts,Blue,Tisbury,Blue
+1526,2020,Massachusetts,Blue,Tolland,Red
+1527,2020,Massachusetts,Blue,Topsfield,Blue
+1528,2020,Massachusetts,Blue,Townsend,Blue
+1529,2020,Massachusetts,Blue,Truro,Blue
+1530,2020,Massachusetts,Blue,Tyngsborough,Blue
+1531,2020,Massachusetts,Blue,Tyringham,Blue
+1532,2020,Massachusetts,Blue,Upton,Blue
+1533,2020,Massachusetts,Blue,Uxbridge,Blue
+1534,2020,Massachusetts,Blue,Wakefield,Blue
+1535,2020,Massachusetts,Blue,Wales,Red
+1536,2020,Massachusetts,Blue,Walpole,Blue
+1537,2020,Massachusetts,Blue,Waltham,Blue
+1538,2020,Massachusetts,Blue,Ware,Red
+1539,2020,Massachusetts,Blue,Wareham,Blue
+1540,2020,Massachusetts,Blue,Warren,Red
+1541,2020,Massachusetts,Blue,Warwick,Blue
+1542,2020,Massachusetts,Blue,Washington,Blue
+1543,2020,Massachusetts,Blue,Watertown,Blue
+1544,2020,Massachusetts,Blue,Wayland,Blue
+1545,2020,Massachusetts,Blue,Webster,0%
+1546,2020,Massachusetts,Blue,Wellesley,Blue
+1547,2020,Massachusetts,Blue,Wellfleet,Blue
+1548,2020,Massachusetts,Blue,Wendell,0%
+1549,2020,Massachusetts,Blue,Wenham,Blue
+1550,2020,Massachusetts,Blue,Westborough,Blue
+1551,2020,Massachusetts,Blue,West Boylston,Blue
+1552,2020,Massachusetts,Blue,West Bridgewater,Red
+1553,2020,Massachusetts,Blue,West Brookfield,Blue
+1554,2020,Massachusetts,Blue,Westfield,Blue
+1555,2020,Massachusetts,Blue,Westford,Blue
+1556,2020,Massachusetts,Blue,Westhampton,Blue
+1557,2020,Massachusetts,Blue,Westminster,Blue
+1558,2020,Massachusetts,Blue,West Newbury,Blue
+1559,2020,Massachusetts,Blue,Weston,Blue
+1560,2020,Massachusetts,Blue,Westport,Blue
+1561,2020,Massachusetts,Blue,West Springfield,Blue
+1562,2020,Massachusetts,Blue,West Stockbridge,Blue
+1563,2020,Massachusetts,Blue,West Tisbury,Blue
+1564,2020,Massachusetts,Blue,Westwood,Blue
+1565,2020,Massachusetts,Blue,Weymouth,Blue
+1566,2020,Massachusetts,Blue,Whately,Blue
+1567,2020,Massachusetts,Blue,Whitman,Blue
+1568,2020,Massachusetts,Blue,Wilbraham,Blue
+1569,2020,Massachusetts,Blue,Williamsburg,Blue
+1570,2020,Massachusetts,Blue,Williamstown,Blue
+1571,2020,Massachusetts,Blue,Wilmington,Blue
+1572,2020,Massachusetts,Blue,Winchendon,Red
+1573,2020,Massachusetts,Blue,Winchester,Blue
+1574,2020,Massachusetts,Blue,Windsor,Blue
+1575,2020,Massachusetts,Blue,Winthrop,Blue
+1576,2020,Massachusetts,Blue,Woburn,Blue
+1577,2020,Massachusetts,Blue,Worcester,Blue
+1578,2020,Massachusetts,Blue,Worthington,0%
+1579,2020,Massachusetts,Blue,Wrentham,Blue
+1580,2020,Massachusetts,Blue,Yarmouth,Blue
+1581,2020,Michigan,Blue,Alcona,Red
+1582,2020,Michigan,Blue,Alger,Red
+1583,2020,Michigan,Blue,Allegan,Red
+1584,2020,Michigan,Blue,Alpena,Red
+1585,2020,Michigan,Blue,Antrim,Red
+1586,2020,Michigan,Blue,Arenac,Red
+1587,2020,Michigan,Blue,Baraga,Red
+1588,2020,Michigan,Blue,Barry,Red
+1589,2020,Michigan,Blue,Bay,Red
+1590,2020,Michigan,Blue,Benzie,Red
+1591,2020,Michigan,Blue,Berrien,Red
+1592,2020,Michigan,Blue,Branch,Red
+1593,2020,Michigan,Blue,Calhoun,Red
+1594,2020,Michigan,Blue,Cass,Red
+1595,2020,Michigan,Blue,Charlevoix,Red
+1596,2020,Michigan,Blue,Cheboygan,Red
+1597,2020,Michigan,Blue,Chippewa,Red
+1598,2020,Michigan,Blue,Clare,Red
+1599,2020,Michigan,Blue,Clinton,Red
+1600,2020,Michigan,Blue,Crawford,Red
+1601,2020,Michigan,Blue,Delta,Red
+1602,2020,Michigan,Blue,Dickinson,Red
+1603,2020,Michigan,Blue,Eaton,Red
+1604,2020,Michigan,Blue,Emmet,Red
+1605,2020,Michigan,Blue,Genesee,Blue
+1606,2020,Michigan,Blue,Gladwin,Red
+1607,2020,Michigan,Blue,Gogebic,Red
+1608,2020,Michigan,Blue,Grand Traverse,Red
+1609,2020,Michigan,Blue,Gratiot,Red
+1610,2020,Michigan,Blue,Hillsdale,Red
+1611,2020,Michigan,Blue,Houghton,Red
+1612,2020,Michigan,Blue,Huron,Red
+1613,2020,Michigan,Blue,Ingham,Blue
+1614,2020,Michigan,Blue,Ionia,Red
+1615,2020,Michigan,Blue,Iosco,Red
+1616,2020,Michigan,Blue,Iron,Red
+1617,2020,Michigan,Blue,Isabella,Red
+1618,2020,Michigan,Blue,Jackson,Red
+1619,2020,Michigan,Blue,Kalamazoo,Blue
+1620,2020,Michigan,Blue,Kalkaska,Red
+1621,2020,Michigan,Blue,Kent,Blue
+1622,2020,Michigan,Blue,Keweenaw,Red
+1623,2020,Michigan,Blue,Lake,Red
+1624,2020,Michigan,Blue,Lapeer,Red
+1625,2020,Michigan,Blue,Leelanau,Blue
+1626,2020,Michigan,Blue,Lenawee,Red
+1627,2020,Michigan,Blue,Livingston,Red
+1628,2020,Michigan,Blue,Luce,Red
+1629,2020,Michigan,Blue,Mackinac,Red
+1630,2020,Michigan,Blue,Macomb,Red
+1631,2020,Michigan,Blue,Manistee,Red
+1632,2020,Michigan,Blue,Marquette,Blue
+1633,2020,Michigan,Blue,Mason,Red
+1634,2020,Michigan,Blue,Mecosta,Red
+1635,2020,Michigan,Blue,Menominee,Red
+1636,2020,Michigan,Blue,Midland,Red
+1637,2020,Michigan,Blue,Missaukee,Red
+1638,2020,Michigan,Blue,Monroe,Red
+1639,2020,Michigan,Blue,Montcalm,Red
+1640,2020,Michigan,Blue,Montmorency,Red
+1641,2020,Michigan,Blue,Muskegon,Blue
+1642,2020,Michigan,Blue,Newaygo,Red
+1643,2020,Michigan,Blue,Oakland,Blue
+1644,2020,Michigan,Blue,Oceana,Red
+1645,2020,Michigan,Blue,Ogemaw,Red
+1646,2020,Michigan,Blue,Ontonagon,Red
+1647,2020,Michigan,Blue,Osceola,Red
+1648,2020,Michigan,Blue,Oscoda,Red
+1649,2020,Michigan,Blue,Otsego,Red
+1650,2020,Michigan,Blue,Ottawa,Red
+1651,2020,Michigan,Blue,Presque Isle,Red
+1652,2020,Michigan,Blue,Roscommon,Red
+1653,2020,Michigan,Blue,Saginaw,Blue
+1654,2020,Michigan,Blue,St. Clair,Red
+1655,2020,Michigan,Blue,St. Joseph,Red
+1656,2020,Michigan,Blue,Sanilac,Red
+1657,2020,Michigan,Blue,Schoolcraft,Red
+1658,2020,Michigan,Blue,Shiawassee,Red
+1659,2020,Michigan,Blue,Tuscola,Red
+1660,2020,Michigan,Blue,Van Buren,Red
+1661,2020,Michigan,Blue,Washtenaw,Blue
+1662,2020,Michigan,Blue,Wayne,Blue
+1663,2020,Michigan,Blue,Wexford,Red
+1664,2020,Minnesota,Blue,Aitkin,Red
+1665,2020,Minnesota,Blue,Anoka,Red
+1666,2020,Minnesota,Blue,Becker,Red
+1667,2020,Minnesota,Blue,Beltrami,Red
+1668,2020,Minnesota,Blue,Benton,Red
+1669,2020,Minnesota,Blue,Big Stone,Red
+1670,2020,Minnesota,Blue,Blue Earth,Blue
+1671,2020,Minnesota,Blue,Brown,Red
+1672,2020,Minnesota,Blue,Carlton,Blue
+1673,2020,Minnesota,Blue,Carver,Red
+1674,2020,Minnesota,Blue,Cass,Red
+1675,2020,Minnesota,Blue,Chippewa,Red
+1676,2020,Minnesota,Blue,Chisago,Red
+1677,2020,Minnesota,Blue,Clay,Blue
+1678,2020,Minnesota,Blue,Clearwater,Red
+1679,2020,Minnesota,Blue,Cook,Blue
+1680,2020,Minnesota,Blue,Cottonwood,Red
+1681,2020,Minnesota,Blue,Crow Wing,Red
+1682,2020,Minnesota,Blue,Dakota,Blue
+1683,2020,Minnesota,Blue,Dodge,Red
+1684,2020,Minnesota,Blue,Douglas,Red
+1685,2020,Minnesota,Blue,Faribault,Red
+1686,2020,Minnesota,Blue,Fillmore,Red
+1687,2020,Minnesota,Blue,Freeborn,Red
+1688,2020,Minnesota,Blue,Goodhue,Red
+1689,2020,Minnesota,Blue,Grant,Red
+1690,2020,Minnesota,Blue,Hennepin,Blue
+1691,2020,Minnesota,Blue,Houston,Red
+1692,2020,Minnesota,Blue,Hubbard,Red
+1693,2020,Minnesota,Blue,Isanti,Red
+1694,2020,Minnesota,Blue,Itasca,Red
+1695,2020,Minnesota,Blue,Jackson,Red
+1696,2020,Minnesota,Blue,Kanabec,Red
+1697,2020,Minnesota,Blue,Kandiyohi,Red
+1698,2020,Minnesota,Blue,Kittson,Red
+1699,2020,Minnesota,Blue,Koochiching,Red
+1700,2020,Minnesota,Blue,Lac Qui Parle,Red
+1701,2020,Minnesota,Blue,Lake,Blue
+1702,2020,Minnesota,Blue,Lake of the Woods,Red
+1703,2020,Minnesota,Blue,Le Sueur,Red
+1704,2020,Minnesota,Blue,Lincoln,Red
+1705,2020,Minnesota,Blue,Lyon,Red
+1706,2020,Minnesota,Blue,McLeod,Red
+1707,2020,Minnesota,Blue,Mahnomen,Red
+1708,2020,Minnesota,Blue,Marshall,Red
+1709,2020,Minnesota,Blue,Martin,Red
+1710,2020,Minnesota,Blue,Meeker,Red
+1711,2020,Minnesota,Blue,Mille Lacs,Red
+1712,2020,Minnesota,Blue,Morrison,Red
+1713,2020,Minnesota,Blue,Mower,Red
+1714,2020,Minnesota,Blue,Murray,Red
+1715,2020,Minnesota,Blue,Nicollet,Blue
+1716,2020,Minnesota,Blue,Nobles,Red
+1717,2020,Minnesota,Blue,Norman,Red
+1718,2020,Minnesota,Blue,Olmsted,Blue
+1719,2020,Minnesota,Blue,Otter Tail,Red
+1720,2020,Minnesota,Blue,Pennington,Red
+1721,2020,Minnesota,Blue,Pine,Red
+1722,2020,Minnesota,Blue,Pipestone,Red
+1723,2020,Minnesota,Blue,Polk,Red
+1724,2020,Minnesota,Blue,Pope,Red
+1725,2020,Minnesota,Blue,Ramsey,Blue
+1726,2020,Minnesota,Blue,Red Lake,Red
+1727,2020,Minnesota,Blue,Redwood,Red
+1728,2020,Minnesota,Blue,Renville,Red
+1729,2020,Minnesota,Blue,Rice,Red
+1730,2020,Minnesota,Blue,Rock,Red
+1731,2020,Minnesota,Blue,Roseau,Red
+1732,2020,Minnesota,Blue,St. Louis,Blue
+1733,2020,Minnesota,Blue,Scott,Red
+1734,2020,Minnesota,Blue,Sherburne,Red
+1735,2020,Minnesota,Blue,Sibley,Red
+1736,2020,Minnesota,Blue,Stearns,Red
+1737,2020,Minnesota,Blue,Steele,Red
+1738,2020,Minnesota,Blue,Stevens,Red
+1739,2020,Minnesota,Blue,Swift,Red
+1740,2020,Minnesota,Blue,Todd,Red
+1741,2020,Minnesota,Blue,Traverse,Red
+1742,2020,Minnesota,Blue,Wabasha,Red
+1743,2020,Minnesota,Blue,Wadena,Red
+1744,2020,Minnesota,Blue,Waseca,Red
+1745,2020,Minnesota,Blue,Washington,Blue
+1746,2020,Minnesota,Blue,Watonwan,Red
+1747,2020,Minnesota,Blue,Wilkin,Red
+1748,2020,Minnesota,Blue,Winona,Blue
+1749,2020,Minnesota,Blue,Wright,Red
+1750,2020,Minnesota,Blue,Yellow Medicine,Red
+1751,2020,Mississippi,Red,Adams,Blue
+1752,2020,Mississippi,Red,Alcorn,Red
+1753,2020,Mississippi,Red,Amite,Red
+1754,2020,Mississippi,Red,Attala,Red
+1755,2020,Mississippi,Red,Benton,Red
+1756,2020,Mississippi,Red,Bolivar,Blue
+1757,2020,Mississippi,Red,Calhoun,Red
+1758,2020,Mississippi,Red,Carroll,Red
+1759,2020,Mississippi,Red,Chickasaw,Red
+1760,2020,Mississippi,Red,Choctaw,Red
+1761,2020,Mississippi,Red,Claiborne,Blue
+1762,2020,Mississippi,Red,Clarke,Red
+1763,2020,Mississippi,Red,Clay,Blue
+1764,2020,Mississippi,Red,Coahoma,Blue
+1765,2020,Mississippi,Red,Copiah,Red
+1766,2020,Mississippi,Red,Covington,Red
+1767,2020,Mississippi,Red,DeSoto,Red
+1768,2020,Mississippi,Red,Forrest,Red
+1769,2020,Mississippi,Red,Franklin,Red
+1770,2020,Mississippi,Red,George,Red
+1771,2020,Mississippi,Red,Greene,Red
+1772,2020,Mississippi,Red,Grenada,Red
+1773,2020,Mississippi,Red,Hancock,Red
+1774,2020,Mississippi,Red,Harrison,Red
+1775,2020,Mississippi,Red,Hinds,Blue
+1776,2020,Mississippi,Red,Holmes,Blue
+1777,2020,Mississippi,Red,Humphreys,Blue
+1778,2020,Mississippi,Red,Issaquena,Blue
+1779,2020,Mississippi,Red,Itawamba,Red
+1780,2020,Mississippi,Red,Jackson,Red
+1781,2020,Mississippi,Red,Jasper,Blue
+1782,2020,Mississippi,Red,Jefferson,Blue
+1783,2020,Mississippi,Red,Jeff Davis,Blue
+1784,2020,Mississippi,Red,Jones,Red
+1785,2020,Mississippi,Red,Kemper,Blue
+1786,2020,Mississippi,Red,Lafayette,Red
+1787,2020,Mississippi,Red,Lamar,Red
+1788,2020,Mississippi,Red,Lauderdale,Red
+1789,2020,Mississippi,Red,Lawrence,Red
+1790,2020,Mississippi,Red,Leake,Red
+1791,2020,Mississippi,Red,Lee,Red
+1792,2020,Mississippi,Red,Leflore,Blue
+1793,2020,Mississippi,Red,Lincoln,Red
+1794,2020,Mississippi,Red,Lowndes,Red
+1795,2020,Mississippi,Red,Madison,Red
+1796,2020,Mississippi,Red,Marion,Red
+1797,2020,Mississippi,Red,Marshall,Red
+1798,2020,Mississippi,Red,Monroe,Red
+1799,2020,Mississippi,Red,Montgomery,Red
+1800,2020,Mississippi,Red,Neshoba,Red
+1801,2020,Mississippi,Red,Newton,Red
+1802,2020,Mississippi,Red,Noxubee,Blue
+1803,2020,Mississippi,Red,Oktibbeha,Blue
+1804,2020,Mississippi,Red,Panola,Red
+1805,2020,Mississippi,Red,Pearl River,Red
+1806,2020,Mississippi,Red,Perry,Red
+1807,2020,Mississippi,Red,Pike,Blue
+1808,2020,Mississippi,Red,Pontotoc,Red
+1809,2020,Mississippi,Red,Prentiss,Red
+1810,2020,Mississippi,Red,Quitman,Blue
+1811,2020,Mississippi,Red,Rankin,Red
+1812,2020,Mississippi,Red,Scott,Red
+1813,2020,Mississippi,Red,Sharkey,Blue
+1814,2020,Mississippi,Red,Simpson,Red
+1815,2020,Mississippi,Red,Smith,Red
+1816,2020,Mississippi,Red,Stone,Red
+1817,2020,Mississippi,Red,Sunflower,Blue
+1818,2020,Mississippi,Red,Tallahatchie,Blue
+1819,2020,Mississippi,Red,Tate,Red
+1820,2020,Mississippi,Red,Tippah,Red
+1821,2020,Mississippi,Red,Tishomingo,Red
+1822,2020,Mississippi,Red,Tunica,Blue
+1823,2020,Mississippi,Red,Union,Red
+1824,2020,Mississippi,Red,Walthall,Red
+1825,2020,Mississippi,Red,Warren,Blue
+1826,2020,Mississippi,Red,Washington,Blue
+1827,2020,Mississippi,Red,Wayne,Red
+1828,2020,Mississippi,Red,Webster,Red
+1829,2020,Mississippi,Red,Wilkinson,Blue
+1830,2020,Mississippi,Red,Winston,Red
+1831,2020,Mississippi,Red,Yalobusha,Red
+1832,2020,Mississippi,Red,Yazoo,Blue
+1833,2020,Missouri,Red,Adair,Red
+1834,2020,Missouri,Red,Andrew,Red
+1835,2020,Missouri,Red,Atchison,Red
+1836,2020,Missouri,Red,Audrain,Red
+1837,2020,Missouri,Red,Barry,Red
+1838,2020,Missouri,Red,Barton,Red
+1839,2020,Missouri,Red,Bates,Red
+1840,2020,Missouri,Red,Benton,Red
+1841,2020,Missouri,Red,Bollinger,Red
+1842,2020,Missouri,Red,Boone,Blue
+1843,2020,Missouri,Red,Buchanan,Red
+1844,2020,Missouri,Red,Butler,Red
+1845,2020,Missouri,Red,Caldwell,Red
+1846,2020,Missouri,Red,Callaway,Red
+1847,2020,Missouri,Red,Camden,Red
+1848,2020,Missouri,Red,Cape Girardeau,Red
+1849,2020,Missouri,Red,Carroll,Red
+1850,2020,Missouri,Red,Carter,Red
+1851,2020,Missouri,Red,Cass,Red
+1852,2020,Missouri,Red,Cedar,Red
+1853,2020,Missouri,Red,Chariton,Red
+1854,2020,Missouri,Red,Christian,Red
+1855,2020,Missouri,Red,Clark,Red
+1856,2020,Missouri,Red,Clay,Red
+1857,2020,Missouri,Red,Clinton,Red
+1858,2020,Missouri,Red,Cole,Red
+1859,2020,Missouri,Red,Cooper,Red
+1860,2020,Missouri,Red,Crawford,Red
+1861,2020,Missouri,Red,Dade,Red
+1862,2020,Missouri,Red,Dallas,Red
+1863,2020,Missouri,Red,Daviess,Red
+1864,2020,Missouri,Red,DeKalb,Red
+1865,2020,Missouri,Red,Dent,Red
+1866,2020,Missouri,Red,Douglas,Red
+1867,2020,Missouri,Red,Dunklin,Red
+1868,2020,Missouri,Red,Franklin,Red
+1869,2020,Missouri,Red,Gasconade,Red
+1870,2020,Missouri,Red,Gentry,Red
+1871,2020,Missouri,Red,Greene,Red
+1872,2020,Missouri,Red,Grundy,Red
+1873,2020,Missouri,Red,Harrison,Red
+1874,2020,Missouri,Red,Henry,Red
+1875,2020,Missouri,Red,Hickory,Red
+1876,2020,Missouri,Red,Holt,Red
+1877,2020,Missouri,Red,Howard,Red
+1878,2020,Missouri,Red,Howell,Red
+1879,2020,Missouri,Red,Iron,Red
+1880,2020,Missouri,Red,Jackson,Blue
+1881,2020,Missouri,Red,Jasper,Red
+1882,2020,Missouri,Red,Jefferson,Red
+1883,2020,Missouri,Red,Johnson,Red
+1884,2020,Missouri,Red,Knox,Red
+1885,2020,Missouri,Red,LaClede,Red
+1886,2020,Missouri,Red,Lafayette,Red
+1887,2020,Missouri,Red,Lawrence,Red
+1888,2020,Missouri,Red,Lewis,Red
+1889,2020,Missouri,Red,Lincoln,Red
+1890,2020,Missouri,Red,Linn,Red
+1891,2020,Missouri,Red,Livingston,Red
+1892,2020,Missouri,Red,McDonald,Red
+1893,2020,Missouri,Red,Macon,Red
+1894,2020,Missouri,Red,Madison,Red
+1895,2020,Missouri,Red,Maries,Red
+1896,2020,Missouri,Red,Marion,Red
+1897,2020,Missouri,Red,Mercer,Red
+1898,2020,Missouri,Red,Miller,Red
+1899,2020,Missouri,Red,Mississippi,Red
+1900,2020,Missouri,Red,Moniteau,Red
+1901,2020,Missouri,Red,Monroe,Red
+1902,2020,Missouri,Red,Montgomery,Red
+1903,2020,Missouri,Red,Morgan,Red
+1904,2020,Missouri,Red,New Madrid,Red
+1905,2020,Missouri,Red,Newton,Red
+1906,2020,Missouri,Red,Nodaway,Red
+1907,2020,Missouri,Red,Oregon,Red
+1908,2020,Missouri,Red,Osage,Red
+1909,2020,Missouri,Red,Ozark,Red
+1910,2020,Missouri,Red,Pemiscot,Red
+1911,2020,Missouri,Red,Perry,Red
+1912,2020,Missouri,Red,Pettis,Red
+1913,2020,Missouri,Red,Phelps,Red
+1914,2020,Missouri,Red,Pike,Red
+1915,2020,Missouri,Red,Platte,Red
+1916,2020,Missouri,Red,Polk,Red
+1917,2020,Missouri,Red,Pulaski,Red
+1918,2020,Missouri,Red,Putnam,Red
+1919,2020,Missouri,Red,Ralls,Red
+1920,2020,Missouri,Red,Randolph,Red
+1921,2020,Missouri,Red,Ray,Red
+1922,2020,Missouri,Red,Reynolds,Red
+1923,2020,Missouri,Red,Ripley,Red
+1924,2020,Missouri,Red,St. Charles,Red
+1925,2020,Missouri,Red,St. Clair,Red
+1926,2020,Missouri,Red,St. Francois,Red
+1927,2020,Missouri,Red,St. Louis County,Blue
+1928,2020,Missouri,Red,St. Louis City,Blue
+1929,2020,Missouri,Red,Ste. Genevieve,Red
+1930,2020,Missouri,Red,Saline,Red
+1931,2020,Missouri,Red,Schuyler,Red
+1932,2020,Missouri,Red,Scotland,Red
+1933,2020,Missouri,Red,Scott,Red
+1934,2020,Missouri,Red,Shannon,Red
+1935,2020,Missouri,Red,Shelby,Red
+1936,2020,Missouri,Red,Stoddard,Red
+1937,2020,Missouri,Red,Stone,Red
+1938,2020,Missouri,Red,Sullivan,Red
+1939,2020,Missouri,Red,Taney,Red
+1940,2020,Missouri,Red,Texas,Red
+1941,2020,Missouri,Red,Vernon,Red
+1942,2020,Missouri,Red,Warren,Red
+1943,2020,Missouri,Red,Washington,Red
+1944,2020,Missouri,Red,Wayne,Red
+1945,2020,Missouri,Red,Webster,Red
+1946,2020,Missouri,Red,Worth,Red
+1947,2020,Missouri,Red,Wright,Red
+1948,2020,Montana,Red,Beaverhead,Red
+1949,2020,Montana,Red,Big Horn,Blue
+1950,2020,Montana,Red,Blaine,Blue
+1951,2020,Montana,Red,Broadwater,Red
+1952,2020,Montana,Red,Carbon,Red
+1953,2020,Montana,Red,Carter,Red
+1954,2020,Montana,Red,Cascade,Red
+1955,2020,Montana,Red,Chouteau,Red
+1956,2020,Montana,Red,Custer,Red
+1957,2020,Montana,Red,Daniels,Red
+1958,2020,Montana,Red,Dawson,Red
+1959,2020,Montana,Red,Deer Lodge,Blue
+1960,2020,Montana,Red,Fallon,Red
+1961,2020,Montana,Red,Fergus,Red
+1962,2020,Montana,Red,Flathead,Red
+1963,2020,Montana,Red,Gallatin,Blue
+1964,2020,Montana,Red,Garfield,Red
+1965,2020,Montana,Red,Glacier,Blue
+1966,2020,Montana,Red,Golden Valley,Red
+1967,2020,Montana,Red,Granite,Red
+1968,2020,Montana,Red,Hill,Red
+1969,2020,Montana,Red,Jefferson,Red
+1970,2020,Montana,Red,Judith Basin,Red
+1971,2020,Montana,Red,Lake,Red
+1972,2020,Montana,Red,Lewis and Clark,Red
+1973,2020,Montana,Red,Liberty,Red
+1974,2020,Montana,Red,Lincoln,Red
+1975,2020,Montana,Red,McCone,Red
+1976,2020,Montana,Red,Madison,Red
+1977,2020,Montana,Red,Meagher,Red
+1978,2020,Montana,Red,Mineral,Red
+1979,2020,Montana,Red,Missoula,Blue
+1980,2020,Montana,Red,Musselshell,Red
+1981,2020,Montana,Red,Park,Red
+1982,2020,Montana,Red,Petroleum,Red
+1983,2020,Montana,Red,Phillips,Red
+1984,2020,Montana,Red,Pondera,Red
+1985,2020,Montana,Red,Powder River,Red
+1986,2020,Montana,Red,Powell,Red
+1987,2020,Montana,Red,Prairie,Red
+1988,2020,Montana,Red,Ravalli,Red
+1989,2020,Montana,Red,Richland,Red
+1990,2020,Montana,Red,Roosevelt,Red
+1991,2020,Montana,Red,Rosebud,Red
+1992,2020,Montana,Red,Sanders,Red
+1993,2020,Montana,Red,Sheridan,Red
+1994,2020,Montana,Red,Silver Bow,Blue
+1995,2020,Montana,Red,Stillwater,Red
+1996,2020,Montana,Red,Sweet Grass,Red
+1997,2020,Montana,Red,Teton,Red
+1998,2020,Montana,Red,Toole,Red
+1999,2020,Montana,Red,Treasure,Red
+2000,2020,Montana,Red,Valley,Red
+2001,2020,Montana,Red,Wheatland,Red
+2002,2020,Montana,Red,Wibaux,Red
+2003,2020,Montana,Red,Yellowstone,Red
+2004,2020,Nevraska,Red,Adams,Red
+2005,2020,Nevraska,Red,Antelope,Red
+2006,2020,Nevraska,Red,Arthur,Red
+2007,2020,Nevraska,Red,Banner,Red
+2008,2020,Nevraska,Red,Blaine,Red
+2009,2020,Nevraska,Red,Boone,Red
+2010,2020,Nevraska,Red,Box Butte,Red
+2011,2020,Nevraska,Red,Boyd,Red
+2012,2020,Nevraska,Red,Brown,Red
+2013,2020,Nevraska,Red,Buffalo,Red
+2014,2020,Nevraska,Red,Burt,Red
+2015,2020,Nevraska,Red,Butler,Red
+2016,2020,Nevraska,Red,Cass,Red
+2017,2020,Nevraska,Red,Cedar,Red
+2018,2020,Nevraska,Red,Chase,Red
+2019,2020,Nevraska,Red,Cherry,Red
+2020,2020,Nevraska,Red,Cheyenne,Red
+2021,2020,Nevraska,Red,Clay,Red
+2022,2020,Nevraska,Red,Colfax,Red
+2023,2020,Nevraska,Red,Cuming,Red
+2024,2020,Nevraska,Red,Custer,Red
+2025,2020,Nevraska,Red,Dakota,Red
+2026,2020,Nevraska,Red,Dawes,Red
+2027,2020,Nevraska,Red,Dawson,Red
+2028,2020,Nevraska,Red,Deuel,Red
+2029,2020,Nevraska,Red,Dixon,Red
+2030,2020,Nevraska,Red,Dodge,Red
+2031,2020,Nevraska,Red,Douglas,Blue
+2032,2020,Nevraska,Red,Dundy,Red
+2033,2020,Nevraska,Red,Fillmore,Red
+2034,2020,Nevraska,Red,Franklin,Red
+2035,2020,Nevraska,Red,Frontier,Red
+2036,2020,Nevraska,Red,Furnas,Red
+2037,2020,Nevraska,Red,Gage,Red
+2038,2020,Nevraska,Red,Garden,Red
+2039,2020,Nevraska,Red,Garfield,Red
+2040,2020,Nevraska,Red,Gosper,Red
+2041,2020,Nevraska,Red,Grant,Red
+2042,2020,Nevraska,Red,Greeley,Red
+2043,2020,Nevraska,Red,Hall,Red
+2044,2020,Nevraska,Red,Hamilton,Red
+2045,2020,Nevraska,Red,Harlan,Red
+2046,2020,Nevraska,Red,Hayes,Red
+2047,2020,Nevraska,Red,Hitchcock,Red
+2048,2020,Nevraska,Red,Holt,Red
+2049,2020,Nevraska,Red,Hooker,Red
+2050,2020,Nevraska,Red,Howard,Red
+2051,2020,Nevraska,Red,Jefferson,Red
+2052,2020,Nevraska,Red,Johnson,Red
+2053,2020,Nevraska,Red,Kearney,Red
+2054,2020,Nevraska,Red,Keith,Red
+2055,2020,Nevraska,Red,Keya Paha,Red
+2056,2020,Nevraska,Red,Kimball,Red
+2057,2020,Nevraska,Red,Knox,Red
+2058,2020,Nevraska,Red,Lancaster,Blue
+2059,2020,Nevraska,Red,Lincoln,Red
+2060,2020,Nevraska,Red,Logan,Red
+2061,2020,Nevraska,Red,Loup,Red
+2062,2020,Nevraska,Red,McPherson,Red
+2063,2020,Nevraska,Red,Madison,Red
+2064,2020,Nevraska,Red,Merrick,Red
+2065,2020,Nevraska,Red,Morrill,Red
+2066,2020,Nevraska,Red,Nance,Red
+2067,2020,Nevraska,Red,Nemaha,Red
+2068,2020,Nevraska,Red,Nuckolls,Red
+2069,2020,Nevraska,Red,Otoe,Red
+2070,2020,Nevraska,Red,Pawnee,Red
+2071,2020,Nevraska,Red,Perkins,Red
+2072,2020,Nevraska,Red,Phelps,Red
+2073,2020,Nevraska,Red,Pierce,Red
+2074,2020,Nevraska,Red,Platte,Red
+2075,2020,Nevraska,Red,Polk,Red
+2076,2020,Nevraska,Red,Red Willow,Red
+2077,2020,Nevraska,Red,Richardson,Red
+2078,2020,Nevraska,Red,Rock,Red
+2079,2020,Nevraska,Red,Saline,Red
+2080,2020,Nevraska,Red,Sarpy,Red
+2081,2020,Nevraska,Red,Saunders,Red
+2082,2020,Nevraska,Red,Scotts Bluff,Red
+2083,2020,Nevraska,Red,Seward,Red
+2084,2020,Nevraska,Red,Sheridan,Red
+2085,2020,Nevraska,Red,Sherman,Red
+2086,2020,Nevraska,Red,Sioux,Red
+2087,2020,Nevraska,Red,Stanton,Red
+2088,2020,Nevraska,Red,Thayer,Red
+2089,2020,Nevraska,Red,Thomas,Red
+2090,2020,Nevraska,Red,Thurston,Red
+2091,2020,Nevraska,Red,Valley,Red
+2092,2020,Nevraska,Red,Washington,Red
+2093,2020,Nevraska,Red,Wayne,Red
+2094,2020,Nevraska,Red,Webster,Red
+2095,2020,Nevraska,Red,Wheeler,Red
+2096,2020,Nevraska,Red,York,Red
+2097,2020,Nevada,Blue,Carson City,Red
+2098,2020,Nevada,Blue,Churchill,Red
+2099,2020,Nevada,Blue,Clark,Blue
+2100,2020,Nevada,Blue,Douglas,Red
+2101,2020,Nevada,Blue,Elko,Red
+2102,2020,Nevada,Blue,Esmeralda,Red
+2103,2020,Nevada,Blue,Eureka,Red
+2104,2020,Nevada,Blue,Humboldt,Red
+2105,2020,Nevada,Blue,Lander,Red
+2106,2020,Nevada,Blue,Lincoln,Red
+2107,2020,Nevada,Blue,Lyon,Red
+2108,2020,Nevada,Blue,Mineral,Red
+2109,2020,Nevada,Blue,Nye,Red
+2110,2020,Nevada,Blue,Pershing,Red
+2111,2020,Nevada,Blue,Storey,Red
+2112,2020,Nevada,Blue,Washoe,Blue
+2113,2020,Nevada,Blue,White Pine,Red
+2114,2020,New Hampshire,Blue,Acworth,Blue
+2115,2020,New Hampshire,Blue,Albany,Blue
+2116,2020,New Hampshire,Blue,Alexandria,Red
+2117,2020,New Hampshire,Blue,Allenstown,Red
+2118,2020,New Hampshire,Blue,Alstead,Blue
+2119,2020,New Hampshire,Blue,Alton,Red
+2120,2020,New Hampshire,Blue,Amherst,Blue
+2121,2020,New Hampshire,Blue,Andover,Blue
+2122,2020,New Hampshire,Blue,Antrim,Red
+2123,2020,New Hampshire,Blue,Ashland,Blue
+2124,2020,New Hampshire,Blue,Atkinson,Red
+2125,2020,New Hampshire,Blue,Auburn,Red
+2126,2020,New Hampshire,Blue,Barnstead,Red
+2127,2020,New Hampshire,Blue,Barrington,Blue
+2128,2020,New Hampshire,Blue,Bartlett,Blue
+2129,2020,New Hampshire,Blue,Bath,Red
+2130,2020,New Hampshire,Blue,Bedford,Blue
+2131,2020,New Hampshire,Blue,Belmont,Red
+2132,2020,New Hampshire,Blue,Bennington,Red
+2133,2020,New Hampshire,Blue,Benton,Red
+2134,2020,New Hampshire,Blue,Berlin,Blue
+2135,2020,New Hampshire,Blue,Bethlehem,Blue
+2136,2020,New Hampshire,Blue,Boscawen,Red
+2137,2020,New Hampshire,Blue,Bow,Blue
+2138,2020,New Hampshire,Blue,Bradford,Blue
+2139,2020,New Hampshire,Blue,Brentwood,Blue
+2140,2020,New Hampshire,Blue,Bridgewater,Red
+2141,2020,New Hampshire,Blue,Bristol,Red
+2142,2020,New Hampshire,Blue,Brookfield,Red
+2143,2020,New Hampshire,Blue,Brookline,Blue
+2144,2020,New Hampshire,Blue,Campton,Blue
+2145,2020,New Hampshire,Blue,Canaan,Blue
+2146,2020,New Hampshire,Blue,Candia,Red
+2147,2020,New Hampshire,Blue,Canterbury,Blue
+2148,2020,New Hampshire,Blue,Carroll,Red
+2149,2020,New Hampshire,Blue,Center Harbor,Red
+2150,2020,New Hampshire,Blue,Charlestown,Red
+2151,2020,New Hampshire,Blue,Chatham,Red
+2152,2020,New Hampshire,Blue,Chester,Red
+2153,2020,New Hampshire,Blue,Chesterfield,Blue
+2154,2020,New Hampshire,Blue,Chichester,Red
+2155,2020,New Hampshire,Blue,Claremont,Blue
+2156,2020,New Hampshire,Blue,Clarksville,Red
+2157,2020,New Hampshire,Blue,Colebrook,Red
+2158,2020,New Hampshire,Blue,Columbia,Red
+2159,2020,New Hampshire,Blue,Concord,Blue
+2160,2020,New Hampshire,Blue,Conway,Blue
+2161,2020,New Hampshire,Blue,Cornish,Blue
+2162,2020,New Hampshire,Blue,Croydon,Red
+2163,2020,New Hampshire,Blue,Dalton,Red
+2164,2020,New Hampshire,Blue,Danbury,Red
+2165,2020,New Hampshire,Blue,Danville,Red
+2166,2020,New Hampshire,Blue,Deerfield,Red
+2167,2020,New Hampshire,Blue,Deering,Red
+2168,2020,New Hampshire,Blue,Derry,Red
+2169,2020,New Hampshire,Blue,Dixville,0%
+2170,2020,New Hampshire,Blue,Dorchester,Red
+2171,2020,New Hampshire,Blue,Dover,Blue
+2172,2020,New Hampshire,Blue,Dublin,Blue
+2173,2020,New Hampshire,Blue,Dummer,Red
+2174,2020,New Hampshire,Blue,Dunbarton,Red
+2175,2020,New Hampshire,Blue,Durham,Blue
+2176,2020,New Hampshire,Blue,East Kingston,Red
+2177,2020,New Hampshire,Blue,Easton,Blue
+2178,2020,New Hampshire,Blue,Eaton,Blue
+2179,2020,New Hampshire,Blue,Effingham,Red
+2180,2020,New Hampshire,Blue,Ellsworth,Blue
+2181,2020,New Hampshire,Blue,Enfield,Blue
+2182,2020,New Hampshire,Blue,Epping,Red
+2183,2020,New Hampshire,Blue,Epsom,Red
+2184,2020,New Hampshire,Blue,Errol,Red
+2185,2020,New Hampshire,Blue,Exeter,Blue
+2186,2020,New Hampshire,Blue,Farmington,Red
+2187,2020,New Hampshire,Blue,Fitzwilliam,Red
+2188,2020,New Hampshire,Blue,Francestown,Blue
+2189,2020,New Hampshire,Blue,Franconia,Blue
+2190,2020,New Hampshire,Blue,Franklin,Red
+2191,2020,New Hampshire,Blue,Freedom,0%
+2192,2020,New Hampshire,Blue,Fremont,Red
+2193,2020,New Hampshire,Blue,Gilford,Red
+2194,2020,New Hampshire,Blue,Gilmanton,Red
+2195,2020,New Hampshire,Blue,Gilsum,Red
+2196,2020,New Hampshire,Blue,Goffstown,Red
+2197,2020,New Hampshire,Blue,Gorham,Blue
+2198,2020,New Hampshire,Blue,Goshen,Red
+2199,2020,New Hampshire,Blue,Grafton,Red
+2200,2020,New Hampshire,Blue,Grantham,Blue
+2201,2020,New Hampshire,Blue,Greenfield,Blue
+2202,2020,New Hampshire,Blue,Greenland,Blue
+2203,2020,New Hampshire,Blue,Greenville,Red
+2204,2020,New Hampshire,Blue,Groton,Red
+2205,2020,New Hampshire,Blue,Hampstead,Red
+2206,2020,New Hampshire,Blue,Hampton,Blue
+2207,2020,New Hampshire,Blue,Hampton Falls,Red
+2208,2020,New Hampshire,Blue,Hancock,Blue
+2209,2020,New Hampshire,Blue,Hanover,Blue
+2210,2020,New Hampshire,Blue,Harrisville,Blue
+2211,2020,New Hampshire,Blue,Harts Location,Blue
+2212,2020,New Hampshire,Blue,Haverhill,Red
+2213,2020,New Hampshire,Blue,Hebron,Red
+2214,2020,New Hampshire,Blue,Henniker,Blue
+2215,2020,New Hampshire,Blue,Hill,Red
+2216,2020,New Hampshire,Blue,Hillsborough,Red
+2217,2020,New Hampshire,Blue,Hinsdale,Blue
+2218,2020,New Hampshire,Blue,Holderness,Blue
+2219,2020,New Hampshire,Blue,Hollis,Blue
+2220,2020,New Hampshire,Blue,Hooksett,Red
+2221,2020,New Hampshire,Blue,Hopkinton,Blue
+2222,2020,New Hampshire,Blue,Hudson,Red
+2223,2020,New Hampshire,Blue,Jackson,Blue
+2224,2020,New Hampshire,Blue,Jaffrey,Blue
+2225,2020,New Hampshire,Blue,Jefferson,Red
+2226,2020,New Hampshire,Blue,Keene,Blue
+2227,2020,New Hampshire,Blue,Kensington,Blue
+2228,2020,New Hampshire,Blue,Kingston,Red
+2229,2020,New Hampshire,Blue,Laconia,Red
+2230,2020,New Hampshire,Blue,Lancaster,Red
+2231,2020,New Hampshire,Blue,Landaff,Red
+2232,2020,New Hampshire,Blue,Langdon,Blue
+2233,2020,New Hampshire,Blue,Lebanon,Blue
+2234,2020,New Hampshire,Blue,Lee,Blue
+2235,2020,New Hampshire,Blue,Lempster,Red
+2236,2020,New Hampshire,Blue,Lincoln,Blue
+2237,2020,New Hampshire,Blue,Lisbon,Red
+2238,2020,New Hampshire,Blue,Litchfield,Red
+2239,2020,New Hampshire,Blue,Littleton,Blue
+2240,2020,New Hampshire,Blue,Londonderry,Red
+2241,2020,New Hampshire,Blue,Loudon,Red
+2242,2020,New Hampshire,Blue,Lyman,Red
+2243,2020,New Hampshire,Blue,Lyme,Blue
+2244,2020,New Hampshire,Blue,Lyndeborough,Blue
+2245,2020,New Hampshire,Blue,Madbury,Blue
+2246,2020,New Hampshire,Blue,Madison,Blue
+2247,2020,New Hampshire,Blue,Manchester,Blue
+2248,2020,New Hampshire,Blue,Marlborough,Blue
+2249,2020,New Hampshire,Blue,Marlow,Blue
+2250,2020,New Hampshire,Blue,Mason,Red
+2251,2020,New Hampshire,Blue,Meredith,Red
+2252,2020,New Hampshire,Blue,Merrimack,Blue
+2253,2020,New Hampshire,Blue,Middleton,Red
+2254,2020,New Hampshire,Blue,Milan,Red
+2255,2020,New Hampshire,Blue,Milford,Blue
+2256,2020,New Hampshire,Blue,Millsfield,Red
+2257,2020,New Hampshire,Blue,Milton,Red
+2258,2020,New Hampshire,Blue,Monroe,Red
+2259,2020,New Hampshire,Blue,Mont Vernon,Blue
+2260,2020,New Hampshire,Blue,Moultonborough,Red
+2261,2020,New Hampshire,Blue,Nashua,Blue
+2262,2020,New Hampshire,Blue,Nelson,Blue
+2263,2020,New Hampshire,Blue,New Boston,Red
+2264,2020,New Hampshire,Blue,Newbury,Blue
+2265,2020,New Hampshire,Blue,New Castle,Blue
+2266,2020,New Hampshire,Blue,New Durham,Red
+2267,2020,New Hampshire,Blue,Newfields,Blue
+2268,2020,New Hampshire,Blue,New Hampton,Red
+2269,2020,New Hampshire,Blue,Newington,Red
+2270,2020,New Hampshire,Blue,New Ipswich,Red
+2271,2020,New Hampshire,Blue,New London,Blue
+2272,2020,New Hampshire,Blue,Newmarket,Blue
+2273,2020,New Hampshire,Blue,Newport,Red
+2274,2020,New Hampshire,Blue,Newton,Red
+2275,2020,New Hampshire,Blue,Northfield,Red
+2276,2020,New Hampshire,Blue,North Hampton,Blue
+2277,2020,New Hampshire,Blue,Northumberland,Red
+2278,2020,New Hampshire,Blue,Northwood,Red
+2279,2020,New Hampshire,Blue,Nottingham,Blue
+2280,2020,New Hampshire,Blue,Orange,Red
+2281,2020,New Hampshire,Blue,Orford,Blue
+2282,2020,New Hampshire,Blue,Ossipee,Red
+2283,2020,New Hampshire,Blue,Pelham,Red
+2284,2020,New Hampshire,Blue,Pembroke,Blue
+2285,2020,New Hampshire,Blue,Peterborough,Blue
+2286,2020,New Hampshire,Blue,Piermont,Blue
+2287,2020,New Hampshire,Blue,Pittsburg,Red
+2288,2020,New Hampshire,Blue,Pittsfield,Red
+2289,2020,New Hampshire,Blue,Plainfield,Blue
+2290,2020,New Hampshire,Blue,Plaistow,Red
+2291,2020,New Hampshire,Blue,Plymouth,Blue
+2292,2020,New Hampshire,Blue,Portsmouth,Blue
+2293,2020,New Hampshire,Blue,Randolph,Blue
+2294,2020,New Hampshire,Blue,Raymond,Red
+2295,2020,New Hampshire,Blue,Richmond,Red
+2296,2020,New Hampshire,Blue,Rindge,Red
+2297,2020,New Hampshire,Blue,Rochester,Red
+2298,2020,New Hampshire,Blue,Rollinsford,Blue
+2299,2020,New Hampshire,Blue,Roxbury,Blue
+2300,2020,New Hampshire,Blue,Rumney,Red
+2301,2020,New Hampshire,Blue,Rye,Blue
+2302,2020,New Hampshire,Blue,Salem,Red
+2303,2020,New Hampshire,Blue,Salisbury,Red
+2304,2020,New Hampshire,Blue,Sanbornton,Red
+2305,2020,New Hampshire,Blue,Sandown,Red
+2306,2020,New Hampshire,Blue,Sandwich,Blue
+2307,2020,New Hampshire,Blue,Seabrook,Red
+2308,2020,New Hampshire,Blue,Sharon,Blue
+2309,2020,New Hampshire,Blue,Shelburne,Blue
+2310,2020,New Hampshire,Blue,Somersworth,Blue
+2311,2020,New Hampshire,Blue,South Hampton,Red
+2312,2020,New Hampshire,Blue,Springfield,Blue
+2313,2020,New Hampshire,Blue,Stark,Red
+2314,2020,New Hampshire,Blue,Stewartstown,Red
+2315,2020,New Hampshire,Blue,Stoddard,Red
+2316,2020,New Hampshire,Blue,Strafford,Red
+2317,2020,New Hampshire,Blue,Stratford,Blue
+2318,2020,New Hampshire,Blue,Stratham,Blue
+2319,2020,New Hampshire,Blue,Sugar Hill,Blue
+2320,2020,New Hampshire,Blue,Sullivan,Blue
+2321,2020,New Hampshire,Blue,Sunapee,Blue
+2322,2020,New Hampshire,Blue,Surry,Blue
+2323,2020,New Hampshire,Blue,Sutton,Blue
+2324,2020,New Hampshire,Blue,Swanzey,Blue
+2325,2020,New Hampshire,Blue,Tamworth,Blue
+2326,2020,New Hampshire,Blue,Temple,Blue
+2327,2020,New Hampshire,Blue,Thornton,Blue
+2328,2020,New Hampshire,Blue,Tilton,Red
+2329,2020,New Hampshire,Blue,Troy,Red
+2330,2020,New Hampshire,Blue,Tuftonboro,Red
+2331,2020,New Hampshire,Blue,Unity,Red
+2332,2020,New Hampshire,Blue,Wakefield,Red
+2333,2020,New Hampshire,Blue,Walpole,Blue
+2334,2020,New Hampshire,Blue,Warner,Blue
+2335,2020,New Hampshire,Blue,Warren,Red
+2336,2020,New Hampshire,Blue,Washington,Red
+2337,2020,New Hampshire,Blue,Waterville,Blue
+2338,2020,New Hampshire,Blue,Weare,Red
+2339,2020,New Hampshire,Blue,Webster,Red
+2340,2020,New Hampshire,Blue,Wentworth,Red
+2341,2020,New Hampshire,Blue,Wentworth's Location,Red
+2342,2020,New Hampshire,Blue,Westmoreland,Blue
+2343,2020,New Hampshire,Blue,Whitefield,Red
+2344,2020,New Hampshire,Blue,Wilmot,Blue
+2345,2020,New Hampshire,Blue,Wilton,Blue
+2346,2020,New Hampshire,Blue,Winchester,Red
+2347,2020,New Hampshire,Blue,Windham,Red
+2348,2020,New Hampshire,Blue,Windsor,Red
+2349,2020,New Hampshire,Blue,Wolfeboro,Red
+2350,2020,New Hampshire,Blue,Woodstock,Blue
+2351,2020,New Jersey,Blue,Atlantic,Blue
+2352,2020,New Jersey,Blue,Bergen,Blue
+2353,2020,New Jersey,Blue,Burlington,Blue
+2354,2020,New Jersey,Blue,Camden,Blue
+2355,2020,New Jersey,Blue,Cape May,Red
+2356,2020,New Jersey,Blue,Cumberland,Blue
+2357,2020,New Jersey,Blue,Essex,Blue
+2358,2020,New Jersey,Blue,Gloucester,Blue
+2359,2020,New Jersey,Blue,Hudson,Blue
+2360,2020,New Jersey,Blue,Hunterdon,Red
+2361,2020,New Jersey,Blue,Mercer,Blue
+2362,2020,New Jersey,Blue,Middlesex,Blue
+2363,2020,New Jersey,Blue,Monmouth,Red
+2364,2020,New Jersey,Blue,Morris,Blue
+2365,2020,New Jersey,Blue,Ocean,Red
+2366,2020,New Jersey,Blue,Passaic,Blue
+2367,2020,New Jersey,Blue,Salem,Red
+2368,2020,New Jersey,Blue,Somerset,Blue
+2369,2020,New Jersey,Blue,Sussex,Red
+2370,2020,New Jersey,Blue,Union,Blue
+2371,2020,New Jersey,Blue,Warren,Red
+2372,2020,New Mexico,Blue,Bernalillo,Blue
+2373,2020,New Mexico,Blue,Catron,Red
+2374,2020,New Mexico,Blue,Chaves,Red
+2375,2020,New Mexico,Blue,Cibola,Blue
+2376,2020,New Mexico,Blue,Colfax,Red
+2377,2020,New Mexico,Blue,Curry,Red
+2378,2020,New Mexico,Blue,DeBaca,Red
+2379,2020,New Mexico,Blue,Dona Ana,Blue
+2380,2020,New Mexico,Blue,Eddy,Red
+2381,2020,New Mexico,Blue,Grant,Blue
+2382,2020,New Mexico,Blue,Guadalupe,Blue
+2383,2020,New Mexico,Blue,Harding,Red
+2384,2020,New Mexico,Blue,Hidalgo,Red
+2385,2020,New Mexico,Blue,Lea,Red
+2386,2020,New Mexico,Blue,Lincoln,Red
+2387,2020,New Mexico,Blue,Los Alamos,Blue
+2388,2020,New Mexico,Blue,Luna,Red
+2389,2020,New Mexico,Blue,McKinley,Blue
+2390,2020,New Mexico,Blue,Mora,Blue
+2391,2020,New Mexico,Blue,Otero,Red
+2392,2020,New Mexico,Blue,Quay,Red
+2393,2020,New Mexico,Blue,Rio Arriba,Blue
+2394,2020,New Mexico,Blue,Roosevelt,Red
+2395,2020,New Mexico,Blue,Sandoval,Blue
+2396,2020,New Mexico,Blue,San Juan,Red
+2397,2020,New Mexico,Blue,San Miguel,Blue
+2398,2020,New Mexico,Blue,Santa Fe,Blue
+2399,2020,New Mexico,Blue,Sierra,Red
+2400,2020,New Mexico,Blue,Socorro,Blue
+2401,2020,New Mexico,Blue,Taos,Blue
+2402,2020,New Mexico,Blue,Torrance,Red
+2403,2020,New Mexico,Blue,Union,Red
+2404,2020,New Mexico,Blue,Valencia,Red
+2405,2020,New York,Blue,Albany,Blue
+2406,2020,New York,Blue,Allegany,Red
+2407,2020,New York,Blue,Bronx,Blue
+2408,2020,New York,Blue,Broome,Red
+2409,2020,New York,Blue,Cattaraugus,Red
+2410,2020,New York,Blue,Cayuga,Red
+2411,2020,New York,Blue,Chautauqua,Red
+2412,2020,New York,Blue,Chemung,Red
+2413,2020,New York,Blue,Chenango,Red
+2414,2020,New York,Blue,Clinton,Red
+2415,2020,New York,Blue,Columbia,Blue
+2416,2020,New York,Blue,Cortland,Red
+2417,2020,New York,Blue,Delaware,Red
+2418,2020,New York,Blue,Dutchess,Red
+2419,2020,New York,Blue,Erie,Blue
+2420,2020,New York,Blue,Essex,Red
+2421,2020,New York,Blue,Franklin,Red
+2422,2020,New York,Blue,Fulton,Red
+2423,2020,New York,Blue,Genesee,Red
+2424,2020,New York,Blue,Greene,Red
+2425,2020,New York,Blue,Hamilton,Red
+2426,2020,New York,Blue,Herkimer,Red
+2427,2020,New York,Blue,Jefferson,Red
+2428,2020,New York,Blue,Brooklyn,Blue
+2429,2020,New York,Blue,Lewis,Red
+2430,2020,New York,Blue,Livingston,Red
+2431,2020,New York,Blue,Madison,Red
+2432,2020,New York,Blue,Monroe,Blue
+2433,2020,New York,Blue,Montgomery,Red
+2434,2020,New York,Blue,Nassau,Red
+2435,2020,New York,Blue,Manhattan,Blue
+2436,2020,New York,Blue,Niagara,Red
+2437,2020,New York,Blue,Oneida,Red
+2438,2020,New York,Blue,Onondaga,Blue
+2439,2020,New York,Blue,Ontario,Red
+2440,2020,New York,Blue,Orange,Red
+2441,2020,New York,Blue,Orleans,Red
+2442,2020,New York,Blue,Oswego,Red
+2443,2020,New York,Blue,Otsego,Red
+2444,2020,New York,Blue,Putnam,Red
+2445,2020,New York,Blue,Queens,Blue
+2446,2020,New York,Blue,Rensselaer,Red
+2447,2020,New York,Blue,Staten Island,Red
+2448,2020,New York,Blue,Rockland,Red
+2449,2020,New York,Blue,Saint Lawrence,Red
+2450,2020,New York,Blue,Saratoga,Red
+2451,2020,New York,Blue,Schenectady,Blue
+2452,2020,New York,Blue,Schoharie,Red
+2453,2020,New York,Blue,Schuyler,Red
+2454,2020,New York,Blue,Seneca,Red
+2455,2020,New York,Blue,Steuben,Red
+2456,2020,New York,Blue,Suffolk,Red
+2457,2020,New York,Blue,Sullivan,Red
+2458,2020,New York,Blue,Tioga,Red
+2459,2020,New York,Blue,Tompkins,Blue
+2460,2020,New York,Blue,Ulster,Blue
+2461,2020,New York,Blue,Warren,Red
+2462,2020,New York,Blue,Washington,Red
+2463,2020,New York,Blue,Wayne,Red
+2464,2020,New York,Blue,Westchester,Blue
+2465,2020,New York,Blue,Wyoming,Red
+2466,2020,New York,Blue,Yates,Red
+2467,2020,North Dakota,Red,Adams,Red
+2468,2020,North Dakota,Red,Barnes,Red
+2469,2020,North Dakota,Red,Benson,Red
+2470,2020,North Dakota,Red,Billings,Red
+2471,2020,North Dakota,Red,Bottineau,Red
+2472,2020,North Dakota,Red,Bowman,Red
+2473,2020,North Dakota,Red,Burke,Red
+2474,2020,North Dakota,Red,Burleigh,Red
+2475,2020,North Dakota,Red,Cass,Red
+2476,2020,North Dakota,Red,Cavalier,Red
+2477,2020,North Dakota,Red,Dickey,Red
+2478,2020,North Dakota,Red,Divide,Red
+2479,2020,North Dakota,Red,Dunn,Red
+2480,2020,North Dakota,Red,Eddy,Red
+2481,2020,North Dakota,Red,Emmons,Red
+2482,2020,North Dakota,Red,Foster,Red
+2483,2020,North Dakota,Red,Golden Valley,Red
+2484,2020,North Dakota,Red,Grand Forks,Red
+2485,2020,North Dakota,Red,Grant,Red
+2486,2020,North Dakota,Red,Griggs,Red
+2487,2020,North Dakota,Red,Hettinger,Red
+2488,2020,North Dakota,Red,Kidder,Red
+2489,2020,North Dakota,Red,LaMoure,Red
+2490,2020,North Dakota,Red,Logan,Red
+2491,2020,North Dakota,Red,McHenry,Red
+2492,2020,North Dakota,Red,McIntosh,Red
+2493,2020,North Dakota,Red,McKenzie,Red
+2494,2020,North Dakota,Red,McLean,Red
+2495,2020,North Dakota,Red,Mercer,Red
+2496,2020,North Dakota,Red,Morton,Red
+2497,2020,North Dakota,Red,Mountrail,Red
+2498,2020,North Dakota,Red,Nelson,Red
+2499,2020,North Dakota,Red,Oliver,Red
+2500,2020,North Dakota,Red,Pembina,Red
+2501,2020,North Dakota,Red,Pierce,Red
+2502,2020,North Dakota,Red,Ramsey,Red
+2503,2020,North Dakota,Red,Ransom,Red
+2504,2020,North Dakota,Red,Renville,Red
+2505,2020,North Dakota,Red,Richland,Red
+2506,2020,North Dakota,Red,Rolette,Blue
+2507,2020,North Dakota,Red,Sargent,Red
+2508,2020,North Dakota,Red,Sheridan,Red
+2509,2020,North Dakota,Red,Sioux,Blue
+2510,2020,North Dakota,Red,Slope,Red
+2511,2020,North Dakota,Red,Stark,Red
+2512,2020,North Dakota,Red,Steele,Red
+2513,2020,North Dakota,Red,Stutsman,Red
+2514,2020,North Dakota,Red,Towner,Red
+2515,2020,North Dakota,Red,Traill,Red
+2516,2020,North Dakota,Red,Walsh,Red
+2517,2020,North Dakota,Red,Ward,Red
+2518,2020,North Dakota,Red,Wells,Red
+2519,2020,North Dakota,Red,Williams,Red
+2520,2020,Ohio,Red,Adams,Red
+2521,2020,Ohio,Red,Allen,Red
+2522,2020,Ohio,Red,Ashland,Red
+2523,2020,Ohio,Red,Ashtabula,Red
+2524,2020,Ohio,Red,Athens,Blue
+2525,2020,Ohio,Red,Auglaize,Red
+2526,2020,Ohio,Red,Belmont,Red
+2527,2020,Ohio,Red,Brown,Red
+2528,2020,Ohio,Red,Butler,Red
+2529,2020,Ohio,Red,Carroll,Red
+2530,2020,Ohio,Red,Champaign,Red
+2531,2020,Ohio,Red,Clark,Red
+2532,2020,Ohio,Red,Clermont,Red
+2533,2020,Ohio,Red,Clinton,Red
+2534,2020,Ohio,Red,Columbiana,Red
+2535,2020,Ohio,Red,Coshocton,Red
+2536,2020,Ohio,Red,Crawford,Red
+2537,2020,Ohio,Red,Cuyahoga,Blue
+2538,2020,Ohio,Red,Darke,Red
+2539,2020,Ohio,Red,Defiance,Red
+2540,2020,Ohio,Red,Delaware,Red
+2541,2020,Ohio,Red,Erie,Red
+2542,2020,Ohio,Red,Fairfield,Red
+2543,2020,Ohio,Red,Fayette,Red
+2544,2020,Ohio,Red,Franklin,Blue
+2545,2020,Ohio,Red,Fulton,Red
+2546,2020,Ohio,Red,Gallia,Red
+2547,2020,Ohio,Red,Geauga,Red
+2548,2020,Ohio,Red,Greene,Red
+2549,2020,Ohio,Red,Guernsey,Red
+2550,2020,Ohio,Red,Hamilton,Blue
+2551,2020,Ohio,Red,Hancock,Red
+2552,2020,Ohio,Red,Hardin,Red
+2553,2020,Ohio,Red,Harrison,Red
+2554,2020,Ohio,Red,Henry,Red
+2555,2020,Ohio,Red,Highland,Red
+2556,2020,Ohio,Red,Hocking,Red
+2557,2020,Ohio,Red,Holmes,Red
+2558,2020,Ohio,Red,Huron,Red
+2559,2020,Ohio,Red,Jackson,Red
+2560,2020,Ohio,Red,Jefferson,Red
+2561,2020,Ohio,Red,Knox,Red
+2562,2020,Ohio,Red,Lake,Red
+2563,2020,Ohio,Red,Lawrence,Red
+2564,2020,Ohio,Red,Licking,Red
+2565,2020,Ohio,Red,Logan,Red
+2566,2020,Ohio,Red,Lorain,Red
+2567,2020,Ohio,Red,Lucas,Blue
+2568,2020,Ohio,Red,Madison,Red
+2569,2020,Ohio,Red,Mahoning,Red
+2570,2020,Ohio,Red,Marion,Red
+2571,2020,Ohio,Red,Medina,Red
+2572,2020,Ohio,Red,Meigs,Red
+2573,2020,Ohio,Red,Mercer,Red
+2574,2020,Ohio,Red,Miami,Red
+2575,2020,Ohio,Red,Monroe,Red
+2576,2020,Ohio,Red,Montgomery,Blue
+2577,2020,Ohio,Red,Morgan,Red
+2578,2020,Ohio,Red,Morrow,Red
+2579,2020,Ohio,Red,Muskingum,Red
+2580,2020,Ohio,Red,Noble,Red
+2581,2020,Ohio,Red,Ottawa,Red
+2582,2020,Ohio,Red,Paulding,Red
+2583,2020,Ohio,Red,Perry,Red
+2584,2020,Ohio,Red,Pickaway,Red
+2585,2020,Ohio,Red,Pike,Red
+2586,2020,Ohio,Red,Portage,Red
+2587,2020,Ohio,Red,Preble,Red
+2588,2020,Ohio,Red,Putnam,Red
+2589,2020,Ohio,Red,Richland,Red
+2590,2020,Ohio,Red,Ross,Red
+2591,2020,Ohio,Red,Sandusky,Red
+2592,2020,Ohio,Red,Scioto,Red
+2593,2020,Ohio,Red,Seneca,Red
+2594,2020,Ohio,Red,Shelby,Red
+2595,2020,Ohio,Red,Stark,Red
+2596,2020,Ohio,Red,Summit,Blue
+2597,2020,Ohio,Red,Trumbull,Red
+2598,2020,Ohio,Red,Tuscarawas,Red
+2599,2020,Ohio,Red,Union,Red
+2600,2020,Ohio,Red,Van Wert,Red
+2601,2020,Ohio,Red,Vinton,Red
+2602,2020,Ohio,Red,Warren,Red
+2603,2020,Ohio,Red,Washington,Red
+2604,2020,Ohio,Red,Wayne,Red
+2605,2020,Ohio,Red,Williams,Red
+2606,2020,Ohio,Red,Wood,Red
+2607,2020,Ohio,Red,Wyandot,Red
+2608,2020,Oklahoma,Red,Adair,Red
+2609,2020,Oklahoma,Red,Alfalfa,Red
+2610,2020,Oklahoma,Red,Atoka,Red
+2611,2020,Oklahoma,Red,Beaver,Red
+2612,2020,Oklahoma,Red,Beckham,Red
+2613,2020,Oklahoma,Red,Blaine,Red
+2614,2020,Oklahoma,Red,Bryan,Red
+2615,2020,Oklahoma,Red,Caddo,Red
+2616,2020,Oklahoma,Red,Canadian,Red
+2617,2020,Oklahoma,Red,Carter,Red
+2618,2020,Oklahoma,Red,Cherokee,Red
+2619,2020,Oklahoma,Red,Choctaw,Red
+2620,2020,Oklahoma,Red,Cimarron,Red
+2621,2020,Oklahoma,Red,Cleveland,Red
+2622,2020,Oklahoma,Red,Coal,Red
+2623,2020,Oklahoma,Red,Comanche,Red
+2624,2020,Oklahoma,Red,Cotton,Red
+2625,2020,Oklahoma,Red,Craig,Red
+2626,2020,Oklahoma,Red,Creek,Red
+2627,2020,Oklahoma,Red,Custer,Red
+2628,2020,Oklahoma,Red,Delaware,Red
+2629,2020,Oklahoma,Red,Dewey,Red
+2630,2020,Oklahoma,Red,Ellis,Red
+2631,2020,Oklahoma,Red,Garfield,Red
+2632,2020,Oklahoma,Red,Garvin,Red
+2633,2020,Oklahoma,Red,Grady,Red
+2634,2020,Oklahoma,Red,Grant,Red
+2635,2020,Oklahoma,Red,Greer,Red
+2636,2020,Oklahoma,Red,Harmon,Red
+2637,2020,Oklahoma,Red,Harper,Red
+2638,2020,Oklahoma,Red,Haskell,Red
+2639,2020,Oklahoma,Red,Hughes,Red
+2640,2020,Oklahoma,Red,Jackson,Red
+2641,2020,Oklahoma,Red,Jefferson,Red
+2642,2020,Oklahoma,Red,Johnston,Red
+2643,2020,Oklahoma,Red,Kay,Red
+2644,2020,Oklahoma,Red,Kingfisher,Red
+2645,2020,Oklahoma,Red,Kiowa,Red
+2646,2020,Oklahoma,Red,Latimer,Red
+2647,2020,Oklahoma,Red,LeFlore,Red
+2648,2020,Oklahoma,Red,Lincoln,Red
+2649,2020,Oklahoma,Red,Logan,Red
+2650,2020,Oklahoma,Red,Love,Red
+2651,2020,Oklahoma,Red,McClain,Red
+2652,2020,Oklahoma,Red,McCurtain,Red
+2653,2020,Oklahoma,Red,McIntosh,Red
+2654,2020,Oklahoma,Red,Major,Red
+2655,2020,Oklahoma,Red,Marshall,Red
+2656,2020,Oklahoma,Red,Mayes,Red
+2657,2020,Oklahoma,Red,Murray,Red
+2658,2020,Oklahoma,Red,Muskogee,Red
+2659,2020,Oklahoma,Red,Noble,Red
+2660,2020,Oklahoma,Red,Nowata,Red
+2661,2020,Oklahoma,Red,Okfuskee,Red
+2662,2020,Oklahoma,Red,Oklahoma,Red
+2663,2020,Oklahoma,Red,Okmulgee,Red
+2664,2020,Oklahoma,Red,Osage,Red
+2665,2020,Oklahoma,Red,Ottawa,Red
+2666,2020,Oklahoma,Red,Pawnee,Red
+2667,2020,Oklahoma,Red,Payne,Red
+2668,2020,Oklahoma,Red,Pittsburg,Red
+2669,2020,Oklahoma,Red,Pontotoc,Red
+2670,2020,Oklahoma,Red,Pottawatomie,Red
+2671,2020,Oklahoma,Red,Pushmataha,Red
+2672,2020,Oklahoma,Red,Roger Mills,Red
+2673,2020,Oklahoma,Red,Rogers,Red
+2674,2020,Oklahoma,Red,Seminole,Red
+2675,2020,Oklahoma,Red,Sequoyah,Red
+2676,2020,Oklahoma,Red,Stephens,Red
+2677,2020,Oklahoma,Red,Texas,Red
+2678,2020,Oklahoma,Red,Tillman,Red
+2679,2020,Oklahoma,Red,Tulsa,Red
+2680,2020,Oklahoma,Red,Wagoner,Red
+2681,2020,Oklahoma,Red,Washington,Red
+2682,2020,Oklahoma,Red,Washita,Red
+2683,2020,Oklahoma,Red,Woods,Red
+2684,2020,Oklahoma,Red,Woodward,Red
+2685,2020,Oregon,Blue,Baker,Red
+2686,2020,Oregon,Blue,Benton,Blue
+2687,2020,Oregon,Blue,Clackamas,Blue
+2688,2020,Oregon,Blue,Clatsop,Blue
+2689,2020,Oregon,Blue,Columbia,Red
+2690,2020,Oregon,Blue,Coos,Red
+2691,2020,Oregon,Blue,Crook,Red
+2692,2020,Oregon,Blue,Curry,Red
+2693,2020,Oregon,Blue,Deschutes,Blue
+2694,2020,Oregon,Blue,Douglas,Red
+2695,2020,Oregon,Blue,Gilliam,Red
+2696,2020,Oregon,Blue,Grant,Red
+2697,2020,Oregon,Blue,Harney,Red
+2698,2020,Oregon,Blue,Hood River,Blue
+2699,2020,Oregon,Blue,Jackson,Red
+2700,2020,Oregon,Blue,Jefferson,Red
+2701,2020,Oregon,Blue,Josephine,Red
+2702,2020,Oregon,Blue,Klamath,Red
+2703,2020,Oregon,Blue,Lake,Red
+2704,2020,Oregon,Blue,Lane,Blue
+2705,2020,Oregon,Blue,Lincoln,Blue
+2706,2020,Oregon,Blue,Linn,Red
+2707,2020,Oregon,Blue,Malheur,Red
+2708,2020,Oregon,Blue,Marion,Blue
+2709,2020,Oregon,Blue,Morrow,Red
+2710,2020,Oregon,Blue,Multnomah,Blue
+2711,2020,Oregon,Blue,Polk,Red
+2712,2020,Oregon,Blue,Sherman,Red
+2713,2020,Oregon,Blue,Tillamook,Red
+2714,2020,Oregon,Blue,Umatilla,Red
+2715,2020,Oregon,Blue,Union,Red
+2716,2020,Oregon,Blue,Wallowa,Red
+2717,2020,Oregon,Blue,Wasco,Red
+2718,2020,Oregon,Blue,Washington,Blue
+2719,2020,Oregon,Blue,Wheeler,Red
+2720,2020,Oregon,Blue,Yamhill,Red
+2721,2020,Pennsylvania,Blue,Adams,Red
+2722,2020,Pennsylvania,Blue,Allegheny,Blue
+2723,2020,Pennsylvania,Blue,Armstrong,Red
+2724,2020,Pennsylvania,Blue,Beaver,Red
+2725,2020,Pennsylvania,Blue,Bedford,Red
+2726,2020,Pennsylvania,Blue,Berks,Red
+2727,2020,Pennsylvania,Blue,Blair,Red
+2728,2020,Pennsylvania,Blue,Bradford,Red
+2729,2020,Pennsylvania,Blue,Bucks,Blue
+2730,2020,Pennsylvania,Blue,Butler,Red
+2731,2020,Pennsylvania,Blue,Cambria,Red
+2732,2020,Pennsylvania,Blue,Cameron,Red
+2733,2020,Pennsylvania,Blue,Carbon,Red
+2734,2020,Pennsylvania,Blue,Centre,Blue
+2735,2020,Pennsylvania,Blue,Chester,Blue
+2736,2020,Pennsylvania,Blue,Clarion,Red
+2737,2020,Pennsylvania,Blue,Clearfield,Red
+2738,2020,Pennsylvania,Blue,Clinton,Red
+2739,2020,Pennsylvania,Blue,Columbia,Red
+2740,2020,Pennsylvania,Blue,Crawford,Red
+2741,2020,Pennsylvania,Blue,Cumberland,Red
+2742,2020,Pennsylvania,Blue,Dauphin,Blue
+2743,2020,Pennsylvania,Blue,Delaware,Blue
+2744,2020,Pennsylvania,Blue,Elk,Red
+2745,2020,Pennsylvania,Blue,Erie,Blue
+2746,2020,Pennsylvania,Blue,Fayette,Red
+2747,2020,Pennsylvania,Blue,Forest,Red
+2748,2020,Pennsylvania,Blue,Franklin,Red
+2749,2020,Pennsylvania,Blue,Fulton,Red
+2750,2020,Pennsylvania,Blue,Greene,Red
+2751,2020,Pennsylvania,Blue,Huntingdon,Red
+2752,2020,Pennsylvania,Blue,Indiana,Red
+2753,2020,Pennsylvania,Blue,Jefferson,Red
+2754,2020,Pennsylvania,Blue,Juniata,Red
+2755,2020,Pennsylvania,Blue,Lackawanna,Blue
+2756,2020,Pennsylvania,Blue,Lancaster,Red
+2757,2020,Pennsylvania,Blue,Lawrence,Red
+2758,2020,Pennsylvania,Blue,Lebanon,Red
+2759,2020,Pennsylvania,Blue,Lehigh,Blue
+2760,2020,Pennsylvania,Blue,Luzerne,Red
+2761,2020,Pennsylvania,Blue,Lycoming,Red
+2762,2020,Pennsylvania,Blue,McKean,Red
+2763,2020,Pennsylvania,Blue,Mercer,Red
+2764,2020,Pennsylvania,Blue,Mifflin,Red
+2765,2020,Pennsylvania,Blue,Monroe,Blue
+2766,2020,Pennsylvania,Blue,Montgomery,Blue
+2767,2020,Pennsylvania,Blue,Montour,Red
+2768,2020,Pennsylvania,Blue,Northampton,Blue
+2769,2020,Pennsylvania,Blue,Northumberland,Red
+2770,2020,Pennsylvania,Blue,Perry,Red
+2771,2020,Pennsylvania,Blue,Philadelphia,Blue
+2772,2020,Pennsylvania,Blue,Pike,Red
+2773,2020,Pennsylvania,Blue,Potter,Red
+2774,2020,Pennsylvania,Blue,Schuylkill,Red
+2775,2020,Pennsylvania,Blue,Snyder,Red
+2776,2020,Pennsylvania,Blue,Somerset,Red
+2777,2020,Pennsylvania,Blue,Sullivan,Red
+2778,2020,Pennsylvania,Blue,Susquehanna,Red
+2779,2020,Pennsylvania,Blue,Tioga,Red
+2780,2020,Pennsylvania,Blue,Union,Red
+2781,2020,Pennsylvania,Blue,Venango,Red
+2782,2020,Pennsylvania,Blue,Warren,Red
+2783,2020,Pennsylvania,Blue,Washington,Red
+2784,2020,Pennsylvania,Blue,Wayne,Red
+2785,2020,Pennsylvania,Blue,Westmoreland,Red
+2786,2020,Pennsylvania,Blue,Wyoming,Red
+2787,2020,Pennsylvania,Blue,York,Red
+2788,2020,Rhode Island,Blue,Barrington,Blue
+2789,2020,Rhode Island,Blue,Bristol,Blue
+2790,2020,Rhode Island,Blue,Burrillville,Red
+2791,2020,Rhode Island,Blue,Central Falls,Blue
+2792,2020,Rhode Island,Blue,Charlestown,Blue
+2793,2020,Rhode Island,Blue,Coventry,Red
+2794,2020,Rhode Island,Blue,Cranston,Blue
+2795,2020,Rhode Island,Blue,Cumberland,Blue
+2796,2020,Rhode Island,Blue,East Greenwich,Blue
+2797,2020,Rhode Island,Blue,East Providence,Blue
+2798,2020,Rhode Island,Blue,Exeter,Red
+2799,2020,Rhode Island,Blue,Foster,Red
+2800,2020,Rhode Island,Blue,Glocester,Red
+2801,2020,Rhode Island,Blue,Hopkinton,Red
+2802,2020,Rhode Island,Blue,Jamestown,Blue
+2803,2020,Rhode Island,Blue,Johnston,Red
+2804,2020,Rhode Island,Blue,Lincoln,Blue
+2805,2020,Rhode Island,Blue,Little Compton,Blue
+2806,2020,Rhode Island,Blue,Middletown,Blue
+2807,2020,Rhode Island,Blue,Narragansett,Blue
+2808,2020,Rhode Island,Blue,Newport,Blue
+2809,2020,Rhode Island,Blue,New Shoreham,Blue
+2810,2020,Rhode Island,Blue,North Kingstown,Blue
+2811,2020,Rhode Island,Blue,North Providence,Blue
+2812,2020,Rhode Island,Blue,North Smithfield,Red
+2813,2020,Rhode Island,Blue,Pawtucket,Blue
+2814,2020,Rhode Island,Blue,Portsmouth,Blue
+2815,2020,Rhode Island,Blue,Providence,Blue
+2816,2020,Rhode Island,Blue,Richmond,0%
+2817,2020,Rhode Island,Blue,Scituate,Red
+2818,2020,Rhode Island,Blue,Smithfield,Red
+2819,2020,Rhode Island,Blue,South Kingstown,Blue
+2820,2020,Rhode Island,Blue,Tiverton,Blue
+2821,2020,Rhode Island,Blue,Warren,Blue
+2822,2020,Rhode Island,Blue,Warwick,Blue
+2823,2020,Rhode Island,Blue,Westerly,Blue
+2824,2020,Rhode Island,Blue,West Greenwich,Red
+2825,2020,Rhode Island,Blue,West Warwick,Blue
+2826,2020,Rhode Island,Blue,Woonsocket,Blue
+2827,2020,South Carolina,Red,Abbeville,Red
+2828,2020,South Carolina,Red,Aiken,Red
+2829,2020,South Carolina,Red,Allendale,Blue
+2830,2020,South Carolina,Red,Anderson,Red
+2831,2020,South Carolina,Red,Bamberg,Blue
+2832,2020,South Carolina,Red,Barnwell,Red
+2833,2020,South Carolina,Red,Beaufort,Red
+2834,2020,South Carolina,Red,Berkeley,Red
+2835,2020,South Carolina,Red,Calhoun,Red
+2836,2020,South Carolina,Red,Charleston,Blue
+2837,2020,South Carolina,Red,Cherokee,Red
+2838,2020,South Carolina,Red,Chester,Red
+2839,2020,South Carolina,Red,Chesterfield,Red
+2840,2020,South Carolina,Red,Clarendon,Red
+2841,2020,South Carolina,Red,Colleton,Red
+2842,2020,South Carolina,Red,Darlington,Red
+2843,2020,South Carolina,Red,Dillon,Red
+2844,2020,South Carolina,Red,Dorchester,Red
+2845,2020,South Carolina,Red,Edgefield,Red
+2846,2020,South Carolina,Red,Fairfield,Blue
+2847,2020,South Carolina,Red,Florence,Red
+2848,2020,South Carolina,Red,Georgetown,Red
+2849,2020,South Carolina,Red,Greenville,Red
+2850,2020,South Carolina,Red,Greenwood,Red
+2851,2020,South Carolina,Red,Hampton,Blue
+2852,2020,South Carolina,Red,Horry,Red
+2853,2020,South Carolina,Red,Jasper,Blue
+2854,2020,South Carolina,Red,Kershaw,Red
+2855,2020,South Carolina,Red,Lancaster,Red
+2856,2020,South Carolina,Red,Laurens,Red
+2857,2020,South Carolina,Red,Lee,Blue
+2858,2020,South Carolina,Red,Lexington,Red
+2859,2020,South Carolina,Red,McCormick,Red
+2860,2020,South Carolina,Red,Marion,Blue
+2861,2020,South Carolina,Red,Marlboro,Blue
+2862,2020,South Carolina,Red,Newberry,Red
+2863,2020,South Carolina,Red,Oconee,Red
+2864,2020,South Carolina,Red,Orangeburg,Blue
+2865,2020,South Carolina,Red,Pickens,Red
+2866,2020,South Carolina,Red,Richland,Blue
+2867,2020,South Carolina,Red,Saluda,Red
+2868,2020,South Carolina,Red,Spartanburg,Red
+2869,2020,South Carolina,Red,Sumter,Blue
+2870,2020,South Carolina,Red,Union,Red
+2871,2020,South Carolina,Red,Williamsburg,Blue
+2872,2020,South Carolina,Red,York,Red
+2873,2020,South Dakota,Red,Aurora,Red
+2874,2020,South Dakota,Red,Beadle,Red
+2875,2020,South Dakota,Red,Bennett,Red
+2876,2020,South Dakota,Red,Bon Homme,Red
+2877,2020,South Dakota,Red,Brookings,Red
+2878,2020,South Dakota,Red,Brown,Red
+2879,2020,South Dakota,Red,Brule,Red
+2880,2020,South Dakota,Red,Buffalo,Blue
+2881,2020,South Dakota,Red,Butte,Red
+2882,2020,South Dakota,Red,Campbell,Red
+2883,2020,South Dakota,Red,Charles Mix,Red
+2884,2020,South Dakota,Red,Clark,Red
+2885,2020,South Dakota,Red,Clay,Blue
+2886,2020,South Dakota,Red,Codington,Red
+2887,2020,South Dakota,Red,Corson,Red
+2888,2020,South Dakota,Red,Custer,Red
+2889,2020,South Dakota,Red,Davison,Red
+2890,2020,South Dakota,Red,Day,Red
+2891,2020,South Dakota,Red,Deuel,Red
+2892,2020,South Dakota,Red,Dewey,Blue
+2893,2020,South Dakota,Red,Douglas,Red
+2894,2020,South Dakota,Red,Edmunds,Red
+2895,2020,South Dakota,Red,Fall River,Red
+2896,2020,South Dakota,Red,Faulk,Red
+2897,2020,South Dakota,Red,Grant,Red
+2898,2020,South Dakota,Red,Gregory,Red
+2899,2020,South Dakota,Red,Haakon,Red
+2900,2020,South Dakota,Red,Hamlin,Red
+2901,2020,South Dakota,Red,Hand,Red
+2902,2020,South Dakota,Red,Hanson,Red
+2903,2020,South Dakota,Red,Harding,Red
+2904,2020,South Dakota,Red,Hughes,Red
+2905,2020,South Dakota,Red,Hutchinson,Red
+2906,2020,South Dakota,Red,Hyde,Red
+2907,2020,South Dakota,Red,Jackson,Red
+2908,2020,South Dakota,Red,Jerauld,Red
+2909,2020,South Dakota,Red,Jones,Red
+2910,2020,South Dakota,Red,Kingsbury,Red
+2911,2020,South Dakota,Red,Lake,Red
+2912,2020,South Dakota,Red,Lawrence,Red
+2913,2020,South Dakota,Red,Lincoln,Red
+2914,2020,South Dakota,Red,Lyman,Red
+2915,2020,South Dakota,Red,McCook,Red
+2916,2020,South Dakota,Red,McPherson,Red
+2917,2020,South Dakota,Red,Marshall,Red
+2918,2020,South Dakota,Red,Meade,Red
+2919,2020,South Dakota,Red,Mellette,Red
+2920,2020,South Dakota,Red,Miner,Red
+2921,2020,South Dakota,Red,Minnehaha,Red
+2922,2020,South Dakota,Red,Moody,Red
+2923,2020,South Dakota,Red,Pennington,Red
+2924,2020,South Dakota,Red,Perkins,Red
+2925,2020,South Dakota,Red,Potter,Red
+2926,2020,South Dakota,Red,Roberts,Red
+2927,2020,South Dakota,Red,Sanborn,Red
+2928,2020,South Dakota,Red,Oglala Lakota,Blue
+2929,2020,South Dakota,Red,Spink,Red
+2930,2020,South Dakota,Red,Stanley,Red
+2931,2020,South Dakota,Red,Sully,Red
+2932,2020,South Dakota,Red,Todd,Blue
+2933,2020,South Dakota,Red,Tripp,Red
+2934,2020,South Dakota,Red,Turner,Red
+2935,2020,South Dakota,Red,Union,Red
+2936,2020,South Dakota,Red,Walworth,Red
+2937,2020,South Dakota,Red,Yankton,Red
+2938,2020,South Dakota,Red,Ziebach,Blue
+2939,2020,Tennessee,Red,Anderson,Red
+2940,2020,Tennessee,Red,Bedford,Red
+2941,2020,Tennessee,Red,Benton,Red
+2942,2020,Tennessee,Red,Bledsoe,Red
+2943,2020,Tennessee,Red,Blount,Red
+2944,2020,Tennessee,Red,Bradley,Red
+2945,2020,Tennessee,Red,Campbell,Red
+2946,2020,Tennessee,Red,Cannon,Red
+2947,2020,Tennessee,Red,Carroll,Red
+2948,2020,Tennessee,Red,Carter,Red
+2949,2020,Tennessee,Red,Cheatham,Red
+2950,2020,Tennessee,Red,Chester,Red
+2951,2020,Tennessee,Red,Claiborne,Red
+2952,2020,Tennessee,Red,Clay,Red
+2953,2020,Tennessee,Red,Cocke,Red
+2954,2020,Tennessee,Red,Coffee,Red
+2955,2020,Tennessee,Red,Crockett,Red
+2956,2020,Tennessee,Red,Cumberland,Red
+2957,2020,Tennessee,Red,Davidson,Blue
+2958,2020,Tennessee,Red,Decatur,Red
+2959,2020,Tennessee,Red,DeKalb,Red
+2960,2020,Tennessee,Red,Dickson,Red
+2961,2020,Tennessee,Red,Dyer,Red
+2962,2020,Tennessee,Red,Fayette,Red
+2963,2020,Tennessee,Red,Fentress,Red
+2964,2020,Tennessee,Red,Franklin,Red
+2965,2020,Tennessee,Red,Gibson,Red
+2966,2020,Tennessee,Red,Giles,Red
+2967,2020,Tennessee,Red,Grainger,Red
+2968,2020,Tennessee,Red,Greene,Red
+2969,2020,Tennessee,Red,Grundy,Red
+2970,2020,Tennessee,Red,Hamblen,Red
+2971,2020,Tennessee,Red,Hamilton,Red
+2972,2020,Tennessee,Red,Hancock,Red
+2973,2020,Tennessee,Red,Hardeman,Red
+2974,2020,Tennessee,Red,Hardin,Red
+2975,2020,Tennessee,Red,Hawkins,Red
+2976,2020,Tennessee,Red,Haywood,Blue
+2977,2020,Tennessee,Red,Henderson,Red
+2978,2020,Tennessee,Red,Henry,Red
+2979,2020,Tennessee,Red,Hickman,Red
+2980,2020,Tennessee,Red,Houston,Red
+2981,2020,Tennessee,Red,Humphreys,Red
+2982,2020,Tennessee,Red,Jackson,Red
+2983,2020,Tennessee,Red,Jefferson,Red
+2984,2020,Tennessee,Red,Johnson,Red
+2985,2020,Tennessee,Red,Knox,Red
+2986,2020,Tennessee,Red,Lake,Red
+2987,2020,Tennessee,Red,Lauderdale,Red
+2988,2020,Tennessee,Red,Lawrence,Red
+2989,2020,Tennessee,Red,Lewis,Red
+2990,2020,Tennessee,Red,Lincoln,Red
+2991,2020,Tennessee,Red,Loudon,Red
+2992,2020,Tennessee,Red,McMinn,Red
+2993,2020,Tennessee,Red,McNairy,Red
+2994,2020,Tennessee,Red,Macon,Red
+2995,2020,Tennessee,Red,Madison,Red
+2996,2020,Tennessee,Red,Marion,Red
+2997,2020,Tennessee,Red,Marshall,Red
+2998,2020,Tennessee,Red,Maury,Red
+2999,2020,Tennessee,Red,Meigs,Red
+3000,2020,Tennessee,Red,Monroe,Red
+3001,2020,Tennessee,Red,Montgomery,Red
+3002,2020,Tennessee,Red,Moore,Red
+3003,2020,Tennessee,Red,Morgan,Red
+3004,2020,Tennessee,Red,Obion,Red
+3005,2020,Tennessee,Red,Overton,Red
+3006,2020,Tennessee,Red,Perry,Red
+3007,2020,Tennessee,Red,Pickett,Red
+3008,2020,Tennessee,Red,Polk,Red
+3009,2020,Tennessee,Red,Putnam,Red
+3010,2020,Tennessee,Red,Rhea,Red
+3011,2020,Tennessee,Red,Roane,Red
+3012,2020,Tennessee,Red,Robertson,Red
+3013,2020,Tennessee,Red,Rutherford,Red
+3014,2020,Tennessee,Red,Scott,Red
+3015,2020,Tennessee,Red,Sequatchie,Red
+3016,2020,Tennessee,Red,Sevier,Red
+3017,2020,Tennessee,Red,Shelby,Blue
+3018,2020,Tennessee,Red,Smith,Red
+3019,2020,Tennessee,Red,Stewart,Red
+3020,2020,Tennessee,Red,Sullivan,Red
+3021,2020,Tennessee,Red,Sumner,Red
+3022,2020,Tennessee,Red,Tipton,Red
+3023,2020,Tennessee,Red,Trousdale,Red
+3024,2020,Tennessee,Red,Unicoi,Red
+3025,2020,Tennessee,Red,Union,Red
+3026,2020,Tennessee,Red,Van Buren,Red
+3027,2020,Tennessee,Red,Warren,Red
+3028,2020,Tennessee,Red,Washington,Red
+3029,2020,Tennessee,Red,Wayne,Red
+3030,2020,Tennessee,Red,Weakley,Red
+3031,2020,Tennessee,Red,White,Red
+3032,2020,Tennessee,Red,Williamson,Red
+3033,2020,Tennessee,Red,Wilson,Red
+3034,2020,Texas,Red,Anderson,Red
+3035,2020,Texas,Red,Andrews,Red
+3036,2020,Texas,Red,Angelina,Red
+3037,2020,Texas,Red,Aransas,Red
+3038,2020,Texas,Red,Archer,Red
+3039,2020,Texas,Red,Armstrong,Red
+3040,2020,Texas,Red,Atascosa,Red
+3041,2020,Texas,Red,Austin,Red
+3042,2020,Texas,Red,Bailey,Red
+3043,2020,Texas,Red,Bandera,Red
+3044,2020,Texas,Red,Bastrop,Red
+3045,2020,Texas,Red,Baylor,Red
+3046,2020,Texas,Red,Bee,Red
+3047,2020,Texas,Red,Bell,Red
+3048,2020,Texas,Red,Bexar,Blue
+3049,2020,Texas,Red,Blanco,Red
+3050,2020,Texas,Red,Borden,Red
+3051,2020,Texas,Red,Bosque,Red
+3052,2020,Texas,Red,Bowie,Red
+3053,2020,Texas,Red,Brazoria,Red
+3054,2020,Texas,Red,Brazos,Red
+3055,2020,Texas,Red,Brewster,Red
+3056,2020,Texas,Red,Briscoe,Red
+3057,2020,Texas,Red,Brooks,Blue
+3058,2020,Texas,Red,Brown,Red
+3059,2020,Texas,Red,Burleson,Red
+3060,2020,Texas,Red,Burnet,Red
+3061,2020,Texas,Red,Caldwell,Red
+3062,2020,Texas,Red,Calhoun,Red
+3063,2020,Texas,Red,Callahan,Red
+3064,2020,Texas,Red,Cameron,Blue
+3065,2020,Texas,Red,Camp,Red
+3066,2020,Texas,Red,Carson,Red
+3067,2020,Texas,Red,Cass,Red
+3068,2020,Texas,Red,Castro,Red
+3069,2020,Texas,Red,Chambers,Red
+3070,2020,Texas,Red,Cherokee,Red
+3071,2020,Texas,Red,Childress,Red
+3072,2020,Texas,Red,Clay,Red
+3073,2020,Texas,Red,Cochran,Red
+3074,2020,Texas,Red,Coke,Red
+3075,2020,Texas,Red,Coleman,Red
+3076,2020,Texas,Red,Collin,Red
+3077,2020,Texas,Red,Collingsworth,Red
+3078,2020,Texas,Red,Colorado,Red
+3079,2020,Texas,Red,Comal,Red
+3080,2020,Texas,Red,Comanche,Red
+3081,2020,Texas,Red,Concho,Red
+3082,2020,Texas,Red,Cooke,Red
+3083,2020,Texas,Red,Coryell,Red
+3084,2020,Texas,Red,Cottle,Red
+3085,2020,Texas,Red,Crane,Red
+3086,2020,Texas,Red,Crockett,Red
+3087,2020,Texas,Red,Crosby,Red
+3088,2020,Texas,Red,Culberson,Blue
+3089,2020,Texas,Red,Dallam,Red
+3090,2020,Texas,Red,Dallas,Blue
+3091,2020,Texas,Red,Dawson,Red
+3092,2020,Texas,Red,Deaf Smith,Red
+3093,2020,Texas,Red,Delta,Red
+3094,2020,Texas,Red,Denton,Red
+3095,2020,Texas,Red,De Witt,Red
+3096,2020,Texas,Red,Dickens,Red
+3097,2020,Texas,Red,Dimmit,Blue
+3098,2020,Texas,Red,Donley,Red
+3099,2020,Texas,Red,Duval,Blue
+3100,2020,Texas,Red,Eastland,Red
+3101,2020,Texas,Red,Ector,Red
+3102,2020,Texas,Red,Edwards,Red
+3103,2020,Texas,Red,Ellis,Red
+3104,2020,Texas,Red,El Paso,Blue
+3105,2020,Texas,Red,Erath,Red
+3106,2020,Texas,Red,Falls,Red
+3107,2020,Texas,Red,Fannin,Red
+3108,2020,Texas,Red,Fayette,Red
+3109,2020,Texas,Red,Fisher,Red
+3110,2020,Texas,Red,Floyd,Red
+3111,2020,Texas,Red,Foard,Red
+3112,2020,Texas,Red,Fort Bend,Blue
+3113,2020,Texas,Red,Franklin,Red
+3114,2020,Texas,Red,Freestone,Red
+3115,2020,Texas,Red,Frio,Red
+3116,2020,Texas,Red,Gaines,Red
+3117,2020,Texas,Red,Galveston,Red
+3118,2020,Texas,Red,Garza,Red
+3119,2020,Texas,Red,Gillespie,Red
+3120,2020,Texas,Red,Glasscock,Red
+3121,2020,Texas,Red,Goliad,Red
+3122,2020,Texas,Red,Gonzales,Red
+3123,2020,Texas,Red,Gray,Red
+3124,2020,Texas,Red,Grayson,Red
+3125,2020,Texas,Red,Gregg,Red
+3126,2020,Texas,Red,Grimes,Red
+3127,2020,Texas,Red,Guadalupe,Red
+3128,2020,Texas,Red,Hale,Red
+3129,2020,Texas,Red,Hall,Red
+3130,2020,Texas,Red,Hamilton,Red
+3131,2020,Texas,Red,Hansford,Red
+3132,2020,Texas,Red,Hardeman,Red
+3133,2020,Texas,Red,Hardin,Red
+3134,2020,Texas,Red,Harris,Blue
+3135,2020,Texas,Red,Harrison,Red
+3136,2020,Texas,Red,Hartley,Red
+3137,2020,Texas,Red,Haskell,Red
+3138,2020,Texas,Red,Hays,Blue
+3139,2020,Texas,Red,Hemphill,Red
+3140,2020,Texas,Red,Henderson,Red
+3141,2020,Texas,Red,Hidalgo,Blue
+3142,2020,Texas,Red,Hill,Red
+3143,2020,Texas,Red,Hockley,Red
+3144,2020,Texas,Red,Hood,Red
+3145,2020,Texas,Red,Hopkins,Red
+3146,2020,Texas,Red,Houston,Red
+3147,2020,Texas,Red,Howard,Red
+3148,2020,Texas,Red,Hudspeth,Red
+3149,2020,Texas,Red,Hunt,Red
+3150,2020,Texas,Red,Hutchinson,Red
+3151,2020,Texas,Red,Irion,Red
+3152,2020,Texas,Red,Jack,Red
+3153,2020,Texas,Red,Jackson,Red
+3154,2020,Texas,Red,Jasper,Red
+3155,2020,Texas,Red,Jeff Davis,Red
+3156,2020,Texas,Red,Jefferson,Red
+3157,2020,Texas,Red,Jim Hogg,Blue
+3158,2020,Texas,Red,Jim Wells,Red
+3159,2020,Texas,Red,Johnson,Red
+3160,2020,Texas,Red,Jones,Red
+3161,2020,Texas,Red,Karnes,Red
+3162,2020,Texas,Red,Kaufman,Red
+3163,2020,Texas,Red,Kendall,Red
+3164,2020,Texas,Red,Kenedy,Red
+3165,2020,Texas,Red,Kent,Red
+3166,2020,Texas,Red,Kerr,Red
+3167,2020,Texas,Red,Kimble,Red
+3168,2020,Texas,Red,King,Red
+3169,2020,Texas,Red,Kinney,Red
+3170,2020,Texas,Red,Kleberg,Red
+3171,2020,Texas,Red,Knox,Red
+3172,2020,Texas,Red,Lamar,Red
+3173,2020,Texas,Red,Lamb,Red
+3174,2020,Texas,Red,Lampasas,Red
+3175,2020,Texas,Red,La Salle,Red
+3176,2020,Texas,Red,La Vaca,Red
+3177,2020,Texas,Red,Lee,Red
+3178,2020,Texas,Red,Leon,Red
+3179,2020,Texas,Red,Liberty,Red
+3180,2020,Texas,Red,Limestone,Red
+3181,2020,Texas,Red,Lipscomb,Red
+3182,2020,Texas,Red,Live Oak,Red
+3183,2020,Texas,Red,Llano,Red
+3184,2020,Texas,Red,Loving,Red
+3185,2020,Texas,Red,Lubbock,Red
+3186,2020,Texas,Red,Lynn,Red
+3187,2020,Texas,Red,McCulloch,Red
+3188,2020,Texas,Red,McLennan,Red
+3189,2020,Texas,Red,McMullen,Red
+3190,2020,Texas,Red,Madison,Red
+3191,2020,Texas,Red,Marion,Red
+3192,2020,Texas,Red,Martin,Red
+3193,2020,Texas,Red,Mason,Red
+3194,2020,Texas,Red,Matagorda,Red
+3195,2020,Texas,Red,Maverick,Blue
+3196,2020,Texas,Red,Medina,Red
+3197,2020,Texas,Red,Menard,Red
+3198,2020,Texas,Red,Midland,Red
+3199,2020,Texas,Red,Milam,Red
+3200,2020,Texas,Red,Mills,Red
+3201,2020,Texas,Red,Mitchell,Red
+3202,2020,Texas,Red,Montague,Red
+3203,2020,Texas,Red,Montgomery,Red
+3204,2020,Texas,Red,Moore,Red
+3205,2020,Texas,Red,Morris,Red
+3206,2020,Texas,Red,Motley,Red
+3207,2020,Texas,Red,Nacogdoches,Red
+3208,2020,Texas,Red,Navarro,Red
+3209,2020,Texas,Red,Newton,Red
+3210,2020,Texas,Red,Nolan,Red
+3211,2020,Texas,Red,Nueces,Red
+3212,2020,Texas,Red,Ochiltree,Red
+3213,2020,Texas,Red,Oldham,Red
+3214,2020,Texas,Red,Orange,Red
+3215,2020,Texas,Red,Palo Pinto,Red
+3216,2020,Texas,Red,Panola,Red
+3217,2020,Texas,Red,Parker,Red
+3218,2020,Texas,Red,Parmer,Red
+3219,2020,Texas,Red,Pecos,Red
+3220,2020,Texas,Red,Polk,Red
+3221,2020,Texas,Red,Potter,Red
+3222,2020,Texas,Red,Presidio,Blue
+3223,2020,Texas,Red,Rains,Red
+3224,2020,Texas,Red,Randall,Red
+3225,2020,Texas,Red,Reagan,Red
+3226,2020,Texas,Red,Real,Red
+3227,2020,Texas,Red,Red River,Red
+3228,2020,Texas,Red,Reeves,Red
+3229,2020,Texas,Red,Refugio,Red
+3230,2020,Texas,Red,Roberts,Red
+3231,2020,Texas,Red,Robertson,Red
+3232,2020,Texas,Red,Rockwall,Red
+3233,2020,Texas,Red,Runnels,Red
+3234,2020,Texas,Red,Rusk,Red
+3235,2020,Texas,Red,Sabine,Red
+3236,2020,Texas,Red,San Augustine,Red
+3237,2020,Texas,Red,San Jacinto,Red
+3238,2020,Texas,Red,San Patricio,Red
+3239,2020,Texas,Red,San Saba,Red
+3240,2020,Texas,Red,Schleicher,Red
+3241,2020,Texas,Red,Scurry,Red
+3242,2020,Texas,Red,Shackelford,Red
+3243,2020,Texas,Red,Shelby,Red
+3244,2020,Texas,Red,Sherman,Red
+3245,2020,Texas,Red,Smith,Red
+3246,2020,Texas,Red,Somervell,Red
+3247,2020,Texas,Red,Starr,Blue
+3248,2020,Texas,Red,Stephens,Red
+3249,2020,Texas,Red,Sterling,Red
+3250,2020,Texas,Red,Stonewall,Red
+3251,2020,Texas,Red,Sutton,Red
+3252,2020,Texas,Red,Swisher,Red
+3253,2020,Texas,Red,Tarrant,Blue
+3254,2020,Texas,Red,Taylor,Red
+3255,2020,Texas,Red,Terrell,Red
+3256,2020,Texas,Red,Terry,Red
+3257,2020,Texas,Red,Throckmorton,Red
+3258,2020,Texas,Red,Titus,Red
+3259,2020,Texas,Red,Tom Green,Red
+3260,2020,Texas,Red,Travis,Blue
+3261,2020,Texas,Red,Trinity,Red
+3262,2020,Texas,Red,Tyler,Red
+3263,2020,Texas,Red,Upshur,Red
+3264,2020,Texas,Red,Upton,Red
+3265,2020,Texas,Red,Uvalde,Red
+3266,2020,Texas,Red,Val Verde,Red
+3267,2020,Texas,Red,Van Zandt,Red
+3268,2020,Texas,Red,Victoria,Red
+3269,2020,Texas,Red,Walker,Red
+3270,2020,Texas,Red,Waller,Red
+3271,2020,Texas,Red,Ward,Red
+3272,2020,Texas,Red,Washington,Red
+3273,2020,Texas,Red,Webb,Blue
+3274,2020,Texas,Red,Wharton,Red
+3275,2020,Texas,Red,Wheeler,Red
+3276,2020,Texas,Red,Wichita,Red
+3277,2020,Texas,Red,Wilbarger,Red
+3278,2020,Texas,Red,Willacy,Blue
+3279,2020,Texas,Red,Williamson,Blue
+3280,2020,Texas,Red,Wilson,Red
+3281,2020,Texas,Red,Winkler,Red
+3282,2020,Texas,Red,Wise,Red
+3283,2020,Texas,Red,Wood,Red
+3284,2020,Texas,Red,Yoakum,Red
+3285,2020,Texas,Red,Young,Red
+3286,2020,Texas,Red,Zapata,Red
+3287,2020,Texas,Red,Zavala,Blue
+3288,2020,Utah,Red,Beaver,Red
+3289,2020,Utah,Red,Box Elder,Red
+3290,2020,Utah,Red,Cache,Red
+3291,2020,Utah,Red,Carbon,Red
+3292,2020,Utah,Red,Daggett,Red
+3293,2020,Utah,Red,Davis,Red
+3294,2020,Utah,Red,Duchesne,Red
+3295,2020,Utah,Red,Emery,Red
+3296,2020,Utah,Red,Garfield,Red
+3297,2020,Utah,Red,Grand,Blue
+3298,2020,Utah,Red,Iron,Red
+3299,2020,Utah,Red,Juab,Red
+3300,2020,Utah,Red,Kane,Red
+3301,2020,Utah,Red,Millard,Red
+3302,2020,Utah,Red,Morgan,Red
+3303,2020,Utah,Red,Piute,Red
+3304,2020,Utah,Red,Rich,Red
+3305,2020,Utah,Red,Salt Lake,Blue
+3306,2020,Utah,Red,San Juan,Red
+3307,2020,Utah,Red,Sanpete,Red
+3308,2020,Utah,Red,Sevier,Red
+3309,2020,Utah,Red,Summit,Blue
+3310,2020,Utah,Red,Tooele,Red
+3311,2020,Utah,Red,Uintah,Red
+3312,2020,Utah,Red,Utah,Red
+3313,2020,Utah,Red,Wasatch,Red
+3314,2020,Utah,Red,Washington,Red
+3315,2020,Utah,Red,Wayne,Red
+3316,2020,Utah,Red,Weber,Red
+3317,2020,Vermont,Blue,Addison,Blue
+3318,2020,Vermont,Blue,Albany,Blue
+3319,2020,Vermont,Blue,Alburgh,Blue
+3320,2020,Vermont,Blue,Andover,Blue
+3321,2020,Vermont,Blue,Arlington,Blue
+3322,2020,Vermont,Blue,Athens,Blue
+3323,2020,Vermont,Blue,Bakersfield,Blue
+3324,2020,Vermont,Blue,Baltimore,Red
+3325,2020,Vermont,Blue,Barnard,Blue
+3326,2020,Vermont,Blue,Barnet,Blue
+3327,2020,Vermont,Blue,Barre,Blue
+3328,2020,Vermont,Blue,Barre Town,Blue
+3329,2020,Vermont,Blue,Barton,Blue
+3330,2020,Vermont,Blue,Belvidere,Red
+3331,2020,Vermont,Blue,Bennington,Blue
+3332,2020,Vermont,Blue,Benson,Red
+3333,2020,Vermont,Blue,Berkshire,Red
+3334,2020,Vermont,Blue,Berlin,Blue
+3335,2020,Vermont,Blue,Bethel,Blue
+3336,2020,Vermont,Blue,Bloomfield,Red
+3337,2020,Vermont,Blue,Bolton,Blue
+3338,2020,Vermont,Blue,Bradford,Blue
+3339,2020,Vermont,Blue,Braintree,Blue
+3340,2020,Vermont,Blue,Brandon,Blue
+3341,2020,Vermont,Blue,Brattleboro,Blue
+3342,2020,Vermont,Blue,Bridgewater,Blue
+3343,2020,Vermont,Blue,Bridport,Blue
+3344,2020,Vermont,Blue,Brighton,Red
+3345,2020,Vermont,Blue,Bristol,Blue
+3346,2020,Vermont,Blue,Brookfield,Blue
+3347,2020,Vermont,Blue,Brookline,Blue
+3348,2020,Vermont,Blue,Brownington,Red
+3349,2020,Vermont,Blue,Brunswick,Red
+3350,2020,Vermont,Blue,Burke,Blue
+3351,2020,Vermont,Blue,Burlington,Blue
+3352,2020,Vermont,Blue,Cabot,Blue
+3353,2020,Vermont,Blue,Calais,Blue
+3354,2020,Vermont,Blue,Cambridge,Blue
+3355,2020,Vermont,Blue,Canaan,Red
+3356,2020,Vermont,Blue,Castleton,Blue
+3357,2020,Vermont,Blue,Cavendish,Blue
+3358,2020,Vermont,Blue,Charleston,Red
+3359,2020,Vermont,Blue,Charlotte,Blue
+3360,2020,Vermont,Blue,Chelsea,Blue
+3361,2020,Vermont,Blue,Chester,Blue
+3362,2020,Vermont,Blue,Chittenden,Blue
+3363,2020,Vermont,Blue,Clarendon,Red
+3364,2020,Vermont,Blue,Colchester,Blue
+3365,2020,Vermont,Blue,Concord,Red
+3366,2020,Vermont,Blue,Corinth,Blue
+3367,2020,Vermont,Blue,Cornwall,Blue
+3368,2020,Vermont,Blue,Coventry,Red
+3369,2020,Vermont,Blue,Craftsbury,Blue
+3370,2020,Vermont,Blue,Danby,Red
+3371,2020,Vermont,Blue,Danville,Blue
+3372,2020,Vermont,Blue,Derby,Red
+3373,2020,Vermont,Blue,Dorset,Blue
+3374,2020,Vermont,Blue,Dover,Blue
+3375,2020,Vermont,Blue,Dummerston,Blue
+3376,2020,Vermont,Blue,Duxbury,Blue
+3377,2020,Vermont,Blue,East Haven,Blue
+3378,2020,Vermont,Blue,East Montpelier,Blue
+3379,2020,Vermont,Blue,Eden,Red
+3380,2020,Vermont,Blue,Elmore,Blue
+3381,2020,Vermont,Blue,Enosburgh,Blue
+3382,2020,Vermont,Blue,Essex,Blue
+3383,2020,Vermont,Blue,Fairfax,Blue
+3384,2020,Vermont,Blue,Fairfield,Blue
+3385,2020,Vermont,Blue,Fair Haven,Red
+3386,2020,Vermont,Blue,Fairlee,Blue
+3387,2020,Vermont,Blue,Fayston,Blue
+3388,2020,Vermont,Blue,Ferrisburg,Blue
+3389,2020,Vermont,Blue,Fletcher,Blue
+3390,2020,Vermont,Blue,Franklin,Red
+3391,2020,Vermont,Blue,Georgia,Blue
+3392,2020,Vermont,Blue,Glover,Blue
+3393,2020,Vermont,Blue,Goshen,Blue
+3394,2020,Vermont,Blue,Grafton,0%
+3395,2020,Vermont,Blue,Granby,Red
+3396,2020,Vermont,Blue,Grand Isle,Blue
+3397,2020,Vermont,Blue,Granville,Blue
+3398,2020,Vermont,Blue,Greensboro,Blue
+3399,2020,Vermont,Blue,Groton,Red
+3400,2020,Vermont,Blue,Guildhall,Red
+3401,2020,Vermont,Blue,Guilford,Blue
+3402,2020,Vermont,Blue,Halifax,Blue
+3403,2020,Vermont,Blue,Hancock,Blue
+3404,2020,Vermont,Blue,Hardwick,Blue
+3405,2020,Vermont,Blue,Hartford,Blue
+3406,2020,Vermont,Blue,Hartland,Blue
+3407,2020,Vermont,Blue,Highgate,Red
+3408,2020,Vermont,Blue,Hinesburg,Blue
+3409,2020,Vermont,Blue,Holland,Red
+3410,2020,Vermont,Blue,Hubbardton,Blue
+3411,2020,Vermont,Blue,Huntington,Blue
+3412,2020,Vermont,Blue,Hyde Park,Blue
+3413,2020,Vermont,Blue,Ira,0%
+3414,2020,Vermont,Blue,Irasburg,Red
+3415,2020,Vermont,Blue,Isle La Motte,Blue
+3416,2020,Vermont,Blue,Jamaica,Blue
+3417,2020,Vermont,Blue,Jay,Blue
+3418,2020,Vermont,Blue,Jericho,Blue
+3419,2020,Vermont,Blue,Johnson,Blue
+3420,2020,Vermont,Blue,Kirby,Blue
+3421,2020,Vermont,Blue,Landgrove,Blue
+3422,2020,Vermont,Blue,Leicester,Blue
+3423,2020,Vermont,Blue,Lemington,Blue
+3424,2020,Vermont,Blue,Lincoln,Blue
+3425,2020,Vermont,Blue,Londonderry,Blue
+3426,2020,Vermont,Blue,Lowell,Red
+3427,2020,Vermont,Blue,Ludlow,Blue
+3428,2020,Vermont,Blue,Lunenburg,Red
+3429,2020,Vermont,Blue,Lyndon,Blue
+3430,2020,Vermont,Blue,Maidstone,Red
+3431,2020,Vermont,Blue,Manchester,Blue
+3432,2020,Vermont,Blue,Marlboro,Blue
+3433,2020,Vermont,Blue,Marshfield,Blue
+3434,2020,Vermont,Blue,Mendon,Blue
+3435,2020,Vermont,Blue,Middlebury,Blue
+3436,2020,Vermont,Blue,Middlesex,Blue
+3437,2020,Vermont,Blue,Middletown Springs,Blue
+3438,2020,Vermont,Blue,Milton,Blue
+3439,2020,Vermont,Blue,Monkton,Blue
+3440,2020,Vermont,Blue,Montgomery,Blue
+3441,2020,Vermont,Blue,Montpelier,Blue
+3442,2020,Vermont,Blue,Moretown,Blue
+3443,2020,Vermont,Blue,Morgan,Red
+3444,2020,Vermont,Blue,Morristown,Blue
+3445,2020,Vermont,Blue,Mount Holly,Blue
+3446,2020,Vermont,Blue,Mount Tabor,Red
+3447,2020,Vermont,Blue,Newark,Blue
+3448,2020,Vermont,Blue,Newbury,Blue
+3449,2020,Vermont,Blue,Newfane,Blue
+3450,2020,Vermont,Blue,New Haven,Blue
+3451,2020,Vermont,Blue,Newport,Blue
+3452,2020,Vermont,Blue,Newport Town,Red
+3453,2020,Vermont,Blue,Northfield,Blue
+3454,2020,Vermont,Blue,North Hero,Blue
+3455,2020,Vermont,Blue,Norton,Red
+3456,2020,Vermont,Blue,Norwich,Blue
+3457,2020,Vermont,Blue,Orange,Red
+3458,2020,Vermont,Blue,Orwell,Blue
+3459,2020,Vermont,Blue,Panton,Blue
+3460,2020,Vermont,Blue,Pawlet,Blue
+3461,2020,Vermont,Blue,Peacham,Blue
+3462,2020,Vermont,Blue,Peru,Blue
+3463,2020,Vermont,Blue,Pittsfield,Blue
+3464,2020,Vermont,Blue,Pittsford,Blue
+3465,2020,Vermont,Blue,Plainfield,Blue
+3466,2020,Vermont,Blue,Plymouth,Blue
+3467,2020,Vermont,Blue,Pomfret,Blue
+3468,2020,Vermont,Blue,Poultney,Blue
+3469,2020,Vermont,Blue,Pownal,Blue
+3470,2020,Vermont,Blue,Proctor,Blue
+3471,2020,Vermont,Blue,Putney,Blue
+3472,2020,Vermont,Blue,Randolph,Blue
+3473,2020,Vermont,Blue,Reading,Blue
+3474,2020,Vermont,Blue,Readsboro,Red
+3475,2020,Vermont,Blue,Richford,Red
+3476,2020,Vermont,Blue,Richmond,Blue
+3477,2020,Vermont,Blue,Ripton,Blue
+3478,2020,Vermont,Blue,Rochester,Blue
+3479,2020,Vermont,Blue,Rockingham,Blue
+3480,2020,Vermont,Blue,Roxbury,Blue
+3481,2020,Vermont,Blue,Royalton,Blue
+3482,2020,Vermont,Blue,Rupert,Blue
+3483,2020,Vermont,Blue,Rutland,Blue
+3484,2020,Vermont,Blue,Rutland Town,Blue
+3485,2020,Vermont,Blue,Ryegate,Blue
+3486,2020,Vermont,Blue,St. Albans,Blue
+3487,2020,Vermont,Blue,St. Albans Town,Blue
+3488,2020,Vermont,Blue,St. George,Blue
+3489,2020,Vermont,Blue,St. Johnsbury,Blue
+3490,2020,Vermont,Blue,Salisbury,Blue
+3491,2020,Vermont,Blue,Sandgate,Blue
+3492,2020,Vermont,Blue,Searsburg,Red
+3493,2020,Vermont,Blue,Shaftsbury,Blue
+3494,2020,Vermont,Blue,Sharon,Blue
+3495,2020,Vermont,Blue,Sheffield,Blue
+3496,2020,Vermont,Blue,Shelburne,Blue
+3497,2020,Vermont,Blue,Sheldon,Red
+3498,2020,Vermont,Blue,Killington,Blue
+3499,2020,Vermont,Blue,Shoreham,Blue
+3500,2020,Vermont,Blue,Shrewsbury,Blue
+3501,2020,Vermont,Blue,South Burlington,Blue
+3502,2020,Vermont,Blue,South Hero,Blue
+3503,2020,Vermont,Blue,Springfield,Blue
+3504,2020,Vermont,Blue,Stamford,Red
+3505,2020,Vermont,Blue,Stannard,Blue
+3506,2020,Vermont,Blue,Starksboro,Blue
+3507,2020,Vermont,Blue,Stockbridge,Blue
+3508,2020,Vermont,Blue,Stowe,Blue
+3509,2020,Vermont,Blue,Strafford,Blue
+3510,2020,Vermont,Blue,Stratton,Blue
+3511,2020,Vermont,Blue,Sudbury,Blue
+3512,2020,Vermont,Blue,Sunderland,Blue
+3513,2020,Vermont,Blue,Sutton,Red
+3514,2020,Vermont,Blue,Swanton,Blue
+3515,2020,Vermont,Blue,Thetford,Blue
+3516,2020,Vermont,Blue,Tinmouth,Blue
+3517,2020,Vermont,Blue,Topsham,Red
+3518,2020,Vermont,Blue,Townshend,Blue
+3519,2020,Vermont,Blue,Troy,Red
+3520,2020,Vermont,Blue,Tunbridge,Blue
+3521,2020,Vermont,Blue,Underhill,Blue
+3522,2020,Vermont,Blue,Vergennes,Blue
+3523,2020,Vermont,Blue,Vernon,Blue
+3524,2020,Vermont,Blue,Vershire,Blue
+3525,2020,Vermont,Blue,Victory,Red
+3526,2020,Vermont,Blue,Waitsfield,Blue
+3527,2020,Vermont,Blue,Walden,Blue
+3528,2020,Vermont,Blue,Wallingford,Blue
+3529,2020,Vermont,Blue,Waltham,Blue
+3530,2020,Vermont,Blue,Wardsboro,Blue
+3531,2020,Vermont,Blue,Warren,Blue
+3532,2020,Vermont,Blue,Washington,Blue
+3533,2020,Vermont,Blue,Waterbury,Blue
+3534,2020,Vermont,Blue,Waterford,Blue
+3535,2020,Vermont,Blue,Waterville,Blue
+3536,2020,Vermont,Blue,Weathersfield,Blue
+3537,2020,Vermont,Blue,Wells,Red
+3538,2020,Vermont,Blue,West Fairlee,Blue
+3539,2020,Vermont,Blue,Westfield,Blue
+3540,2020,Vermont,Blue,Westford,Blue
+3541,2020,Vermont,Blue,West Haven,Blue
+3542,2020,Vermont,Blue,Westminster,Blue
+3543,2020,Vermont,Blue,Westmore,Blue
+3544,2020,Vermont,Blue,Weston,Blue
+3545,2020,Vermont,Blue,West Rutland,Red
+3546,2020,Vermont,Blue,West Windsor,Blue
+3547,2020,Vermont,Blue,Weybridge,Blue
+3548,2020,Vermont,Blue,Wheelock,Blue
+3549,2020,Vermont,Blue,Whiting,Blue
+3550,2020,Vermont,Blue,Whitingham,Blue
+3551,2020,Vermont,Blue,Williamstown,Red
+3552,2020,Vermont,Blue,Williston,Blue
+3553,2020,Vermont,Blue,Wilmington,Blue
+3554,2020,Vermont,Blue,Windham,Blue
+3555,2020,Vermont,Blue,Windsor,Blue
+3556,2020,Vermont,Blue,Winhall,Blue
+3557,2020,Vermont,Blue,Winooski,Blue
+3558,2020,Vermont,Blue,Wolcott,Blue
+3559,2020,Vermont,Blue,Woodbury,Blue
+3560,2020,Vermont,Blue,Woodford,Red
+3561,2020,Vermont,Blue,Woodstock,Blue
+3562,2020,Vermont,Blue,Worcester,Blue
+3563,2020,Virginia,Blue,Accomack,Red
+3564,2020,Virginia,Blue,Albemarle,Blue
+3565,2020,Virginia,Blue,Alleghany,Red
+3566,2020,Virginia,Blue,Amelia,Red
+3567,2020,Virginia,Blue,Amherst,Red
+3568,2020,Virginia,Blue,Appomattox,Red
+3569,2020,Virginia,Blue,Arlington,Blue
+3570,2020,Virginia,Blue,Augusta,Red
+3571,2020,Virginia,Blue,Bath,Red
+3572,2020,Virginia,Blue,Bedford,Red
+3573,2020,Virginia,Blue,Bland,Red
+3574,2020,Virginia,Blue,Botetourt,Red
+3575,2020,Virginia,Blue,Brunswick,Blue
+3576,2020,Virginia,Blue,Buchanan,Red
+3577,2020,Virginia,Blue,Buckingham,Red
+3578,2020,Virginia,Blue,Campbell,Red
+3579,2020,Virginia,Blue,Caroline,Red
+3580,2020,Virginia,Blue,Carroll,Red
+3581,2020,Virginia,Blue,Charles City,Blue
+3582,2020,Virginia,Blue,Charlotte,Red
+3583,2020,Virginia,Blue,Chesterfield,Blue
+3584,2020,Virginia,Blue,Clarke,Red
+3585,2020,Virginia,Blue,Craig,Red
+3586,2020,Virginia,Blue,Culpeper,Red
+3587,2020,Virginia,Blue,Cumberland,Red
+3588,2020,Virginia,Blue,Dickenson,Red
+3589,2020,Virginia,Blue,Dinwiddie,Red
+3590,2020,Virginia,Blue,Essex,Red
+3591,2020,Virginia,Blue,Fairfax,Blue
+3592,2020,Virginia,Blue,Fauquier,Red
+3593,2020,Virginia,Blue,Floyd,Red
+3594,2020,Virginia,Blue,Fluvanna,Red
+3595,2020,Virginia,Blue,Franklin,Red
+3596,2020,Virginia,Blue,Frederick,Red
+3597,2020,Virginia,Blue,Giles,Red
+3598,2020,Virginia,Blue,Gloucester,Red
+3599,2020,Virginia,Blue,Goochland,Red
+3600,2020,Virginia,Blue,Grayson,Red
+3601,2020,Virginia,Blue,Greene,Red
+3602,2020,Virginia,Blue,Greensville,Blue
+3603,2020,Virginia,Blue,Halifax,Red
+3604,2020,Virginia,Blue,Hanover,Red
+3605,2020,Virginia,Blue,Henrico,Blue
+3606,2020,Virginia,Blue,Henry,Red
+3607,2020,Virginia,Blue,Highland,Red
+3608,2020,Virginia,Blue,Isle of Wight,Red
+3609,2020,Virginia,Blue,James City,Blue
+3610,2020,Virginia,Blue,King and Queen,Red
+3611,2020,Virginia,Blue,King George,Red
+3612,2020,Virginia,Blue,King William,Red
+3613,2020,Virginia,Blue,Lancaster,Red
+3614,2020,Virginia,Blue,Lee,Red
+3615,2020,Virginia,Blue,Loudoun,Blue
+3616,2020,Virginia,Blue,Louisa,Red
+3617,2020,Virginia,Blue,Lunenburg,Red
+3618,2020,Virginia,Blue,Madison,Red
+3619,2020,Virginia,Blue,Mathews,Red
+3620,2020,Virginia,Blue,Mecklenburg,Red
+3621,2020,Virginia,Blue,Middlesex,Red
+3622,2020,Virginia,Blue,Montgomery,Blue
+3623,2020,Virginia,Blue,Nelson,Red
+3624,2020,Virginia,Blue,New Kent,Red
+3625,2020,Virginia,Blue,Northampton,Blue
+3626,2020,Virginia,Blue,Northumberland,Red
+3627,2020,Virginia,Blue,Nottoway,Red
+3628,2020,Virginia,Blue,Orange,Red
+3629,2020,Virginia,Blue,Page,Red
+3630,2020,Virginia,Blue,Patrick,Red
+3631,2020,Virginia,Blue,Pittsylvania,Red
+3632,2020,Virginia,Blue,Powhatan,Red
+3633,2020,Virginia,Blue,Prince Edward,Blue
+3634,2020,Virginia,Blue,Prince George,Red
+3635,2020,Virginia,Blue,Prince William,Blue
+3636,2020,Virginia,Blue,Pulaski,Red
+3637,2020,Virginia,Blue,Rappahannock,Red
+3638,2020,Virginia,Blue,Richmond,Red
+3639,2020,Virginia,Blue,Roanoke,Red
+3640,2020,Virginia,Blue,Rockbridge,Red
+3641,2020,Virginia,Blue,Rockingham,Red
+3642,2020,Virginia,Blue,Russell,Red
+3643,2020,Virginia,Blue,Scott,Red
+3644,2020,Virginia,Blue,Shenandoah,Red
+3645,2020,Virginia,Blue,Smyth,Red
+3646,2020,Virginia,Blue,Southampton,Red
+3647,2020,Virginia,Blue,Spotsylvania,Red
+3648,2020,Virginia,Blue,Stafford,Blue
+3649,2020,Virginia,Blue,Surry,Blue
+3650,2020,Virginia,Blue,Sussex,Blue
+3651,2020,Virginia,Blue,Tazewell,Red
+3652,2020,Virginia,Blue,Warren,Red
+3653,2020,Virginia,Blue,Washington,Red
+3654,2020,Virginia,Blue,Westmoreland,Red
+3655,2020,Virginia,Blue,Wise,Red
+3656,2020,Virginia,Blue,Wythe,Red
+3657,2020,Virginia,Blue,York,Red
+3658,2020,Virginia,Blue,Alexandria,Blue
+3659,2020,Virginia,Blue,Bristol,Red
+3660,2020,Virginia,Blue,Buena Vista,Red
+3661,2020,Virginia,Blue,Charlottesville,Blue
+3662,2020,Virginia,Blue,Chesapeake,Blue
+3663,2020,Virginia,Blue,Colonial Heights,Red
+3664,2020,Virginia,Blue,Covington,Red
+3665,2020,Virginia,Blue,Danville,Blue
+3666,2020,Virginia,Blue,Emporia,Blue
+3667,2020,Virginia,Blue,Fairfax City,Blue
+3668,2020,Virginia,Blue,Falls Church,Blue
+3669,2020,Virginia,Blue,Franklin City,Blue
+3670,2020,Virginia,Blue,Fredericksburg,Blue
+3671,2020,Virginia,Blue,Galax,Red
+3672,2020,Virginia,Blue,Hampton,Blue
+3673,2020,Virginia,Blue,Harrisonburg,Blue
+3674,2020,Virginia,Blue,Hopewell,Blue
+3675,2020,Virginia,Blue,Lexington,Blue
+3676,2020,Virginia,Blue,Lynchburg,Blue
+3677,2020,Virginia,Blue,Manassas,Blue
+3678,2020,Virginia,Blue,Manassas Park,Blue
+3679,2020,Virginia,Blue,Martinsville,Blue
+3680,2020,Virginia,Blue,Newport News,Blue
+3681,2020,Virginia,Blue,Norfolk,Blue
+3682,2020,Virginia,Blue,Norton,Red
+3683,2020,Virginia,Blue,Petersburg,Blue
+3684,2020,Virginia,Blue,Poquoson,Red
+3685,2020,Virginia,Blue,Portsmouth,Blue
+3686,2020,Virginia,Blue,Radford,Blue
+3687,2020,Virginia,Blue,Richmond City,Blue
+3688,2020,Virginia,Blue,Roanoke City,Blue
+3689,2020,Virginia,Blue,Salem,Red
+3690,2020,Virginia,Blue,Staunton,Blue
+3691,2020,Virginia,Blue,Suffolk,Blue
+3692,2020,Virginia,Blue,Virginia Beach,Blue
+3693,2020,Virginia,Blue,Waynesboro,Red
+3694,2020,Virginia,Blue,Williamsburg,Blue
+3695,2020,Virginia,Blue,Winchester,Blue
+3696,2020,Washington,Blue,Adams,Red
+3697,2020,Washington,Blue,Asotin,Red
+3698,2020,Washington,Blue,Benton,Red
+3699,2020,Washington,Blue,Chelan,Red
+3700,2020,Washington,Blue,Clallam,Blue
+3701,2020,Washington,Blue,Clark,Blue
+3702,2020,Washington,Blue,Columbia,Red
+3703,2020,Washington,Blue,Cowlitz,Red
+3704,2020,Washington,Blue,Douglas,Red
+3705,2020,Washington,Blue,Ferry,Red
+3706,2020,Washington,Blue,Franklin,Red
+3707,2020,Washington,Blue,Garfield,Red
+3708,2020,Washington,Blue,Grant,Red
+3709,2020,Washington,Blue,Grays Harbor,Red
+3710,2020,Washington,Blue,Island,Blue
+3711,2020,Washington,Blue,Jefferson,Blue
+3712,2020,Washington,Blue,King,Blue
+3713,2020,Washington,Blue,Kitsap,Blue
+3714,2020,Washington,Blue,Kittitas,Red
+3715,2020,Washington,Blue,Klickitat,Red
+3716,2020,Washington,Blue,Lewis,Red
+3717,2020,Washington,Blue,Lincoln,Red
+3718,2020,Washington,Blue,Mason,Red
+3719,2020,Washington,Blue,Okanogan,Red
+3720,2020,Washington,Blue,Pacific,Red
+3721,2020,Washington,Blue,Pend Oreille,Red
+3722,2020,Washington,Blue,Pierce,Blue
+3723,2020,Washington,Blue,San Juan,Blue
+3724,2020,Washington,Blue,Skagit,Blue
+3725,2020,Washington,Blue,Skamania,Red
+3726,2020,Washington,Blue,Snohomish,Blue
+3727,2020,Washington,Blue,Spokane,Red
+3728,2020,Washington,Blue,Stevens,Red
+3729,2020,Washington,Blue,Thurston,Blue
+3730,2020,Washington,Blue,Wahkiakum,Red
+3731,2020,Washington,Blue,Walla Walla,Red
+3732,2020,Washington,Blue,Whatcom,Blue
+3733,2020,Washington,Blue,Whitman,Blue
+3734,2020,Washington,Blue,Yakima,Red
+3735,2020,West Virginia,Red,Barbour,Red
+3736,2020,West Virginia,Red,Berkeley,Red
+3737,2020,West Virginia,Red,Boone,Red
+3738,2020,West Virginia,Red,Braxton,Red
+3739,2020,West Virginia,Red,Brooke,Red
+3740,2020,West Virginia,Red,Cabell,Red
+3741,2020,West Virginia,Red,Calhoun,Red
+3742,2020,West Virginia,Red,Clay,Red
+3743,2020,West Virginia,Red,Doddridge,Red
+3744,2020,West Virginia,Red,Fayette,Red
+3745,2020,West Virginia,Red,Gilmer,Red
+3746,2020,West Virginia,Red,Grant,Red
+3747,2020,West Virginia,Red,Greenbrier,Red
+3748,2020,West Virginia,Red,Hampshire,Red
+3749,2020,West Virginia,Red,Hancock,Red
+3750,2020,West Virginia,Red,Hardy,Red
+3751,2020,West Virginia,Red,Harrison,Red
+3752,2020,West Virginia,Red,Jackson,Red
+3753,2020,West Virginia,Red,Jefferson,Red
+3754,2020,West Virginia,Red,Kanawha,Red
+3755,2020,West Virginia,Red,Lewis,Red
+3756,2020,West Virginia,Red,Lincoln,Red
+3757,2020,West Virginia,Red,Logan,Red
+3758,2020,West Virginia,Red,McDowell,Red
+3759,2020,West Virginia,Red,Marion,Red
+3760,2020,West Virginia,Red,Marshall,Red
+3761,2020,West Virginia,Red,Mason,Red
+3762,2020,West Virginia,Red,Mercer,Red
+3763,2020,West Virginia,Red,Mineral,Red
+3764,2020,West Virginia,Red,Mingo,Red
+3765,2020,West Virginia,Red,Monongalia,Red
+3766,2020,West Virginia,Red,Monroe,Red
+3767,2020,West Virginia,Red,Morgan,Red
+3768,2020,West Virginia,Red,Nicholas,Red
+3769,2020,West Virginia,Red,Ohio,Red
+3770,2020,West Virginia,Red,Pendleton,Red
+3771,2020,West Virginia,Red,Pleasants,Red
+3772,2020,West Virginia,Red,Pocahontas,Red
+3773,2020,West Virginia,Red,Preston,Red
+3774,2020,West Virginia,Red,Putnam,Red
+3775,2020,West Virginia,Red,Raleigh,Red
+3776,2020,West Virginia,Red,Randolph,Red
+3777,2020,West Virginia,Red,Ritchie,Red
+3778,2020,West Virginia,Red,Roane,Red
+3779,2020,West Virginia,Red,Summers,Red
+3780,2020,West Virginia,Red,Taylor,Red
+3781,2020,West Virginia,Red,Tucker,Red
+3782,2020,West Virginia,Red,Tyler,Red
+3783,2020,West Virginia,Red,Upshur,Red
+3784,2020,West Virginia,Red,Wayne,Red
+3785,2020,West Virginia,Red,Webster,Red
+3786,2020,West Virginia,Red,Wetzel,Red
+3787,2020,West Virginia,Red,Wirt,Red
+3788,2020,West Virginia,Red,Wood,Red
+3789,2020,West Virginia,Red,Wyoming,Red
+3790,2020,Wisconsin,Blue,Adams,Red
+3791,2020,Wisconsin,Blue,Ashland,Blue
+3792,2020,Wisconsin,Blue,Barron,Red
+3793,2020,Wisconsin,Blue,Bayfield,Blue
+3794,2020,Wisconsin,Blue,Brown,Red
+3795,2020,Wisconsin,Blue,Buffalo,Red
+3796,2020,Wisconsin,Blue,Burnett,Red
+3797,2020,Wisconsin,Blue,Calumet,Red
+3798,2020,Wisconsin,Blue,Chippewa,Red
+3799,2020,Wisconsin,Blue,Clark,Red
+3800,2020,Wisconsin,Blue,Columbia,Red
+3801,2020,Wisconsin,Blue,Crawford,Red
+3802,2020,Wisconsin,Blue,Dane,Blue
+3803,2020,Wisconsin,Blue,Dodge,Red
+3804,2020,Wisconsin,Blue,Door,Blue
+3805,2020,Wisconsin,Blue,Douglas,Blue
+3806,2020,Wisconsin,Blue,Dunn,Red
+3807,2020,Wisconsin,Blue,Eau Claire,Blue
+3808,2020,Wisconsin,Blue,Florence,Red
+3809,2020,Wisconsin,Blue,Fond du Lac,Red
+3810,2020,Wisconsin,Blue,Forest,Red
+3811,2020,Wisconsin,Blue,Grant,Red
+3812,2020,Wisconsin,Blue,Green,Blue
+3813,2020,Wisconsin,Blue,Green Lake,Red
+3814,2020,Wisconsin,Blue,Iowa,Blue
+3815,2020,Wisconsin,Blue,Iron,Red
+3816,2020,Wisconsin,Blue,Jackson,Red
+3817,2020,Wisconsin,Blue,Jefferson,Red
+3818,2020,Wisconsin,Blue,Juneau,Red
+3819,2020,Wisconsin,Blue,Kenosha,Red
+3820,2020,Wisconsin,Blue,Kewaunee,Red
+3821,2020,Wisconsin,Blue,La Crosse,Blue
+3822,2020,Wisconsin,Blue,Lafayette,Red
+3823,2020,Wisconsin,Blue,Langlade,Red
+3824,2020,Wisconsin,Blue,Lincoln,Red
+3825,2020,Wisconsin,Blue,Manitowoc,Red
+3826,2020,Wisconsin,Blue,Marathon,Red
+3827,2020,Wisconsin,Blue,Marinette,Red
+3828,2020,Wisconsin,Blue,Marquette,Red
+3829,2020,Wisconsin,Blue,Menominee,Blue
+3830,2020,Wisconsin,Blue,Milwaukee,Blue
+3831,2020,Wisconsin,Blue,Monroe,Red
+3832,2020,Wisconsin,Blue,Oconto,Red
+3833,2020,Wisconsin,Blue,Oneida,Red
+3834,2020,Wisconsin,Blue,Outagamie,Red
+3835,2020,Wisconsin,Blue,Ozaukee,Red
+3836,2020,Wisconsin,Blue,Pepin,Red
+3837,2020,Wisconsin,Blue,Pierce,Red
+3838,2020,Wisconsin,Blue,Polk,Red
+3839,2020,Wisconsin,Blue,Portage,Blue
+3840,2020,Wisconsin,Blue,Price,Red
+3841,2020,Wisconsin,Blue,Racine,Red
+3842,2020,Wisconsin,Blue,Richland,Red
+3843,2020,Wisconsin,Blue,Rock,Blue
+3844,2020,Wisconsin,Blue,Rusk,Red
+3845,2020,Wisconsin,Blue,St. Croix,Red
+3846,2020,Wisconsin,Blue,Sauk,Blue
+3847,2020,Wisconsin,Blue,Sawyer,Red
+3848,2020,Wisconsin,Blue,Shawano,Red
+3849,2020,Wisconsin,Blue,Sheboygan,Red
+3850,2020,Wisconsin,Blue,Taylor,Red
+3851,2020,Wisconsin,Blue,Trempealeau,Red
+3852,2020,Wisconsin,Blue,Vernon,Red
+3853,2020,Wisconsin,Blue,Vilas,Red
+3854,2020,Wisconsin,Blue,Walworth,Red
+3855,2020,Wisconsin,Blue,Washburn,Red
+3856,2020,Wisconsin,Blue,Washington,Red
+3857,2020,Wisconsin,Blue,Waukesha,Red
+3858,2020,Wisconsin,Blue,Waupaca,Red
+3859,2020,Wisconsin,Blue,Waushara,Red
+3860,2020,Wisconsin,Blue,Winnebago,Red
+3861,2020,Wisconsin,Blue,Wood,Red
+3862,2020,Wyoming,Red,Albany,Blue
+3863,2020,Wyoming,Red,Big Horn,Red
+3864,2020,Wyoming,Red,Campbell,Red
+3865,2020,Wyoming,Red,Carbon,Red
+3866,2020,Wyoming,Red,Converse,Red
+3867,2020,Wyoming,Red,Crook,Red
+3868,2020,Wyoming,Red,Fremont,Red
+3869,2020,Wyoming,Red,Goshen,Red
+3870,2020,Wyoming,Red,Hot Springs,Red
+3871,2020,Wyoming,Red,Johnson,Red
+3872,2020,Wyoming,Red,Laramie,Red
+3873,2020,Wyoming,Red,Lincoln,Red
+3874,2020,Wyoming,Red,Natrona,Red
+3875,2020,Wyoming,Red,Niobrara,Red
+3876,2020,Wyoming,Red,Park,Red
+3877,2020,Wyoming,Red,Platte,Red
+3878,2020,Wyoming,Red,Sheridan,Red
+3879,2020,Wyoming,Red,Sublette,Red
+3880,2020,Wyoming,Red,Sweetwater,Red
+3881,2020,Wyoming,Red,Teton,Blue
+3882,2020,Wyoming,Red,Uinta,Red
+3883,2020,Wyoming,Red,Washakie,Red
+3884,2020,Wyoming,Red,Weston,Red
+3885,2020,Georgia,Blue,Appling,Red
+3886,2020,Georgia,Blue,Atkinson,Red
+3887,2020,Georgia,Blue,Bacon,Red
+3888,2020,Georgia,Blue,Baker,Red
+3889,2020,Georgia,Blue,Baldwin,Blue
+3890,2020,Georgia,Blue,Banks,Red
+3891,2020,Georgia,Blue,Barrow,Red
+3892,2020,Georgia,Blue,Bartow,Red
+3893,2020,Georgia,Blue,Ben Hill,Red
+3894,2020,Georgia,Blue,Berrien,Red
+3895,2020,Georgia,Blue,Bibb,Blue
+3896,2020,Georgia,Blue,Bleckley,Red
+3897,2020,Georgia,Blue,Brantley,Red
+3898,2020,Georgia,Blue,Brooks,Red
+3899,2020,Georgia,Blue,Bryan,Red
+3900,2020,Georgia,Blue,Bulloch,Red
+3901,2020,Georgia,Blue,Burke,Red
+3902,2020,Georgia,Blue,Butts,Red
+3903,2020,Georgia,Blue,Calhoun,Blue
+3904,2020,Georgia,Blue,Camden,Red
+3905,2020,Georgia,Blue,Candler,Red
+3906,2020,Georgia,Blue,Carroll,Red
+3907,2020,Georgia,Blue,Catoosa,Red
+3908,2020,Georgia,Blue,Charlton,Red
+3909,2020,Georgia,Blue,Chatham,Blue
+3910,2020,Georgia,Blue,Chattahoochee,Red
+3911,2020,Georgia,Blue,Chattooga,Red
+3912,2020,Georgia,Blue,Cherokee,Red
+3913,2020,Georgia,Blue,Clarke,Blue
+3914,2020,Georgia,Blue,Clay,Blue
+3915,2020,Georgia,Blue,Clayton,Blue
+3916,2020,Georgia,Blue,Clinch,Red
+3917,2020,Georgia,Blue,Cobb,Blue
+3918,2020,Georgia,Blue,Coffee,Red
+3919,2020,Georgia,Blue,Colquitt,Red
+3920,2020,Georgia,Blue,Columbia,Red
+3921,2020,Georgia,Blue,Cook,Red
+3922,2020,Georgia,Blue,Coweta,Red
+3923,2020,Georgia,Blue,Crawford,Red
+3924,2020,Georgia,Blue,Crisp,Red
+3925,2020,Georgia,Blue,Dade,Red
+3926,2020,Georgia,Blue,Dawson,Red
+3927,2020,Georgia,Blue,Decatur,Red
+3928,2020,Georgia,Blue,DeKalb,Blue
+3929,2020,Georgia,Blue,Dodge,Red
+3930,2020,Georgia,Blue,Dooly,Red
+3931,2020,Georgia,Blue,Dougherty,Blue
+3932,2020,Georgia,Blue,Douglas,Blue
+3933,2020,Georgia,Blue,Early,Red
+3934,2020,Georgia,Blue,Echols,Red
+3935,2020,Georgia,Blue,Effingham,Red
+3936,2020,Georgia,Blue,Elbert,Red
+3937,2020,Georgia,Blue,Emanuel,Red
+3938,2020,Georgia,Blue,Evans,Red
+3939,2020,Georgia,Blue,Fannin,Red
+3940,2020,Georgia,Blue,Fayette,Red
+3941,2020,Georgia,Blue,Floyd,Red
+3942,2020,Georgia,Blue,Forsyth,Red
+3943,2020,Georgia,Blue,Franklin,Red
+3944,2020,Georgia,Blue,Fulton,Blue
+3945,2020,Georgia,Blue,Gilmer,Red
+3946,2020,Georgia,Blue,Glascock,Red
+3947,2020,Georgia,Blue,Glynn,Red
+3948,2020,Georgia,Blue,Gordon,Red
+3949,2020,Georgia,Blue,Grady,Red
+3950,2020,Georgia,Blue,Greene,Red
+3951,2020,Georgia,Blue,Gwinnett,Blue
+3952,2020,Georgia,Blue,Habersham,Red
+3953,2020,Georgia,Blue,Hall,Red
+3954,2020,Georgia,Blue,Hancock,Blue
+3955,2020,Georgia,Blue,Haralson,Red
+3956,2020,Georgia,Blue,Harris,Red
+3957,2020,Georgia,Blue,Hart,Red
+3958,2020,Georgia,Blue,Heard,Red
+3959,2020,Georgia,Blue,Henry,Blue
+3960,2020,Georgia,Blue,Houston,Red
+3961,2020,Georgia,Blue,Irwin,Red
+3962,2020,Georgia,Blue,Jackson,Red
+3963,2020,Georgia,Blue,Jasper,Red
+3964,2020,Georgia,Blue,Jeff Davis,Red
+3965,2020,Georgia,Blue,Jefferson,Blue
+3966,2020,Georgia,Blue,Jenkins,Red
+3967,2020,Georgia,Blue,Johnson,Red
+3968,2020,Georgia,Blue,Jones,Red
+3969,2020,Georgia,Blue,Lamar,Red
+3970,2020,Georgia,Blue,Lanier,Red
+3971,2020,Georgia,Blue,Laurens,Red
+3972,2020,Georgia,Blue,Lee,Red
+3973,2020,Georgia,Blue,Liberty,Blue
+3974,2020,Georgia,Blue,Lincoln,Red
+3975,2020,Georgia,Blue,Long,Red
+3976,2020,Georgia,Blue,Lowndes,Red
+3977,2020,Georgia,Blue,Lumpkin,Red
+3978,2020,Georgia,Blue,McDuffie,Red
+3979,2020,Georgia,Blue,McIntosh,Red
+3980,2020,Georgia,Blue,Macon,Blue
+3981,2020,Georgia,Blue,Madison,Red
+3982,2020,Georgia,Blue,Marion,Red
+3983,2020,Georgia,Blue,Meriwether,Red
+3984,2020,Georgia,Blue,Miller,Red
+3985,2020,Georgia,Blue,Mitchell,Red
+3986,2020,Georgia,Blue,Monroe,Red
+3987,2020,Georgia,Blue,Montgomery,Red
+3988,2020,Georgia,Blue,Morgan,Red
+3989,2020,Georgia,Blue,Murray,Red
+3990,2020,Georgia,Blue,Muscogee,Blue
+3991,2020,Georgia,Blue,Newton,Blue
+3992,2020,Georgia,Blue,Oconee,Red
+3993,2020,Georgia,Blue,Oglethorpe,Red
+3994,2020,Georgia,Blue,Paulding,Red
+3995,2020,Georgia,Blue,Peach,Red
+3996,2020,Georgia,Blue,Pickens,Red
+3997,2020,Georgia,Blue,Pierce,Red
+3998,2020,Georgia,Blue,Pike,Red
+3999,2020,Georgia,Blue,Polk,Red
+4000,2020,Georgia,Blue,Pulaski,Red
+4001,2020,Georgia,Blue,Putnam,Red
+4002,2020,Georgia,Blue,Quitman,Red
+4003,2020,Georgia,Blue,Rabun,Red
+4004,2020,Georgia,Blue,Randolph,Blue
+4005,2020,Georgia,Blue,Richmond,Blue
+4006,2020,Georgia,Blue,Rockdale,Blue
+4007,2020,Georgia,Blue,Schley,Red
+4008,2020,Georgia,Blue,Screven,Red
+4009,2020,Georgia,Blue,Seminole,Red
+4010,2020,Georgia,Blue,Spalding,Red
+4011,2020,Georgia,Blue,Stephens,Red
+4012,2020,Georgia,Blue,Stewart,Blue
+4013,2020,Georgia,Blue,Sumter,Blue
+4014,2020,Georgia,Blue,Talbot,Blue
+4015,2020,Georgia,Blue,Taliaferro,Blue
+4016,2020,Georgia,Blue,Tattnall,Red
+4017,2020,Georgia,Blue,Taylor,Red
+4018,2020,Georgia,Blue,Telfair,Red
+4019,2020,Georgia,Blue,Terrell,Blue
+4020,2020,Georgia,Blue,Thomas,Red
+4021,2020,Georgia,Blue,Tift,Red
+4022,2020,Georgia,Blue,Toombs,Red
+4023,2020,Georgia,Blue,Towns,Red
+4024,2020,Georgia,Blue,Treutlen,Red
+4025,2020,Georgia,Blue,Troup,Red
+4026,2020,Georgia,Blue,Turner,Red
+4027,2020,Georgia,Blue,Twiggs,Red
+4028,2020,Georgia,Blue,Union,Red
+4029,2020,Georgia,Blue,Upson,Red
+4030,2020,Georgia,Blue,Walker,Red
+4031,2020,Georgia,Blue,Walton,Red
+4032,2020,Georgia,Blue,Ware,Red
+4033,2020,Georgia,Blue,Warren,Blue
+4034,2020,Georgia,Blue,Washington,Blue
+4035,2020,Georgia,Blue,Wayne,Red
+4036,2020,Georgia,Blue,Webster,Red
+4037,2020,Georgia,Blue,Wheeler,Red
+4038,2020,Georgia,Blue,White,Red
+4039,2020,Georgia,Blue,Whitfield,Red
+4040,2020,Georgia,Blue,Wilcox,Red
+4041,2020,Georgia,Blue,Wilkes,Red
+4042,2020,Georgia,Blue,Wilkinson,Red
+4043,2020,Georgia,Blue,Worth,Red
+4044,2020,North Carolina,Red,Alamance,Red
+4045,2020,North Carolina,Red,Alexander,Red
+4046,2020,North Carolina,Red,Alleghany,Red
+4047,2020,North Carolina,Red,Anson,Blue
+4048,2020,North Carolina,Red,Ashe,Red
+4049,2020,North Carolina,Red,Avery,Red
+4050,2020,North Carolina,Red,Beaufort,Red
+4051,2020,North Carolina,Red,Bertie,Blue
+4052,2020,North Carolina,Red,Bladen,Red
+4053,2020,North Carolina,Red,Brunswick,Red
+4054,2020,North Carolina,Red,Buncombe,Blue
+4055,2020,North Carolina,Red,Burke,Red
+4056,2020,North Carolina,Red,Cabarrus,Red
+4057,2020,North Carolina,Red,Caldwell,Red
+4058,2020,North Carolina,Red,Camden,Red
+4059,2020,North Carolina,Red,Carteret,Red
+4060,2020,North Carolina,Red,Caswell,Red
+4061,2020,North Carolina,Red,Catawba,Red
+4062,2020,North Carolina,Red,Chatham,Blue
+4063,2020,North Carolina,Red,Cherokee,Red
+4064,2020,North Carolina,Red,Chowan,Red
+4065,2020,North Carolina,Red,Clay,Red
+4066,2020,North Carolina,Red,Cleveland,Red
+4067,2020,North Carolina,Red,Columbus,Red
+4068,2020,North Carolina,Red,Craven,Red
+4069,2020,North Carolina,Red,Cumberland,Blue
+4070,2020,North Carolina,Red,Currituck,Red
+4071,2020,North Carolina,Red,Dare,Red
+4072,2020,North Carolina,Red,Davidson,Red
+4073,2020,North Carolina,Red,Davie,Red
+4074,2020,North Carolina,Red,Duplin,Red
+4075,2020,North Carolina,Red,Durham,Blue
+4076,2020,North Carolina,Red,Edgecombe,Blue
+4077,2020,North Carolina,Red,Forsyth,Blue
+4078,2020,North Carolina,Red,Franklin,Red
+4079,2020,North Carolina,Red,Gaston,Red
+4080,2020,North Carolina,Red,Gates,Red
+4081,2020,North Carolina,Red,Graham,Red
+4082,2020,North Carolina,Red,Granville,Red
+4083,2020,North Carolina,Red,Greene,Red
+4084,2020,North Carolina,Red,Guilford,Blue
+4085,2020,North Carolina,Red,Halifax,Blue
+4086,2020,North Carolina,Red,Harnett,Red
+4087,2020,North Carolina,Red,Haywood,Red
+4088,2020,North Carolina,Red,Henderson,Red
+4089,2020,North Carolina,Red,Hertford,Blue
+4090,2020,North Carolina,Red,Hoke,Blue
+4091,2020,North Carolina,Red,Hyde,Red
+4092,2020,North Carolina,Red,Iredell,Red
+4093,2020,North Carolina,Red,Jackson,Red
+4094,2020,North Carolina,Red,Johnston,Red
+4095,2020,North Carolina,Red,Jones,Red
+4096,2020,North Carolina,Red,Lee,Red
+4097,2020,North Carolina,Red,Lenoir,Red
+4098,2020,North Carolina,Red,Lincoln,Red
+4099,2020,North Carolina,Red,McDowell,Red
+4100,2020,North Carolina,Red,Macon,Red
+4101,2020,North Carolina,Red,Madison,Red
+4102,2020,North Carolina,Red,Martin,Red
+4103,2020,North Carolina,Red,Mecklenburg,Blue
+4104,2020,North Carolina,Red,Mitchell,Red
+4105,2020,North Carolina,Red,Montgomery,Red
+4106,2020,North Carolina,Red,Moore,Red
+4107,2020,North Carolina,Red,Nash,Blue
+4108,2020,North Carolina,Red,New Hanover,Blue
+4109,2020,North Carolina,Red,Northampton,Blue
+4110,2020,North Carolina,Red,Onslow,Red
+4111,2020,North Carolina,Red,Orange,Blue
+4112,2020,North Carolina,Red,Pamlico,Red
+4113,2020,North Carolina,Red,Pasquotank,Blue
+4114,2020,North Carolina,Red,Pender,Red
+4115,2020,North Carolina,Red,Perquimans,Red
+4116,2020,North Carolina,Red,Person,Red
+4117,2020,North Carolina,Red,Pitt,Blue
+4118,2020,North Carolina,Red,Polk,Red
+4119,2020,North Carolina,Red,Randolph,Red
+4120,2020,North Carolina,Red,Richmond,Red
+4121,2020,North Carolina,Red,Robeson,Red
+4122,2020,North Carolina,Red,Rockingham,Red
+4123,2020,North Carolina,Red,Rowan,Red
+4124,2020,North Carolina,Red,Rutherford,Red
+4125,2020,North Carolina,Red,Sampson,Red
+4126,2020,North Carolina,Red,Scotland,Red
+4127,2020,North Carolina,Red,Stanly,Red
+4128,2020,North Carolina,Red,Stokes,Red
+4129,2020,North Carolina,Red,Surry,Red
+4130,2020,North Carolina,Red,Swain,Red
+4131,2020,North Carolina,Red,Transylvania,Red
+4132,2020,North Carolina,Red,Tyrrell,Red
+4133,2020,North Carolina,Red,Union,Red
+4134,2020,North Carolina,Red,Vance,Blue
+4135,2020,North Carolina,Red,Wake,Blue
+4136,2020,North Carolina,Red,Warren,Blue
+4137,2020,North Carolina,Red,Washington,Blue
+4138,2020,North Carolina,Red,Watauga,Blue
+4139,2020,North Carolina,Red,Wayne,Red
+4140,2020,North Carolina,Red,Wilkes,Red
+4141,2020,North Carolina,Red,Wilson,Blue
+4142,2020,North Carolina,Red,Yadkin,Red
+4143,2020,North Carolina,Red,Yancey,Red
+4144,2020,Alabama,Red,Autauga,Red
+4145,2020,Alabama,Red,Baldwin,Red
+4146,2020,Alabama,Red,Barbour,Red
+4147,2020,Alabama,Red,Bibb,Red
+4148,2020,Alabama,Red,Blount,Red
+4149,2020,Alabama,Red,Bullock,Blue
+4150,2020,Alabama,Red,Butler,Red
+4151,2020,Alabama,Red,Calhoun,Red
+4152,2020,Alabama,Red,Chambers,Red
+4153,2020,Alabama,Red,Cherokee,Red
+4154,2020,Alabama,Red,Chilton,Red
+4155,2020,Alabama,Red,Choctaw,Red
+4156,2020,Alabama,Red,Clarke,Red
+4157,2020,Alabama,Red,Clay,Red
+4158,2020,Alabama,Red,Cleburne,Red
+4159,2020,Alabama,Red,Coffee,Red
+4160,2020,Alabama,Red,Colbert,Red
+4161,2020,Alabama,Red,Conecuh,Red
+4162,2020,Alabama,Red,Coosa,Red
+4163,2020,Alabama,Red,Covington,Red
+4164,2020,Alabama,Red,Crenshaw,Red
+4165,2020,Alabama,Red,Cullman,Red
+4166,2020,Alabama,Red,Dale,Red
+4167,2020,Alabama,Red,Dallas,Blue
+4168,2020,Alabama,Red,DeKalb,Red
+4169,2020,Alabama,Red,Elmore,Red
+4170,2020,Alabama,Red,Escambia,Red
+4171,2020,Alabama,Red,Etowah,Red
+4172,2020,Alabama,Red,Fayette,Red
+4173,2020,Alabama,Red,Franklin,Red
+4174,2020,Alabama,Red,Geneva,Red
+4175,2020,Alabama,Red,Greene,Blue
+4176,2020,Alabama,Red,Hale,Blue
+4177,2020,Alabama,Red,Henry,Red
+4178,2020,Alabama,Red,Houston,Red
+4179,2020,Alabama,Red,Jackson,Red
+4180,2020,Alabama,Red,Jefferson,Blue
+4181,2020,Alabama,Red,Lamar,Red
+4182,2020,Alabama,Red,Lauderdale,Red
+4183,2020,Alabama,Red,Lawrence,Red
+4184,2020,Alabama,Red,Lee,Red
+4185,2020,Alabama,Red,Limestone,Red
+4186,2020,Alabama,Red,Lowndes,Blue
+4187,2020,Alabama,Red,Macon,Blue
+4188,2020,Alabama,Red,Madison,Red
+4189,2020,Alabama,Red,Marengo,Blue
+4190,2020,Alabama,Red,Marion,Red
+4191,2020,Alabama,Red,Marshall,Red
+4192,2020,Alabama,Red,Mobile,Red
+4193,2020,Alabama,Red,Monroe,Red
+4194,2020,Alabama,Red,Montgomery,Blue
+4195,2020,Alabama,Red,Morgan,Red
+4196,2020,Alabama,Red,Perry,Blue
+4197,2020,Alabama,Red,Pickens,Red
+4198,2020,Alabama,Red,Pike,Red
+4199,2020,Alabama,Red,Randolph,Red
+4200,2020,Alabama,Red,Russell,Blue
+4201,2020,Alabama,Red,St. Clair,Red
+4202,2020,Alabama,Red,Shelby,Red
+4203,2020,Alabama,Red,Sumter,Blue
+4204,2020,Alabama,Red,Talladega,Red
+4205,2020,Alabama,Red,Tallapoosa,Red
+4206,2020,Alabama,Red,Tuscaloosa,Red
+4207,2020,Alabama,Red,Walker,Red
+4208,2020,Alabama,Red,Washington,Red
+4209,2020,Alabama,Red,Wilcox,Blue
+4210,2020,Alabama,Red,Winston,Red
+4211,2020,Alaska,Red,ED 1,Red
+4212,2020,Alaska,Red,ED 2,Red
+4213,2020,Alaska,Red,ED 3,Red
+4214,2020,Alaska,Red,ED 4,Blue
+4215,2020,Alaska,Red,ED 5,Blue
+4216,2020,Alaska,Red,ED 6,Red
+4217,2020,Alaska,Red,ED 7,Red
+4218,2020,Alaska,Red,ED 8,Red
+4219,2020,Alaska,Red,ED 9,Red
+4220,2020,Alaska,Red,ED 10,Red
+4221,2020,Alaska,Red,ED 11,Red
+4222,2020,Alaska,Red,ED 12,Red
+4223,2020,Alaska,Red,ED 13,Red
+4224,2020,Alaska,Red,ED 14,Red
+4225,2020,Alaska,Red,ED 15,Red
+4226,2020,Alaska,Red,ED 16,Blue
+4227,2020,Alaska,Red,ED 17,Red
+4228,2020,Alaska,Red,ED 18,Blue
+4229,2020,Alaska,Red,ED 19,Blue
+4230,2020,Alaska,Red,ED 20,Blue
+4231,2020,Alaska,Red,ED 21,Blue
+4232,2020,Alaska,Red,ED 22,Red
+4233,2020,Alaska,Red,ED 23,Blue
+4234,2020,Alaska,Red,ED 24,Red
+4235,2020,Alaska,Red,ED 25,Blue
+4236,2020,Alaska,Red,ED 26,Red
+4237,2020,Alaska,Red,ED 27,Blue
+4238,2020,Alaska,Red,ED 28,Red
+4239,2020,Alaska,Red,ED 29,Red
+4240,2020,Alaska,Red,ED 30,Red
+4241,2020,Alaska,Red,ED 31,Red
+4242,2020,Alaska,Red,ED 32,Red
+4243,2020,Alaska,Red,ED 33,Blue
+4244,2020,Alaska,Red,ED 34,Blue
+4245,2020,Alaska,Red,ED 35,Blue
+4246,2020,Alaska,Red,ED 36,Red
+4247,2020,Alaska,Red,ED 37,Red
+4248,2020,Alaska,Red,ED 38,Blue
+4249,2020,Alaska,Red,ED 39,Blue
+4250,2020,Alaska,Red,ED 40,Blue
+4251,2020,Arizona,Blue,Apache,Blue
+4252,2020,Arizona,Blue,Cochise,Red
+4253,2020,Arizona,Blue,Coconino,Blue
+4254,2020,Arizona,Blue,Gila,Red
+4255,2020,Arizona,Blue,Graham,Red
+4256,2020,Arizona,Blue,Greenlee,Red
+4257,2020,Arizona,Blue,La Paz,Red
+4258,2020,Arizona,Blue,Maricopa,Blue
+4259,2020,Arizona,Blue,Mohave,Red
+4260,2020,Arizona,Blue,Navajo,Red
+4261,2020,Arizona,Blue,Pima,Blue
+4262,2020,Arizona,Blue,Pinal,Red
+4263,2020,Arizona,Blue,Santa Cruz,Blue
+4264,2020,Arizona,Blue,Yavapai,Red
+4265,2020,Arizona,Blue,Yuma,Red
+4266,2020,Arkansas,Red,Arkansas,Red
+4267,2020,Arkansas,Red,Ashley,Red
+4268,2020,Arkansas,Red,Baxter,Red
+4269,2020,Arkansas,Red,Benton,Red
+4270,2020,Arkansas,Red,Boone,Red
+4271,2020,Arkansas,Red,Bradley,Red
+4272,2020,Arkansas,Red,Calhoun,Red
+4273,2020,Arkansas,Red,Carroll,Red
+4274,2020,Arkansas,Red,Chicot,Blue
+4275,2020,Arkansas,Red,Clark,Red
+4276,2020,Arkansas,Red,Clay,Red
+4277,2020,Arkansas,Red,Cleburne,Red
+4278,2020,Arkansas,Red,Cleveland,Red
+4279,2020,Arkansas,Red,Columbia,Red
+4280,2020,Arkansas,Red,Conway,Red
+4281,2020,Arkansas,Red,Craighead,Red
+4282,2020,Arkansas,Red,Crawford,Red
+4283,2020,Arkansas,Red,Crittenden,Blue
+4284,2020,Arkansas,Red,Cross,Red
+4285,2020,Arkansas,Red,Dallas,Red
+4286,2020,Arkansas,Red,Desha,Blue
+4287,2020,Arkansas,Red,Drew,Red
+4288,2020,Arkansas,Red,Faulkner,Red
+4289,2020,Arkansas,Red,Franklin,Red
+4290,2020,Arkansas,Red,Fulton,Red
+4291,2020,Arkansas,Red,Garland,Red
+4292,2020,Arkansas,Red,Grant,Red
+4293,2020,Arkansas,Red,Greene,Red
+4294,2020,Arkansas,Red,Hempstead,Red
+4295,2020,Arkansas,Red,Hot Spring,Red
+4296,2020,Arkansas,Red,Howard,Red
+4297,2020,Arkansas,Red,Independence,Red
+4298,2020,Arkansas,Red,Izard,Red
+4299,2020,Arkansas,Red,Jackson,Red
+4300,2020,Arkansas,Red,Jefferson,Blue
+4301,2020,Arkansas,Red,Johnson,Red
+4302,2020,Arkansas,Red,Lafayette,Red
+4303,2020,Arkansas,Red,Lawrence,Red
+4304,2020,Arkansas,Red,Lee,Blue
+4305,2020,Arkansas,Red,Lincoln,Red
+4306,2020,Arkansas,Red,Little River,Red
+4307,2020,Arkansas,Red,Logan,Red
+4308,2020,Arkansas,Red,Lonoke,Red
+4309,2020,Arkansas,Red,Madison,Red
+4310,2020,Arkansas,Red,Marion,Red
+4311,2020,Arkansas,Red,Miller,Red
+4312,2020,Arkansas,Red,Mississippi,Red
+4313,2020,Arkansas,Red,Monroe,Red
+4314,2020,Arkansas,Red,Montgomery,Red
+4315,2020,Arkansas,Red,Nevada,Red
+4316,2020,Arkansas,Red,Newton,Red
+4317,2020,Arkansas,Red,Ouachita,Red
+4318,2020,Arkansas,Red,Perry,Red
+4319,2020,Arkansas,Red,Phillips,Blue
+4320,2020,Arkansas,Red,Pike,Red
+4321,2020,Arkansas,Red,Poinsett,Red
+4322,2020,Arkansas,Red,Polk,Red
+4323,2020,Arkansas,Red,Pope,Red
+4324,2020,Arkansas,Red,Prairie,Red
+4325,2020,Arkansas,Red,Pulaski,Blue
+4326,2020,Arkansas,Red,Randolph,Red
+4327,2020,Arkansas,Red,Saint Francis,Blue
+4328,2020,Arkansas,Red,Saline,Red
+4329,2020,Arkansas,Red,Scott,Red
+4330,2020,Arkansas,Red,Searcy,Red
+4331,2020,Arkansas,Red,Sebastian,Red
+4332,2020,Arkansas,Red,Sevier,Red
+4333,2020,Arkansas,Red,Sharp,Red
+4334,2020,Arkansas,Red,Stone,Red
+4335,2020,Arkansas,Red,Union,Red
+4336,2020,Arkansas,Red,Van Buren,Red
+4337,2020,Arkansas,Red,Washington,Red
+4338,2020,Arkansas,Red,White,Red
+4339,2020,Arkansas,Red,Woodruff,Red
+4340,2020,Arkansas,Red,Yell,Red
+4341,2020,California,Blue,Alameda,Blue
+4342,2020,California,Blue,Alpine,Blue
+4343,2020,California,Blue,Amador,Red
+4344,2020,California,Blue,Butte,Blue
+4345,2020,California,Blue,Calaveras,Red
+4346,2020,California,Blue,Colusa,Red
+4347,2020,California,Blue,Contra Costa,Blue
+4348,2020,California,Blue,Del Norte,Red
+4349,2020,California,Blue,El Dorado,Red
+4350,2020,California,Blue,Fresno,Blue
+4351,2020,California,Blue,Glenn,Red
+4352,2020,California,Blue,Humboldt,Blue
+4353,2020,California,Blue,Imperial,Blue
+4354,2020,California,Blue,Inyo,Blue
+4355,2020,California,Blue,Kern,Red
+4356,2020,California,Blue,Kings,Red
+4357,2020,California,Blue,Lake,Blue
+4358,2020,California,Blue,Lassen,Red
+4359,2020,California,Blue,Los Angeles,Blue
+4360,2020,California,Blue,Madera,Red
+4361,2020,California,Blue,Marin,Blue
+4362,2020,California,Blue,Mariposa,Red
+4363,2020,California,Blue,Mendocino,Blue
+4364,2020,California,Blue,Merced,Blue
+4365,2020,California,Blue,Modoc,Red
+4366,2020,California,Blue,Mono,Blue
+4367,2020,California,Blue,Monterey,Blue
+4368,2020,California,Blue,Napa,Blue
+4369,2020,California,Blue,Nevada,Blue
+4370,2020,California,Blue,Orange,Blue
+4371,2020,California,Blue,Placer,Red
+4372,2020,California,Blue,Plumas,Red
+4373,2020,California,Blue,Riverside,Blue
+4374,2020,California,Blue,Sacramento,Blue
+4375,2020,California,Blue,San Benito,Blue
+4376,2020,California,Blue,San Bernardino,Blue
+4377,2020,California,Blue,San Diego,Blue
+4378,2020,California,Blue,San Francisco,Blue
+4379,2020,California,Blue,San Joaquin,Blue
+4380,2020,California,Blue,San Luis Obispo,Blue
+4381,2020,California,Blue,San Mateo,Blue
+4382,2020,California,Blue,Santa Barbara,Blue
+4383,2020,California,Blue,Santa Clara,Blue
+4384,2020,California,Blue,Santa Cruz,Blue
+4385,2020,California,Blue,Shasta,Red
+4386,2020,California,Blue,Sierra,Red
+4387,2020,California,Blue,Siskiyou,Red
+4388,2020,California,Blue,Solano,Blue
+4389,2020,California,Blue,Sonoma,Blue
+4390,2020,California,Blue,Stanislaus,Blue
+4391,2020,California,Blue,Sutter,Red
+4392,2020,California,Blue,Tehama,Red
+4393,2020,California,Blue,Trinity,Red
+4394,2020,California,Blue,Tulare,Red
+4395,2020,California,Blue,Tuolumne,Red
+4396,2020,California,Blue,Ventura,Blue
+4397,2020,California,Blue,Yolo,Blue
+4398,2020,California,Blue,Yuba,Red
+4399,2020,Colorado,Blue,Adams,Blue
+4400,2020,Colorado,Blue,Alamosa,Red
+4401,2020,Colorado,Blue,Arapahoe,Blue
+4402,2020,Colorado,Blue,Archuleta,Red
+4403,2020,Colorado,Blue,Baca,Red
+4404,2020,Colorado,Blue,Bent,Red
+4405,2020,Colorado,Blue,Boulder,Blue
+4406,2020,Colorado,Blue,Chaffee,Blue
+4407,2020,Colorado,Blue,Cheyenne,Red
+4408,2020,Colorado,Blue,Clear Creek,Blue
+4409,2020,Colorado,Blue,Conejos,Red
+4410,2020,Colorado,Blue,Costilla,Blue
+4411,2020,Colorado,Blue,Crowley,Red
+4412,2020,Colorado,Blue,Custer,Red
+4413,2020,Colorado,Blue,Delta,Red
+4414,2020,Colorado,Blue,Denver,Blue
+4415,2020,Colorado,Blue,Dolores,Red
+4416,2020,Colorado,Blue,Douglas,Red
+4417,2020,Colorado,Blue,Eagle,Blue
+4418,2020,Colorado,Blue,Elbert,Red
+4419,2020,Colorado,Blue,El Paso,Red
+4420,2020,Colorado,Blue,Fremont,Red
+4421,2020,Colorado,Blue,Garfield,Blue
+4422,2020,Colorado,Blue,Gilpin,Blue
+4423,2020,Colorado,Blue,Grand,Red
+4424,2020,Colorado,Blue,Gunnison,Blue
+4425,2020,Colorado,Blue,Hinsdale,Red
+4426,2020,Colorado,Blue,Huerfano,Red
+4427,2020,Colorado,Blue,Jackson,Red
+4428,2020,Colorado,Blue,Jefferson,Blue
+4429,2020,Colorado,Blue,Kiowa,Red
+4430,2020,Colorado,Blue,Kit Carson,Red
+4431,2020,Colorado,Blue,Lake,Blue
+4432,2020,Colorado,Blue,La Plata,Blue
+4433,2020,Colorado,Blue,Larimer,Blue
+4434,2020,Colorado,Blue,Las Animas,Red
+4435,2020,Colorado,Blue,Lincoln,Red
+4436,2020,Colorado,Blue,Logan,Red
+4437,2020,Colorado,Blue,Mesa,Red
+4438,2020,Colorado,Blue,Mineral,Red
+4439,2020,Colorado,Blue,Moffat,Red
+4440,2020,Colorado,Blue,Montezuma,Red
+4441,2020,Colorado,Blue,Montrose,Red
+4442,2020,Colorado,Blue,Morgan,Red
+4443,2020,Colorado,Blue,Otero,Red
+4444,2020,Colorado,Blue,Ouray,Blue
+4445,2020,Colorado,Blue,Park,Red
+4446,2020,Colorado,Blue,Phillips,Red
+4447,2020,Colorado,Blue,Pitkin,Blue
+4448,2020,Colorado,Blue,Prowers,Red
+4449,2020,Colorado,Blue,Pueblo,Blue
+4450,2020,Colorado,Blue,Rio Blanco,Red
+4451,2020,Colorado,Blue,Rio Grande,Red
+4452,2020,Colorado,Blue,Routt,Blue
+4453,2020,Colorado,Blue,Saguache,Blue
+4454,2020,Colorado,Blue,San Juan,Blue
+4455,2020,Colorado,Blue,San Miguel,Blue
+4456,2020,Colorado,Blue,Sedgwick,Red
+4457,2020,Colorado,Blue,Summit,Blue
+4458,2020,Colorado,Blue,Teller,Red
+4459,2020,Colorado,Blue,Washington,Red
+4460,2020,Colorado,Blue,Weld,Red
+4461,2020,Colorado,Blue,Yuma,Red
+4462,2020,Colorado,Blue,Broomfield,Blue
+4463,2020,Connecticut,Blue,Andover,Blue
+4464,2020,Connecticut,Blue,Ansonia,Blue
+4465,2020,Connecticut,Blue,Ashford,Blue
+4466,2020,Connecticut,Blue,Avon,Blue
+4467,2020,Connecticut,Blue,Barkhamsted,Red
+4468,2020,Connecticut,Blue,Beacon Falls,Red
+4469,2020,Connecticut,Blue,Berlin,Red
+4470,2020,Connecticut,Blue,Bethany,Blue
+4471,2020,Connecticut,Blue,Bethel,Blue
+4472,2020,Connecticut,Blue,Bethlehem,Red
+4473,2020,Connecticut,Blue,Bloomfield,Blue
+4474,2020,Connecticut,Blue,Bolton,Blue
+4475,2020,Connecticut,Blue,Bozrah,Red
+4476,2020,Connecticut,Blue,Branford,Blue
+4477,2020,Connecticut,Blue,Bridgeport,Blue
+4478,2020,Connecticut,Blue,Bridgewater,Blue
+4479,2020,Connecticut,Blue,Bristol,Blue
+4480,2020,Connecticut,Blue,Brookfield,Blue
+4481,2020,Connecticut,Blue,Brooklyn,Red
+4482,2020,Connecticut,Blue,Burlington,Blue
+4483,2020,Connecticut,Blue,Canaan,Blue
+4484,2020,Connecticut,Blue,Canterbury,Red
+4485,2020,Connecticut,Blue,Canton,Blue
+4486,2020,Connecticut,Blue,Chaplin,Red
+4487,2020,Connecticut,Blue,Cheshire,Blue
+4488,2020,Connecticut,Blue,Chester,Blue
+4489,2020,Connecticut,Blue,Clinton,Blue
+4490,2020,Connecticut,Blue,Colchester,Blue
+4491,2020,Connecticut,Blue,Colebrook,Red
+4492,2020,Connecticut,Blue,Columbia,Blue
+4493,2020,Connecticut,Blue,Cornwall,Blue
+4494,2020,Connecticut,Blue,Coventry,Blue
+4495,2020,Connecticut,Blue,Cromwell,Blue
+4496,2020,Connecticut,Blue,Danbury,Blue
+4497,2020,Connecticut,Blue,Darien,Blue
+4498,2020,Connecticut,Blue,Deep River,Blue
+4499,2020,Connecticut,Blue,Derby,Blue
+4500,2020,Connecticut,Blue,Durham,Blue
+4501,2020,Connecticut,Blue,Eastford,Red
+4502,2020,Connecticut,Blue,East Granby,Blue
+4503,2020,Connecticut,Blue,East Haddam,Blue
+4504,2020,Connecticut,Blue,East Hampton,Blue
+4505,2020,Connecticut,Blue,East Hartford,Blue
+4506,2020,Connecticut,Blue,East Haven,Red
+4507,2020,Connecticut,Blue,East Lyme,Blue
+4508,2020,Connecticut,Blue,Easton,Blue
+4509,2020,Connecticut,Blue,East Windsor,Blue
+4510,2020,Connecticut,Blue,Ellington,Blue
+4511,2020,Connecticut,Blue,Enfield,Blue
+4512,2020,Connecticut,Blue,Essex,Blue
+4513,2020,Connecticut,Blue,Fairfield,Blue
+4514,2020,Connecticut,Blue,Farmington,Blue
+4515,2020,Connecticut,Blue,Franklin,Red
+4516,2020,Connecticut,Blue,Glastonbury,Blue
+4517,2020,Connecticut,Blue,Goshen,Red
+4518,2020,Connecticut,Blue,Granby,Blue
+4519,2020,Connecticut,Blue,Greenwich,Blue
+4520,2020,Connecticut,Blue,Griswold,Red
+4521,2020,Connecticut,Blue,Groton,Blue
+4522,2020,Connecticut,Blue,Guilford,Blue
+4523,2020,Connecticut,Blue,Haddam,Blue
+4524,2020,Connecticut,Blue,Hamden,Blue
+4525,2020,Connecticut,Blue,Hampton,Blue
+4526,2020,Connecticut,Blue,Hartford,Blue
+4527,2020,Connecticut,Blue,Hartland,Red
+4528,2020,Connecticut,Blue,Harwinton,Red
+4529,2020,Connecticut,Blue,Hebron,Blue
+4530,2020,Connecticut,Blue,Kent,Blue
+4531,2020,Connecticut,Blue,Killingly,Red
+4532,2020,Connecticut,Blue,Killingworth,Blue
+4533,2020,Connecticut,Blue,Lebanon,Red
+4534,2020,Connecticut,Blue,Ledyard,Blue
+4535,2020,Connecticut,Blue,Lisbon,Red
+4536,2020,Connecticut,Blue,Litchfield,Blue
+4537,2020,Connecticut,Blue,Lyme,Blue
+4538,2020,Connecticut,Blue,Madison,Blue
+4539,2020,Connecticut,Blue,Manchester,Blue
+4540,2020,Connecticut,Blue,Mansfield,Blue
+4541,2020,Connecticut,Blue,Marlborough,Blue
+4542,2020,Connecticut,Blue,Meriden,Blue
+4543,2020,Connecticut,Blue,Middlebury,Red
+4544,2020,Connecticut,Blue,Middlefield,Blue
+4545,2020,Connecticut,Blue,Middletown,Blue
+4546,2020,Connecticut,Blue,Milford,Blue
+4547,2020,Connecticut,Blue,Monroe,Red
+4548,2020,Connecticut,Blue,Montville,Blue
+4549,2020,Connecticut,Blue,Morris,Red
+4550,2020,Connecticut,Blue,Naugatuck,Red
+4551,2020,Connecticut,Blue,New Britain,Blue
+4552,2020,Connecticut,Blue,New Canaan,Blue
+4553,2020,Connecticut,Blue,New Fairfield,Red
+4554,2020,Connecticut,Blue,New Hartford,Red
+4555,2020,Connecticut,Blue,New Haven,Blue
+4556,2020,Connecticut,Blue,Newington,Blue
+4557,2020,Connecticut,Blue,New London,Blue
+4558,2020,Connecticut,Blue,New Milford,Blue
+4559,2020,Connecticut,Blue,Newtown,Blue
+4560,2020,Connecticut,Blue,Norfolk,Blue
+4561,2020,Connecticut,Blue,North Branford,Red
+4562,2020,Connecticut,Blue,North Canaan,Blue
+4563,2020,Connecticut,Blue,North Haven,Red
+4564,2020,Connecticut,Blue,North Stonington,Red
+4565,2020,Connecticut,Blue,Norwalk,Blue
+4566,2020,Connecticut,Blue,Norwich,Blue
+4567,2020,Connecticut,Blue,Old Lyme,Blue
+4568,2020,Connecticut,Blue,Old Saybrook,Blue
+4569,2020,Connecticut,Blue,Orange,Blue
+4570,2020,Connecticut,Blue,Oxford,Red
+4571,2020,Connecticut,Blue,Plainfield,Red
+4572,2020,Connecticut,Blue,Plainville,Red
+4573,2020,Connecticut,Blue,Plymouth,Red
+4574,2020,Connecticut,Blue,Pomfret,Blue
+4575,2020,Connecticut,Blue,Portland,Blue
+4576,2020,Connecticut,Blue,Preston,Red
+4577,2020,Connecticut,Blue,Prospect,Red
+4578,2020,Connecticut,Blue,Putnam,Red
+4579,2020,Connecticut,Blue,Redding,Blue
+4580,2020,Connecticut,Blue,Ridgefield,Blue
+4581,2020,Connecticut,Blue,Rocky Hill,Blue
+4582,2020,Connecticut,Blue,Roxbury,Blue
+4583,2020,Connecticut,Blue,Salem,Red
+4584,2020,Connecticut,Blue,Salisbury,Blue
+4585,2020,Connecticut,Blue,Scotland,Red
+4586,2020,Connecticut,Blue,Seymour,Red
+4587,2020,Connecticut,Blue,Sharon,Blue
+4588,2020,Connecticut,Blue,Shelton,Red
+4589,2020,Connecticut,Blue,Sherman,Blue
+4590,2020,Connecticut,Blue,Simsbury,Blue
+4591,2020,Connecticut,Blue,Somers,Red
+4592,2020,Connecticut,Blue,Southbury,Blue
+4593,2020,Connecticut,Blue,Southington,Red
+4594,2020,Connecticut,Blue,South Windsor,Blue
+4595,2020,Connecticut,Blue,Sprague,Red
+4596,2020,Connecticut,Blue,Stafford,Red
+4597,2020,Connecticut,Blue,Stamford,Blue
+4598,2020,Connecticut,Blue,Sterling,Red
+4599,2020,Connecticut,Blue,Stonington,Blue
+4600,2020,Connecticut,Blue,Stratford,Blue
+4601,2020,Connecticut,Blue,Suffield,Blue
+4602,2020,Connecticut,Blue,Thomaston,Red
+4603,2020,Connecticut,Blue,Thompson,Red
+4604,2020,Connecticut,Blue,Tolland,Blue
+4605,2020,Connecticut,Blue,Torrington,Red
+4606,2020,Connecticut,Blue,Trumbull,Blue
+4607,2020,Connecticut,Blue,Union,Red
+4608,2020,Connecticut,Blue,Vernon,Blue
+4609,2020,Connecticut,Blue,Voluntown,Red
+4610,2020,Connecticut,Blue,Wallingford,Blue
+4611,2020,Connecticut,Blue,Warren,Red
+4612,2020,Connecticut,Blue,Washington,Blue
+4613,2020,Connecticut,Blue,Waterbury,Blue
+4614,2020,Connecticut,Blue,Waterford,Blue
+4615,2020,Connecticut,Blue,Watertown,Red
+4616,2020,Connecticut,Blue,Westbrook,Blue
+4617,2020,Connecticut,Blue,West Hartford,Blue
+4618,2020,Connecticut,Blue,West Haven,Blue
+4619,2020,Connecticut,Blue,Weston,Blue
+4620,2020,Connecticut,Blue,Westport,Blue
+4621,2020,Connecticut,Blue,Wethersfield,Blue
+4622,2020,Connecticut,Blue,Willington,Blue
+4623,2020,Connecticut,Blue,Wilton,Blue
+4624,2020,Connecticut,Blue,Winchester,Red
+4625,2020,Connecticut,Blue,Windham,Blue
+4626,2020,Connecticut,Blue,Windsor,Blue
+4627,2020,Connecticut,Blue,Windsor Locks,Blue
+4628,2020,Connecticut,Blue,Wolcott,Red
+4629,2020,Connecticut,Blue,Woodbridge,Blue
+4630,2020,Connecticut,Blue,Woodbury,Red
+4631,2020,Connecticut,Blue,Woodstock,Blue
